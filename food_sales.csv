@@ -1,0 +1,2001 @@
+date,city,location,restaurant,dish_name,price,units_sold,weather_condition
+2024-06-20,Delhi,Lajpat Nagar,Biryani Blues,Paneer Butter Masala,220,150,Humid
+2024-01-26,Delhi,Connaught Place,Delhi Darbar,Paneer Butter Masala,220,89,Rainy
+2024-02-09,Delhi,Hauz Khas,The Spice Route,Chole Bhature,120,52,Cool
+2024-01-15,Delhi,Vasant Kunj,Local Zaika,Amritsari Kulcha,160,91,Sunny
+2024-03-05,Delhi,Rohini,The Spice Route,Dal Makhani,180,22,Rainy
+2024-04-11,Delhi,Lajpat Nagar,Local Zaika,Butter Naan,40,61,Rainy
+2024-04-16,Delhi,Karol Bagh,Biryani Blues,Aloo Tikki,80,128,Humid
+2024-01-27,Delhi,Chandni Chowk,Haldiram's,Paneer Butter Masala,220,138,Humid
+2024-06-23,Delhi,Janakpuri,Delhi Darbar,Amritsari Kulcha,160,143,Sunny
+2024-01-28,Delhi,Vasant Kunj,Zaika-e-Dilli,Chole Bhature,120,79,Rainy
+2024-01-29,Delhi,Chandni Chowk,Biryani Blues,Momos,100,19,Cloudy
+2024-05-22,Delhi,Saket,Local Zaika,Dal Makhani,180,12,Cloudy
+2024-02-09,Delhi,Connaught Place,Local Zaika,Amritsari Kulcha,160,88,Cool
+2024-01-28,Delhi,Connaught Place,Biryani Blues,Chole Bhature,120,119,Cloudy
+2024-05-06,Delhi,Vasant Kunj,Zaika-e-Dilli,Butter Naan,40,43,Sunny
+2024-04-25,Delhi,Karol Bagh,Haldiram's,Rajma Chawal,140,135,Rainy
+2024-01-13,Delhi,Dwarka,Zaika-e-Dilli,Chicken Biryani,250,75,Sunny
+2024-06-09,Delhi,Karol Bagh,Delhi Darbar,Momos,100,84,Humid
+2024-01-03,Delhi,Chandni Chowk,Flavors of Delhi,Paneer Butter Masala,220,46,Humid
+2024-03-01,Delhi,Saket,Punjab Grill,Paneer Butter Masala,220,49,Humid
+2024-06-06,Delhi,Lajpat Nagar,Delhi Darbar,Momos,100,60,Humid
+2024-01-21,Delhi,Saket,Zaika-e-Dilli,Chicken Biryani,250,18,Rainy
+2024-05-20,Delhi,Chandni Chowk,The Spice Route,Dal Makhani,180,61,Cool
+2024-04-02,Delhi,Saket,The Spice Route,Chicken Biryani,250,25,Cool
+2024-01-04,Delhi,Janakpuri,Punjab Grill,Butter Naan,40,84,Rainy
+2024-04-26,Delhi,Lajpat Nagar,The Spice Route,Momos,100,75,Rainy
+2024-05-02,Delhi,Chandni Chowk,Flavors of Delhi,Chicken Biryani,250,62,Cloudy
+2024-04-11,Delhi,Chandni Chowk,The Spice Route,Butter Naan,40,31,Cool
+2024-06-17,Delhi,Lajpat Nagar,Delhi Darbar,Dal Makhani,180,41,Sunny
+2024-02-01,Delhi,Vasant Kunj,Biryani Blues,Dal Makhani,180,58,Sunny
+2024-01-31,Delhi,Karol Bagh,Biryani Blues,Aloo Tikki,80,54,Cool
+2024-01-19,Delhi,Vasant Kunj,Haldiram's,North Indian Thali,200,33,Cloudy
+2024-04-19,Delhi,Janakpuri,Zaika-e-Dilli,Chicken Biryani,250,99,Humid
+2024-04-12,Delhi,Karol Bagh,Haldiram's,Paneer Butter Masala,220,55,Humid
+2024-05-10,Delhi,Chandni Chowk,Delhi Darbar,Paneer Butter Masala,220,118,Cool
+2024-06-19,Delhi,Lajpat Nagar,Haldiram's,Amritsari Kulcha,160,125,Humid
+2024-05-05,Delhi,Dwarka,Local Zaika,Aloo Tikki,80,16,Sunny
+2024-01-04,Delhi,Connaught Place,Punjab Grill,Amritsari Kulcha,160,95,Cool
+2024-03-17,Delhi,Vasant Kunj,Zaika-e-Dilli,Chicken Biryani,250,111,Cool
+2024-04-30,Delhi,Chandni Chowk,Haldiram's,Paneer Butter Masala,220,51,Humid
+2024-06-08,Delhi,Hauz Khas,Biryani Blues,Amritsari Kulcha,160,11,Sunny
+2024-01-30,Delhi,Connaught Place,The Spice Route,Rajma Chawal,140,62,Cloudy
+2024-03-16,Delhi,Hauz Khas,Flavors of Delhi,Dal Makhani,180,99,Cloudy
+2024-03-14,Delhi,Chandni Chowk,Haldiram's,Chicken Biryani,250,110,Humid
+2024-01-19,Delhi,Chandni Chowk,Biryani Blues,Butter Naan,40,80,Humid
+2024-03-16,Delhi,Karol Bagh,Delhi Darbar,Butter Naan,40,29,Rainy
+2024-04-13,Delhi,Janakpuri,The Spice Route,North Indian Thali,200,123,Cloudy
+2024-05-10,Delhi,Chandni Chowk,Biryani Blues,North Indian Thali,200,18,Sunny
+2024-05-25,Delhi,Connaught Place,Delhi Darbar,Rajma Chawal,140,25,Sunny
+2024-01-03,Delhi,Karol Bagh,The Spice Route,Aloo Tikki,80,135,Sunny
+2024-03-26,Delhi,Chandni Chowk,Delhi Darbar,Paneer Butter Masala,220,62,Cool
+2024-06-14,Delhi,Dwarka,Local Zaika,Rajma Chawal,140,135,Cloudy
+2024-01-21,Delhi,Hauz Khas,Punjab Grill,North Indian Thali,200,147,Humid
+2024-02-04,Delhi,Chandni Chowk,Local Zaika,North Indian Thali,200,20,Sunny
+2024-01-25,Delhi,Karol Bagh,Haldiram's,Momos,100,139,Rainy
+2024-01-03,Delhi,Rohini,The Spice Route,Paneer Butter Masala,220,103,Humid
+2024-05-20,Delhi,Rohini,The Spice Route,Butter Naan,40,36,Rainy
+2024-04-11,Delhi,Hauz Khas,Local Zaika,Momos,100,46,Cool
+2024-02-02,Delhi,Karol Bagh,Delhi Darbar,Aloo Tikki,80,117,Cool
+2024-02-04,Delhi,Lajpat Nagar,The Spice Route,Butter Naan,40,137,Rainy
+2024-02-10,Delhi,Dwarka,Punjab Grill,Rajma Chawal,140,31,Rainy
+2024-02-12,Delhi,Hauz Khas,Biryani Blues,Butter Naan,40,145,Humid
+2024-06-01,Delhi,Vasant Kunj,Punjab Grill,Paneer Butter Masala,220,38,Rainy
+2024-05-20,Delhi,Dwarka,Local Zaika,Chicken Biryani,250,57,Cloudy
+2024-03-15,Delhi,Janakpuri,Zaika-e-Dilli,Amritsari Kulcha,160,104,Sunny
+2024-01-25,Delhi,Karol Bagh,Biryani Blues,Chole Bhature,120,68,Rainy
+2024-04-25,Delhi,Lajpat Nagar,Zaika-e-Dilli,Momos,100,85,Cool
+2024-03-19,Delhi,Lajpat Nagar,Local Zaika,Chole Bhature,120,138,Cool
+2024-03-09,Delhi,Vasant Kunj,Zaika-e-Dilli,Momos,100,43,Sunny
+2024-06-22,Delhi,Chandni Chowk,Delhi Darbar,Momos,100,61,Sunny
+2024-01-25,Delhi,Hauz Khas,Punjab Grill,Rajma Chawal,140,38,Sunny
+2024-04-09,Delhi,Dwarka,Local Zaika,Rajma Chawal,140,72,Rainy
+2024-02-12,Delhi,Karol Bagh,Delhi Darbar,Chole Bhature,120,54,Sunny
+2024-02-17,Delhi,Dwarka,Local Zaika,Butter Naan,40,63,Sunny
+2024-02-21,Delhi,Karol Bagh,Delhi Darbar,North Indian Thali,200,26,Humid
+2024-01-04,Delhi,Lajpat Nagar,Local Zaika,Chole Bhature,120,130,Cool
+2024-05-11,Delhi,Rohini,The Spice Route,Dal Makhani,180,57,Humid
+2024-05-03,Delhi,Rohini,The Spice Route,North Indian Thali,200,66,Rainy
+2024-04-02,Delhi,Karol Bagh,Delhi Darbar,Momos,100,35,Sunny
+2024-06-08,Delhi,Hauz Khas,Local Zaika,Momos,100,106,Rainy
+2024-06-13,Delhi,Rohini,Delhi Darbar,Paneer Butter Masala,220,127,Sunny
+2024-02-04,Delhi,Karol Bagh,Zaika-e-Dilli,Rajma Chawal,140,121,Cool
+2024-01-15,Delhi,Janakpuri,Zaika-e-Dilli,Chole Bhature,120,63,Cool
+2024-03-28,Delhi,Karol Bagh,Punjab Grill,Chole Bhature,120,131,Humid
+2024-02-01,Delhi,Lajpat Nagar,The Spice Route,Rajma Chawal,140,60,Cloudy
+2024-05-18,Delhi,Rohini,Biryani Blues,Amritsari Kulcha,160,95,Humid
+2024-06-23,Delhi,Rohini,Biryani Blues,Chicken Biryani,250,115,Humid
+2024-06-17,Delhi,Connaught Place,Zaika-e-Dilli,North Indian Thali,200,113,Cool
+2024-02-12,Delhi,Chandni Chowk,Delhi Darbar,Butter Naan,40,47,Humid
+2024-04-08,Delhi,Lajpat Nagar,Local Zaika,Amritsari Kulcha,160,135,Sunny
+2024-01-09,Delhi,Rohini,The Spice Route,Chicken Biryani,250,38,Cloudy
+2024-01-04,Delhi,Dwarka,Flavors of Delhi,Amritsari Kulcha,160,34,Cool
+2024-04-06,Delhi,Rohini,Delhi Darbar,Dal Makhani,180,13,Cloudy
+2024-03-03,Delhi,Rohini,Local Zaika,Chicken Biryani,250,92,Cool
+2024-03-28,Delhi,Rohini,Zaika-e-Dilli,Aloo Tikki,80,125,Sunny
+2024-02-18,Delhi,Dwarka,Delhi Darbar,Butter Naan,40,83,Rainy
+2024-01-10,Delhi,Hauz Khas,Zaika-e-Dilli,North Indian Thali,200,123,Humid
+2024-04-15,Delhi,Hauz Khas,Biryani Blues,Chole Bhature,120,53,Humid
+2024-03-12,Delhi,Saket,Haldiram's,North Indian Thali,200,23,Cool
+2024-01-13,Delhi,Connaught Place,Zaika-e-Dilli,Paneer Butter Masala,220,24,Humid
+2024-03-05,Delhi,Dwarka,Biryani Blues,North Indian Thali,200,30,Cool
+2024-04-03,Delhi,Janakpuri,Delhi Darbar,Paneer Butter Masala,220,60,Rainy
+2024-05-30,Delhi,Connaught Place,Biryani Blues,Paneer Butter Masala,220,49,Cloudy
+2024-01-15,Delhi,Karol Bagh,Haldiram's,Chicken Biryani,250,48,Humid
+2024-05-28,Delhi,Connaught Place,Local Zaika,Rajma Chawal,140,11,Rainy
+2024-06-18,Delhi,Dwarka,Punjab Grill,Aloo Tikki,80,38,Humid
+2024-05-24,Delhi,Lajpat Nagar,Delhi Darbar,Aloo Tikki,80,56,Sunny
+2024-01-17,Delhi,Connaught Place,Punjab Grill,Amritsari Kulcha,160,43,Sunny
+2024-01-07,Delhi,Rohini,Local Zaika,Aloo Tikki,80,95,Cloudy
+2024-06-15,Delhi,Chandni Chowk,Zaika-e-Dilli,North Indian Thali,200,86,Cloudy
+2024-05-23,Delhi,Vasant Kunj,Haldiram's,Chole Bhature,120,64,Sunny
+2024-04-25,Delhi,Chandni Chowk,Zaika-e-Dilli,Momos,100,66,Sunny
+2024-04-09,Delhi,Rohini,Flavors of Delhi,Amritsari Kulcha,160,107,Cool
+2024-04-11,Delhi,Karol Bagh,Zaika-e-Dilli,Chole Bhature,120,121,Cool
+2024-04-29,Delhi,Vasant Kunj,Flavors of Delhi,Amritsari Kulcha,160,16,Cool
+2024-05-12,Delhi,Hauz Khas,Local Zaika,Amritsari Kulcha,160,45,Humid
+2024-04-20,Delhi,Connaught Place,Zaika-e-Dilli,Dal Makhani,180,117,Cloudy
+2024-06-24,Delhi,Janakpuri,The Spice Route,Dal Makhani,180,108,Cloudy
+2024-04-26,Delhi,Rohini,Biryani Blues,Dal Makhani,180,69,Humid
+2024-01-29,Delhi,Rohini,Local Zaika,Paneer Butter Masala,220,20,Cool
+2024-03-09,Delhi,Rohini,Local Zaika,Aloo Tikki,80,140,Cloudy
+2024-02-04,Delhi,Vasant Kunj,Flavors of Delhi,Chole Bhature,120,62,Sunny
+2024-05-19,Delhi,Karol Bagh,Biryani Blues,Momos,100,77,Humid
+2024-06-05,Delhi,Saket,Zaika-e-Dilli,Amritsari Kulcha,160,38,Humid
+2024-04-13,Delhi,Lajpat Nagar,Delhi Darbar,Amritsari Kulcha,160,134,Rainy
+2024-05-03,Delhi,Dwarka,Biryani Blues,Aloo Tikki,80,16,Cool
+2024-02-27,Delhi,Lajpat Nagar,Haldiram's,Chicken Biryani,250,117,Humid
+2024-06-14,Delhi,Vasant Kunj,Zaika-e-Dilli,Butter Naan,40,11,Sunny
+2024-04-14,Delhi,Chandni Chowk,Local Zaika,Momos,100,91,Humid
+2024-03-29,Delhi,Chandni Chowk,Biryani Blues,Butter Naan,40,86,Cloudy
+2024-04-02,Delhi,Dwarka,Delhi Darbar,Paneer Butter Masala,220,38,Cool
+2024-06-06,Delhi,Vasant Kunj,Punjab Grill,Dal Makhani,180,129,Humid
+2024-06-24,Delhi,Vasant Kunj,Punjab Grill,Butter Naan,40,54,Sunny
+2024-06-11,Delhi,Vasant Kunj,Biryani Blues,Amritsari Kulcha,160,144,Cloudy
+2024-06-10,Delhi,Janakpuri,Biryani Blues,Paneer Butter Masala,220,80,Rainy
+2024-01-13,Delhi,Saket,The Spice Route,Amritsari Kulcha,160,62,Rainy
+2024-01-15,Delhi,Hauz Khas,Zaika-e-Dilli,Momos,100,50,Humid
+2024-06-04,Delhi,Janakpuri,Biryani Blues,Momos,100,144,Sunny
+2024-05-05,Delhi,Saket,Zaika-e-Dilli,North Indian Thali,200,85,Cloudy
+2024-03-18,Delhi,Connaught Place,Punjab Grill,Amritsari Kulcha,160,10,Humid
+2024-05-02,Delhi,Vasant Kunj,Punjab Grill,Butter Naan,40,28,Cloudy
+2024-06-27,Delhi,Karol Bagh,Flavors of Delhi,Butter Naan,40,10,Humid
+2024-04-16,Delhi,Rohini,Punjab Grill,Chole Bhature,120,82,Cool
+2024-04-13,Delhi,Lajpat Nagar,Haldiram's,Chole Bhature,120,33,Cool
+2024-04-12,Delhi,Janakpuri,Haldiram's,Paneer Butter Masala,220,16,Rainy
+2024-05-26,Delhi,Karol Bagh,Haldiram's,Paneer Butter Masala,220,69,Cool
+2024-01-23,Delhi,Karol Bagh,Punjab Grill,Aloo Tikki,80,120,Humid
+2024-04-09,Delhi,Dwarka,Haldiram's,Dal Makhani,180,136,Cool
+2024-05-11,Delhi,Saket,Local Zaika,North Indian Thali,200,113,Humid
+2024-05-04,Delhi,Vasant Kunj,Zaika-e-Dilli,Aloo Tikki,80,75,Rainy
+2024-04-19,Delhi,Saket,Flavors of Delhi,Paneer Butter Masala,220,89,Cool
+2024-06-16,Delhi,Hauz Khas,The Spice Route,Amritsari Kulcha,160,24,Humid
+2024-04-16,Delhi,Karol Bagh,Punjab Grill,North Indian Thali,200,107,Humid
+2024-04-16,Delhi,Dwarka,The Spice Route,Chicken Biryani,250,131,Humid
+2024-04-12,Delhi,Karol Bagh,Flavors of Delhi,Chole Bhature,120,120,Rainy
+2024-01-28,Delhi,Saket,Biryani Blues,Momos,100,29,Cool
+2024-02-01,Delhi,Chandni Chowk,Local Zaika,Paneer Butter Masala,220,70,Rainy
+2024-01-24,Delhi,Lajpat Nagar,Delhi Darbar,Aloo Tikki,80,93,Rainy
+2024-04-29,Delhi,Janakpuri,Zaika-e-Dilli,Chole Bhature,120,25,Cloudy
+2024-01-04,Delhi,Karol Bagh,Zaika-e-Dilli,Dal Makhani,180,148,Cloudy
+2024-06-26,Delhi,Lajpat Nagar,Punjab Grill,North Indian Thali,200,32,Cool
+2024-04-29,Delhi,Lajpat Nagar,The Spice Route,Aloo Tikki,80,19,Cool
+2024-04-05,Delhi,Lajpat Nagar,Biryani Blues,Chole Bhature,120,13,Cloudy
+2024-05-30,Delhi,Saket,Biryani Blues,Amritsari Kulcha,160,91,Rainy
+2024-06-16,Delhi,Dwarka,Flavors of Delhi,Rajma Chawal,140,110,Cloudy
+2024-02-15,Delhi,Janakpuri,Zaika-e-Dilli,North Indian Thali,200,24,Rainy
+2024-01-06,Delhi,Dwarka,Local Zaika,Dal Makhani,180,119,Humid
+2024-04-21,Delhi,Rohini,Zaika-e-Dilli,Momos,100,137,Sunny
+2024-05-03,Delhi,Rohini,Punjab Grill,Chicken Biryani,250,102,Cool
+2024-04-29,Delhi,Saket,Zaika-e-Dilli,Butter Naan,40,99,Cloudy
+2024-02-13,Delhi,Hauz Khas,The Spice Route,Chicken Biryani,250,22,Cool
+2024-02-18,Delhi,Janakpuri,Haldiram's,Dal Makhani,180,62,Cloudy
+2024-02-19,Delhi,Karol Bagh,Zaika-e-Dilli,Aloo Tikki,80,149,Sunny
+2024-05-05,Delhi,Hauz Khas,Punjab Grill,Dal Makhani,180,101,Cloudy
+2024-04-19,Delhi,Connaught Place,Zaika-e-Dilli,Paneer Butter Masala,220,121,Sunny
+2024-04-25,Delhi,Dwarka,Punjab Grill,Chole Bhature,120,141,Cool
+2024-05-23,Delhi,Connaught Place,Flavors of Delhi,Butter Naan,40,22,Cool
+2024-02-08,Delhi,Hauz Khas,Punjab Grill,Amritsari Kulcha,160,131,Sunny
+2024-05-17,Delhi,Rohini,Punjab Grill,North Indian Thali,200,70,Cool
+2024-05-30,Delhi,Rohini,Punjab Grill,Chicken Biryani,250,90,Humid
+2024-05-26,Delhi,Rohini,The Spice Route,Dal Makhani,180,91,Rainy
+2024-06-21,Delhi,Karol Bagh,Haldiram's,Momos,100,77,Rainy
+2024-04-17,Delhi,Rohini,Local Zaika,Dal Makhani,180,123,Humid
+2024-04-01,Delhi,Connaught Place,Flavors of Delhi,Dal Makhani,180,112,Sunny
+2024-04-05,Delhi,Karol Bagh,Zaika-e-Dilli,Momos,100,47,Humid
+2024-03-30,Delhi,Karol Bagh,Haldiram's,Dal Makhani,180,50,Rainy
+2024-02-07,Delhi,Karol Bagh,Haldiram's,North Indian Thali,200,24,Cool
+2024-06-28,Delhi,Connaught Place,Flavors of Delhi,Paneer Butter Masala,220,22,Humid
+2024-05-16,Delhi,Hauz Khas,Local Zaika,Amritsari Kulcha,160,126,Cool
+2024-01-11,Delhi,Rohini,Punjab Grill,Chole Bhature,120,124,Cloudy
+2024-01-07,Delhi,Lajpat Nagar,Zaika-e-Dilli,Dal Makhani,180,135,Cloudy
+2024-05-13,Delhi,Chandni Chowk,Zaika-e-Dilli,Chole Bhature,120,25,Cloudy
+2024-01-13,Delhi,Janakpuri,Flavors of Delhi,Chicken Biryani,250,107,Cool
+2024-02-01,Delhi,Connaught Place,Delhi Darbar,Amritsari Kulcha,160,37,Sunny
+2024-01-28,Delhi,Rohini,Flavors of Delhi,Amritsari Kulcha,160,22,Rainy
+2024-02-16,Delhi,Saket,Biryani Blues,North Indian Thali,200,86,Cool
+2024-05-24,Delhi,Chandni Chowk,Haldiram's,North Indian Thali,200,14,Sunny
+2024-03-29,Delhi,Hauz Khas,Delhi Darbar,Amritsari Kulcha,160,139,Rainy
+2024-02-04,Delhi,Hauz Khas,Flavors of Delhi,Momos,100,61,Sunny
+2024-02-25,Delhi,Dwarka,Local Zaika,Chicken Biryani,250,22,Sunny
+2024-06-03,Delhi,Chandni Chowk,The Spice Route,Chicken Biryani,250,125,Sunny
+2024-05-27,Delhi,Connaught Place,Punjab Grill,Paneer Butter Masala,220,143,Rainy
+2024-05-06,Delhi,Janakpuri,Punjab Grill,Chole Bhature,120,56,Rainy
+2024-01-14,Delhi,Janakpuri,Delhi Darbar,Butter Naan,40,124,Rainy
+2024-06-26,Delhi,Chandni Chowk,Haldiram's,Dal Makhani,180,147,Cool
+2024-01-18,Delhi,Dwarka,The Spice Route,Butter Naan,40,98,Cool
+2024-01-25,Delhi,Janakpuri,Local Zaika,Rajma Chawal,140,123,Sunny
+2024-05-23,Delhi,Hauz Khas,Zaika-e-Dilli,Rajma Chawal,140,73,Cloudy
+2024-04-03,Delhi,Janakpuri,The Spice Route,Chole Bhature,120,125,Rainy
+2024-06-23,Delhi,Vasant Kunj,Local Zaika,Chole Bhature,120,73,Cloudy
+2024-06-13,Delhi,Janakpuri,Local Zaika,North Indian Thali,200,64,Cloudy
+2024-06-24,Delhi,Rohini,Local Zaika,Rajma Chawal,140,58,Rainy
+2024-04-04,Delhi,Vasant Kunj,The Spice Route,Paneer Butter Masala,220,144,Rainy
+2024-02-16,Delhi,Karol Bagh,Punjab Grill,Butter Naan,40,114,Sunny
+2024-04-30,Delhi,Rohini,The Spice Route,Chicken Biryani,250,49,Cloudy
+2024-06-18,Delhi,Dwarka,Haldiram's,Butter Naan,40,67,Sunny
+2024-02-09,Delhi,Rohini,The Spice Route,Momos,100,25,Cool
+2024-03-15,Delhi,Saket,Biryani Blues,Chole Bhature,120,92,Humid
+2024-03-14,Delhi,Karol Bagh,Biryani Blues,Paneer Butter Masala,220,98,Sunny
+2024-05-12,Delhi,Chandni Chowk,Haldiram's,Paneer Butter Masala,220,128,Sunny
+2024-02-23,Delhi,Janakpuri,The Spice Route,Amritsari Kulcha,160,140,Rainy
+2024-03-01,Delhi,Saket,Local Zaika,Butter Naan,40,140,Humid
+2024-05-30,Delhi,Karol Bagh,Flavors of Delhi,Rajma Chawal,140,140,Humid
+2024-02-14,Delhi,Karol Bagh,Flavors of Delhi,Rajma Chawal,140,131,Cool
+2024-06-06,Delhi,Rohini,Punjab Grill,Paneer Butter Masala,220,51,Cool
+2024-03-04,Delhi,Connaught Place,Haldiram's,Momos,100,97,Humid
+2024-05-23,Delhi,Connaught Place,Zaika-e-Dilli,Dal Makhani,180,106,Sunny
+2024-01-04,Delhi,Janakpuri,Haldiram's,Dal Makhani,180,127,Rainy
+2024-01-25,Delhi,Connaught Place,The Spice Route,Rajma Chawal,140,111,Humid
+2024-04-27,Delhi,Rohini,The Spice Route,Momos,100,148,Rainy
+2024-04-07,Delhi,Karol Bagh,Biryani Blues,Rajma Chawal,140,137,Sunny
+2024-04-26,Delhi,Chandni Chowk,The Spice Route,Dal Makhani,180,84,Cool
+2024-02-20,Delhi,Janakpuri,Haldiram's,Chole Bhature,120,110,Sunny
+2024-04-12,Delhi,Connaught Place,Delhi Darbar,Momos,100,21,Humid
+2024-02-02,Delhi,Lajpat Nagar,The Spice Route,North Indian Thali,200,43,Humid
+2024-02-27,Delhi,Vasant Kunj,Haldiram's,Paneer Butter Masala,220,127,Rainy
+2024-03-25,Delhi,Karol Bagh,Biryani Blues,North Indian Thali,200,92,Cool
+2024-01-06,Delhi,Karol Bagh,Delhi Darbar,Paneer Butter Masala,220,113,Rainy
+2024-05-08,Delhi,Lajpat Nagar,Local Zaika,Dal Makhani,180,60,Humid
+2024-02-26,Delhi,Connaught Place,Zaika-e-Dilli,Dal Makhani,180,18,Cool
+2024-03-17,Delhi,Vasant Kunj,Delhi Darbar,North Indian Thali,200,44,Sunny
+2024-03-11,Delhi,Dwarka,Flavors of Delhi,Amritsari Kulcha,160,51,Rainy
+2024-03-01,Delhi,Saket,Punjab Grill,North Indian Thali,200,111,Sunny
+2024-01-25,Delhi,Rohini,Flavors of Delhi,Dal Makhani,180,28,Cloudy
+2024-02-17,Delhi,Dwarka,Flavors of Delhi,Chole Bhature,120,16,Cool
+2024-02-16,Delhi,Connaught Place,Biryani Blues,Chicken Biryani,250,57,Humid
+2024-01-12,Delhi,Janakpuri,Biryani Blues,Rajma Chawal,140,68,Cloudy
+2024-06-14,Delhi,Hauz Khas,Local Zaika,Amritsari Kulcha,160,106,Cool
+2024-06-11,Delhi,Dwarka,The Spice Route,North Indian Thali,200,95,Sunny
+2024-05-07,Delhi,Dwarka,Haldiram's,Amritsari Kulcha,160,33,Rainy
+2024-04-24,Delhi,Rohini,Haldiram's,Dal Makhani,180,40,Rainy
+2024-02-24,Delhi,Karol Bagh,Local Zaika,North Indian Thali,200,141,Cloudy
+2024-02-09,Delhi,Vasant Kunj,Haldiram's,Amritsari Kulcha,160,45,Sunny
+2024-03-30,Delhi,Connaught Place,Haldiram's,North Indian Thali,200,48,Humid
+2024-04-03,Delhi,Vasant Kunj,Biryani Blues,Chicken Biryani,250,89,Cool
+2024-05-09,Delhi,Vasant Kunj,The Spice Route,Chicken Biryani,250,89,Cool
+2024-03-09,Delhi,Vasant Kunj,Delhi Darbar,Amritsari Kulcha,160,148,Cloudy
+2024-06-03,Delhi,Rohini,Flavors of Delhi,Amritsari Kulcha,160,22,Cool
+2024-05-11,Delhi,Chandni Chowk,Biryani Blues,Momos,100,99,Cloudy
+2024-04-22,Delhi,Rohini,The Spice Route,Butter Naan,40,105,Sunny
+2024-06-27,Delhi,Dwarka,Zaika-e-Dilli,Rajma Chawal,140,149,Rainy
+2024-01-30,Delhi,Chandni Chowk,Local Zaika,Rajma Chawal,140,134,Sunny
+2024-06-02,Delhi,Lajpat Nagar,Punjab Grill,Chole Bhature,120,135,Rainy
+2024-03-24,Delhi,Connaught Place,Delhi Darbar,Dal Makhani,180,75,Humid
+2024-06-15,Delhi,Chandni Chowk,Haldiram's,Chole Bhature,120,150,Humid
+2024-06-25,Delhi,Dwarka,The Spice Route,Dal Makhani,180,93,Humid
+2024-05-17,Delhi,Vasant Kunj,Delhi Darbar,Paneer Butter Masala,220,64,Humid
+2024-03-06,Delhi,Janakpuri,Haldiram's,Momos,100,91,Humid
+2024-03-05,Delhi,Chandni Chowk,Delhi Darbar,Chicken Biryani,250,136,Cloudy
+2024-06-08,Delhi,Hauz Khas,Delhi Darbar,Paneer Butter Masala,220,17,Humid
+2024-02-08,Delhi,Dwarka,Haldiram's,Paneer Butter Masala,220,86,Cool
+2024-04-03,Delhi,Saket,Local Zaika,North Indian Thali,200,19,Cool
+2024-03-19,Delhi,Hauz Khas,Zaika-e-Dilli,Amritsari Kulcha,160,96,Rainy
+2024-05-22,Delhi,Janakpuri,Delhi Darbar,Momos,100,84,Rainy
+2024-04-23,Delhi,Saket,Flavors of Delhi,Rajma Chawal,140,134,Humid
+2024-05-31,Delhi,Chandni Chowk,Punjab Grill,Paneer Butter Masala,220,23,Cloudy
+2024-01-20,Delhi,Vasant Kunj,Zaika-e-Dilli,Momos,100,102,Cloudy
+2024-03-15,Delhi,Chandni Chowk,Flavors of Delhi,Chole Bhature,120,68,Sunny
+2024-02-14,Delhi,Rohini,Flavors of Delhi,North Indian Thali,200,111,Rainy
+2024-05-12,Delhi,Hauz Khas,Delhi Darbar,Momos,100,115,Sunny
+2024-06-20,Delhi,Vasant Kunj,Local Zaika,Butter Naan,40,42,Cool
+2024-04-29,Delhi,Chandni Chowk,Delhi Darbar,Dal Makhani,180,83,Cloudy
+2024-05-07,Delhi,Hauz Khas,Zaika-e-Dilli,Dal Makhani,180,52,Cool
+2024-06-09,Delhi,Saket,Haldiram's,Paneer Butter Masala,220,139,Sunny
+2024-03-07,Delhi,Dwarka,Flavors of Delhi,Chicken Biryani,250,129,Humid
+2024-06-28,Delhi,Vasant Kunj,Zaika-e-Dilli,Amritsari Kulcha,160,138,Sunny
+2024-05-18,Delhi,Saket,Flavors of Delhi,Dal Makhani,180,21,Cloudy
+2024-02-14,Delhi,Karol Bagh,Biryani Blues,Chicken Biryani,250,29,Sunny
+2024-06-07,Delhi,Hauz Khas,The Spice Route,Chicken Biryani,250,137,Humid
+2024-06-19,Delhi,Chandni Chowk,Punjab Grill,Rajma Chawal,140,24,Cool
+2024-05-22,Delhi,Janakpuri,Local Zaika,Aloo Tikki,80,28,Rainy
+2024-03-29,Delhi,Rohini,Haldiram's,Dal Makhani,180,140,Rainy
+2024-06-21,Delhi,Connaught Place,Biryani Blues,Butter Naan,40,94,Rainy
+2024-04-30,Delhi,Hauz Khas,Biryani Blues,Butter Naan,40,57,Cloudy
+2024-06-15,Delhi,Janakpuri,Haldiram's,North Indian Thali,200,93,Rainy
+2024-03-15,Delhi,Janakpuri,Flavors of Delhi,Chicken Biryani,250,146,Humid
+2024-05-14,Delhi,Hauz Khas,Delhi Darbar,Paneer Butter Masala,220,64,Humid
+2024-01-25,Delhi,Dwarka,Haldiram's,Chole Bhature,120,73,Humid
+2024-05-26,Delhi,Lajpat Nagar,The Spice Route,North Indian Thali,200,40,Sunny
+2024-01-12,Delhi,Chandni Chowk,Delhi Darbar,Rajma Chawal,140,105,Humid
+2024-01-28,Delhi,Dwarka,Local Zaika,Chicken Biryani,250,89,Cool
+2024-06-23,Delhi,Lajpat Nagar,The Spice Route,Butter Naan,40,47,Humid
+2024-03-17,Delhi,Saket,The Spice Route,Paneer Butter Masala,220,15,Sunny
+2024-03-23,Delhi,Vasant Kunj,The Spice Route,Aloo Tikki,80,52,Sunny
+2024-05-16,Delhi,Karol Bagh,Zaika-e-Dilli,Dal Makhani,180,129,Sunny
+2024-05-18,Delhi,Dwarka,Zaika-e-Dilli,Chole Bhature,120,67,Cool
+2024-03-11,Delhi,Karol Bagh,Flavors of Delhi,Butter Naan,40,49,Cool
+2024-02-07,Delhi,Vasant Kunj,Haldiram's,Rajma Chawal,140,29,Humid
+2024-03-03,Delhi,Rohini,Haldiram's,Chole Bhature,120,86,Cool
+2024-05-24,Delhi,Rohini,The Spice Route,North Indian Thali,200,100,Humid
+2024-05-07,Delhi,Saket,Punjab Grill,Paneer Butter Masala,220,110,Rainy
+2024-01-31,Delhi,Saket,Flavors of Delhi,Momos,100,86,Rainy
+2024-04-21,Delhi,Hauz Khas,Zaika-e-Dilli,Paneer Butter Masala,220,118,Rainy
+2024-02-25,Delhi,Saket,Biryani Blues,Rajma Chawal,140,58,Cloudy
+2024-01-18,Delhi,Saket,Delhi Darbar,Dal Makhani,180,34,Rainy
+2024-05-05,Delhi,Karol Bagh,Delhi Darbar,Rajma Chawal,140,92,Cloudy
+2024-04-21,Delhi,Janakpuri,Local Zaika,Rajma Chawal,140,69,Humid
+2024-04-17,Delhi,Chandni Chowk,The Spice Route,Aloo Tikki,80,19,Cloudy
+2024-04-18,Delhi,Connaught Place,Biryani Blues,Chole Bhature,120,135,Cool
+2024-06-21,Delhi,Saket,Delhi Darbar,Paneer Butter Masala,220,149,Sunny
+2024-05-10,Delhi,Janakpuri,Biryani Blues,Chole Bhature,120,88,Sunny
+2024-01-31,Delhi,Hauz Khas,Local Zaika,Chole Bhature,120,88,Rainy
+2024-01-07,Delhi,Rohini,Punjab Grill,North Indian Thali,200,109,Rainy
+2024-01-18,Delhi,Hauz Khas,Punjab Grill,Aloo Tikki,80,13,Rainy
+2024-01-20,Delhi,Karol Bagh,Delhi Darbar,Chole Bhature,120,90,Cool
+2024-04-13,Delhi,Vasant Kunj,Punjab Grill,Dal Makhani,180,16,Cloudy
+2024-04-06,Delhi,Lajpat Nagar,Local Zaika,Amritsari Kulcha,160,93,Sunny
+2024-03-25,Delhi,Lajpat Nagar,Zaika-e-Dilli,Butter Naan,40,14,Cool
+2024-02-12,Delhi,Lajpat Nagar,Haldiram's,Chicken Biryani,250,70,Sunny
+2024-01-14,Delhi,Karol Bagh,Zaika-e-Dilli,Paneer Butter Masala,220,140,Cloudy
+2024-01-09,Delhi,Janakpuri,Delhi Darbar,Chole Bhature,120,78,Cloudy
+2024-06-24,Delhi,Hauz Khas,The Spice Route,Butter Naan,40,132,Sunny
+2024-02-20,Delhi,Connaught Place,Delhi Darbar,Chicken Biryani,250,21,Sunny
+2024-01-22,Delhi,Lajpat Nagar,Delhi Darbar,Amritsari Kulcha,160,89,Rainy
+2024-05-29,Delhi,Karol Bagh,Punjab Grill,Aloo Tikki,80,116,Cloudy
+2024-01-24,Delhi,Janakpuri,Zaika-e-Dilli,Chole Bhature,120,23,Humid
+2024-02-07,Delhi,Connaught Place,Biryani Blues,Dal Makhani,180,73,Humid
+2024-04-24,Delhi,Rohini,Zaika-e-Dilli,North Indian Thali,200,80,Cloudy
+2024-02-02,Delhi,Connaught Place,Flavors of Delhi,Rajma Chawal,140,60,Humid
+2024-02-06,Delhi,Rohini,Zaika-e-Dilli,Dal Makhani,180,113,Rainy
+2024-02-22,Delhi,Lajpat Nagar,Local Zaika,Rajma Chawal,140,116,Humid
+2024-06-13,Delhi,Vasant Kunj,The Spice Route,Chicken Biryani,250,48,Sunny
+2024-05-24,Delhi,Saket,Local Zaika,North Indian Thali,200,133,Sunny
+2024-02-08,Delhi,Lajpat Nagar,The Spice Route,Chole Bhature,120,148,Cool
+2024-01-21,Delhi,Janakpuri,Zaika-e-Dilli,Chole Bhature,120,131,Cloudy
+2024-06-15,Delhi,Janakpuri,Delhi Darbar,Chole Bhature,120,138,Humid
+2024-04-24,Delhi,Chandni Chowk,Zaika-e-Dilli,North Indian Thali,200,101,Sunny
+2024-06-06,Delhi,Janakpuri,Biryani Blues,Chicken Biryani,250,86,Humid
+2024-01-31,Delhi,Connaught Place,Zaika-e-Dilli,Momos,100,94,Sunny
+2024-02-15,Delhi,Rohini,Punjab Grill,Rajma Chawal,140,139,Cool
+2024-02-04,Delhi,Vasant Kunj,Delhi Darbar,Amritsari Kulcha,160,76,Rainy
+2024-03-06,Delhi,Janakpuri,Haldiram's,Chole Bhature,120,58,Cloudy
+2024-01-16,Delhi,Karol Bagh,Delhi Darbar,Dal Makhani,180,105,Humid
+2024-02-22,Delhi,Connaught Place,Delhi Darbar,Amritsari Kulcha,160,53,Sunny
+2024-01-30,Delhi,Hauz Khas,Biryani Blues,Butter Naan,40,59,Humid
+2024-01-13,Delhi,Karol Bagh,Delhi Darbar,Aloo Tikki,80,102,Cool
+2024-04-27,Delhi,Karol Bagh,Delhi Darbar,Amritsari Kulcha,160,103,Sunny
+2024-03-28,Delhi,Karol Bagh,Haldiram's,Paneer Butter Masala,220,24,Cool
+2024-02-26,Delhi,Dwarka,Flavors of Delhi,North Indian Thali,200,126,Sunny
+2024-04-02,Delhi,Dwarka,Local Zaika,Chicken Biryani,250,31,Sunny
+2024-03-23,Delhi,Hauz Khas,Zaika-e-Dilli,Dal Makhani,180,133,Cool
+2024-03-15,Delhi,Chandni Chowk,Biryani Blues,Butter Naan,40,34,Rainy
+2024-03-20,Delhi,Karol Bagh,Biryani Blues,Amritsari Kulcha,160,46,Sunny
+2024-06-26,Delhi,Chandni Chowk,Zaika-e-Dilli,North Indian Thali,200,114,Rainy
+2024-01-19,Delhi,Karol Bagh,Punjab Grill,Chole Bhature,120,102,Humid
+2024-04-27,Delhi,Connaught Place,Haldiram's,Paneer Butter Masala,220,23,Humid
+2024-04-13,Delhi,Vasant Kunj,Zaika-e-Dilli,Paneer Butter Masala,220,82,Cloudy
+2024-06-29,Delhi,Karol Bagh,Punjab Grill,North Indian Thali,200,112,Humid
+2024-02-12,Delhi,Karol Bagh,Local Zaika,Amritsari Kulcha,160,41,Humid
+2024-04-02,Delhi,Rohini,Local Zaika,Amritsari Kulcha,160,147,Sunny
+2024-06-08,Delhi,Saket,Haldiram's,Paneer Butter Masala,220,25,Rainy
+2024-04-23,Delhi,Connaught Place,Flavors of Delhi,Paneer Butter Masala,220,69,Sunny
+2024-01-18,Delhi,Lajpat Nagar,The Spice Route,Chicken Biryani,250,80,Sunny
+2024-01-12,Delhi,Rohini,Haldiram's,Amritsari Kulcha,160,75,Cool
+2024-04-07,Delhi,Lajpat Nagar,Delhi Darbar,Aloo Tikki,80,134,Cool
+2024-05-08,Delhi,Rohini,The Spice Route,Momos,100,31,Humid
+2024-02-17,Delhi,Chandni Chowk,The Spice Route,Rajma Chawal,140,61,Cool
+2024-01-16,Delhi,Dwarka,Biryani Blues,Chicken Biryani,250,122,Sunny
+2024-01-12,Delhi,Rohini,Haldiram's,Momos,100,149,Rainy
+2024-01-15,Delhi,Hauz Khas,The Spice Route,Chicken Biryani,250,30,Humid
+2024-04-05,Delhi,Saket,Punjab Grill,Paneer Butter Masala,220,80,Cloudy
+2024-04-10,Delhi,Saket,Local Zaika,Rajma Chawal,140,147,Sunny
+2024-01-26,Delhi,Vasant Kunj,Punjab Grill,Butter Naan,40,67,Cool
+2024-02-17,Delhi,Dwarka,Local Zaika,Amritsari Kulcha,160,106,Cool
+2024-02-23,Delhi,Connaught Place,The Spice Route,Dal Makhani,180,74,Sunny
+2024-03-30,Delhi,Karol Bagh,Flavors of Delhi,Chole Bhature,120,52,Cool
+2024-03-29,Delhi,Janakpuri,Local Zaika,North Indian Thali,200,139,Rainy
+2024-01-13,Delhi,Chandni Chowk,Biryani Blues,Rajma Chawal,140,123,Cloudy
+2024-01-28,Delhi,Janakpuri,Zaika-e-Dilli,Paneer Butter Masala,220,95,Sunny
+2024-02-22,Delhi,Hauz Khas,Punjab Grill,Dal Makhani,180,91,Sunny
+2024-04-21,Delhi,Saket,Flavors of Delhi,Chole Bhature,120,18,Humid
+2024-05-23,Delhi,Janakpuri,The Spice Route,Paneer Butter Masala,220,105,Cloudy
+2024-02-20,Delhi,Lajpat Nagar,The Spice Route,Aloo Tikki,80,73,Cool
+2024-05-04,Delhi,Vasant Kunj,Local Zaika,North Indian Thali,200,46,Sunny
+2024-01-04,Delhi,Vasant Kunj,Biryani Blues,Rajma Chawal,140,125,Rainy
+2024-02-01,Delhi,Dwarka,Haldiram's,Dal Makhani,180,148,Rainy
+2024-01-19,Delhi,Dwarka,Punjab Grill,Chole Bhature,120,88,Cool
+2024-05-24,Delhi,Rohini,Haldiram's,Momos,100,88,Humid
+2024-05-10,Delhi,Vasant Kunj,Biryani Blues,Paneer Butter Masala,220,73,Humid
+2024-04-02,Delhi,Hauz Khas,Punjab Grill,Aloo Tikki,80,21,Humid
+2024-06-08,Delhi,Janakpuri,The Spice Route,Chicken Biryani,250,54,Cool
+2024-04-17,Delhi,Karol Bagh,Flavors of Delhi,Aloo Tikki,80,133,Sunny
+2024-01-13,Delhi,Rohini,The Spice Route,Dal Makhani,180,113,Humid
+2024-02-17,Delhi,Dwarka,Flavors of Delhi,Paneer Butter Masala,220,59,Humid
+2024-03-03,Delhi,Chandni Chowk,Biryani Blues,Momos,100,85,Cloudy
+2024-03-06,Delhi,Saket,Haldiram's,Aloo Tikki,80,87,Sunny
+2024-01-09,Delhi,Vasant Kunj,Zaika-e-Dilli,North Indian Thali,200,25,Rainy
+2024-03-25,Delhi,Karol Bagh,Local Zaika,North Indian Thali,200,76,Cool
+2024-01-30,Delhi,Janakpuri,Local Zaika,Aloo Tikki,80,108,Sunny
+2024-01-17,Delhi,Saket,The Spice Route,Aloo Tikki,80,64,Cool
+2024-04-13,Delhi,Vasant Kunj,Biryani Blues,Paneer Butter Masala,220,116,Rainy
+2024-05-03,Delhi,Chandni Chowk,Local Zaika,Rajma Chawal,140,137,Rainy
+2024-01-26,Delhi,Karol Bagh,Delhi Darbar,Chole Bhature,120,121,Humid
+2024-01-13,Delhi,Dwarka,Punjab Grill,Momos,100,60,Cool
+2024-03-15,Delhi,Rohini,Biryani Blues,Aloo Tikki,80,84,Sunny
+2024-03-04,Delhi,Rohini,Punjab Grill,Amritsari Kulcha,160,102,Rainy
+2024-05-23,Delhi,Rohini,Biryani Blues,Dal Makhani,180,18,Rainy
+2024-05-24,Delhi,Saket,Delhi Darbar,Chole Bhature,120,52,Cloudy
+2024-04-11,Delhi,Dwarka,Local Zaika,Butter Naan,40,92,Rainy
+2024-06-10,Delhi,Lajpat Nagar,Punjab Grill,Momos,100,63,Humid
+2024-05-11,Delhi,Dwarka,Punjab Grill,Rajma Chawal,140,14,Cloudy
+2024-05-24,Delhi,Hauz Khas,Biryani Blues,North Indian Thali,200,49,Cool
+2024-04-20,Delhi,Karol Bagh,Biryani Blues,Chicken Biryani,250,132,Humid
+2024-04-09,Delhi,Dwarka,Punjab Grill,North Indian Thali,200,114,Humid
+2024-03-28,Delhi,Dwarka,The Spice Route,Chole Bhature,120,106,Cool
+2024-06-14,Delhi,Connaught Place,Haldiram's,Aloo Tikki,80,87,Rainy
+2024-06-28,Delhi,Janakpuri,Zaika-e-Dilli,Aloo Tikki,80,40,Humid
+2024-05-01,Delhi,Saket,Local Zaika,Chole Bhature,120,90,Cool
+2024-06-08,Delhi,Vasant Kunj,Haldiram's,Paneer Butter Masala,220,144,Sunny
+2024-03-03,Delhi,Dwarka,The Spice Route,Chole Bhature,120,89,Cool
+2024-02-03,Delhi,Rohini,The Spice Route,Butter Naan,40,89,Cloudy
+2024-01-13,Delhi,Rohini,Punjab Grill,North Indian Thali,200,98,Sunny
+2024-02-07,Delhi,Dwarka,Biryani Blues,Dal Makhani,180,123,Rainy
+2024-01-27,Delhi,Lajpat Nagar,Delhi Darbar,Paneer Butter Masala,220,11,Sunny
+2024-06-08,Delhi,Saket,Haldiram's,Chole Bhature,120,106,Rainy
+2024-04-12,Delhi,Chandni Chowk,Punjab Grill,Amritsari Kulcha,160,133,Sunny
+2024-06-03,Delhi,Vasant Kunj,Biryani Blues,Dal Makhani,180,110,Humid
+2024-06-09,Delhi,Chandni Chowk,Delhi Darbar,Chicken Biryani,250,101,Sunny
+2024-03-19,Delhi,Dwarka,Haldiram's,Chole Bhature,120,37,Humid
+2024-04-21,Delhi,Janakpuri,Local Zaika,Dal Makhani,180,55,Cool
+2024-05-02,Delhi,Chandni Chowk,Delhi Darbar,Amritsari Kulcha,160,52,Rainy
+2024-05-21,Delhi,Karol Bagh,Delhi Darbar,Paneer Butter Masala,220,19,Rainy
+2024-01-18,Delhi,Dwarka,Biryani Blues,North Indian Thali,200,67,Cloudy
+2024-03-02,Delhi,Saket,The Spice Route,Paneer Butter Masala,220,51,Sunny
+2024-03-07,Delhi,Hauz Khas,Punjab Grill,Aloo Tikki,80,60,Cool
+2024-01-30,Delhi,Saket,The Spice Route,Rajma Chawal,140,128,Sunny
+2024-04-09,Delhi,Vasant Kunj,Biryani Blues,Rajma Chawal,140,148,Cloudy
+2024-03-17,Delhi,Saket,Biryani Blues,Amritsari Kulcha,160,28,Sunny
+2024-02-28,Delhi,Vasant Kunj,Haldiram's,Dal Makhani,180,67,Humid
+2024-04-08,Delhi,Janakpuri,The Spice Route,Aloo Tikki,80,141,Rainy
+2024-05-20,Delhi,Connaught Place,Haldiram's,Paneer Butter Masala,220,130,Sunny
+2024-03-22,Delhi,Dwarka,Punjab Grill,North Indian Thali,200,39,Sunny
+2024-05-07,Delhi,Saket,Punjab Grill,Paneer Butter Masala,220,118,Cloudy
+2024-02-19,Delhi,Hauz Khas,Delhi Darbar,Butter Naan,40,56,Cool
+2024-02-29,Delhi,Janakpuri,The Spice Route,Chicken Biryani,250,82,Humid
+2024-04-16,Delhi,Hauz Khas,Biryani Blues,Chole Bhature,120,67,Sunny
+2024-05-30,Delhi,Chandni Chowk,Biryani Blues,Butter Naan,40,53,Sunny
+2024-04-01,Delhi,Hauz Khas,Delhi Darbar,Rajma Chawal,140,97,Cool
+2024-01-18,Delhi,Lajpat Nagar,Biryani Blues,Momos,100,89,Cool
+2024-03-19,Delhi,Vasant Kunj,Zaika-e-Dilli,Butter Naan,40,21,Cloudy
+2024-04-27,Delhi,Janakpuri,Local Zaika,Rajma Chawal,140,80,Cool
+2024-03-30,Delhi,Rohini,Biryani Blues,North Indian Thali,200,145,Cloudy
+2024-06-12,Delhi,Chandni Chowk,Haldiram's,Chicken Biryani,250,38,Cloudy
+2024-05-22,Delhi,Lajpat Nagar,Flavors of Delhi,Momos,100,14,Humid
+2024-01-06,Delhi,Vasant Kunj,Delhi Darbar,Rajma Chawal,140,126,Humid
+2024-02-20,Delhi,Rohini,Zaika-e-Dilli,North Indian Thali,200,146,Humid
+2024-06-17,Delhi,Janakpuri,Punjab Grill,Chole Bhature,120,93,Cloudy
+2024-05-16,Delhi,Connaught Place,Haldiram's,Paneer Butter Masala,220,84,Humid
+2024-05-30,Delhi,Chandni Chowk,Punjab Grill,Momos,100,20,Rainy
+2024-04-26,Delhi,Hauz Khas,Punjab Grill,Aloo Tikki,80,128,Cloudy
+2024-06-08,Delhi,Vasant Kunj,Zaika-e-Dilli,Paneer Butter Masala,220,41,Sunny
+2024-05-26,Delhi,Vasant Kunj,Zaika-e-Dilli,Dal Makhani,180,111,Sunny
+2024-02-05,Delhi,Lajpat Nagar,Zaika-e-Dilli,Momos,100,85,Cloudy
+2024-03-09,Delhi,Saket,Local Zaika,Momos,100,105,Humid
+2024-06-01,Delhi,Connaught Place,Local Zaika,Momos,100,40,Cloudy
+2024-05-23,Delhi,Janakpuri,Delhi Darbar,Dal Makhani,180,39,Cool
+2024-01-25,Delhi,Janakpuri,Punjab Grill,Aloo Tikki,80,25,Cloudy
+2024-02-04,Delhi,Hauz Khas,Biryani Blues,Momos,100,32,Rainy
+2024-06-18,Delhi,Chandni Chowk,The Spice Route,Paneer Butter Masala,220,88,Sunny
+2024-03-09,Delhi,Lajpat Nagar,The Spice Route,Amritsari Kulcha,160,37,Rainy
+2024-06-02,Delhi,Vasant Kunj,Delhi Darbar,Butter Naan,40,79,Cloudy
+2024-04-22,Delhi,Rohini,Punjab Grill,North Indian Thali,200,137,Sunny
+2024-03-29,Delhi,Vasant Kunj,Punjab Grill,North Indian Thali,200,23,Rainy
+2024-01-22,Delhi,Saket,Zaika-e-Dilli,Chole Bhature,120,10,Cloudy
+2024-06-26,Delhi,Karol Bagh,Flavors of Delhi,Chicken Biryani,250,108,Cloudy
+2024-04-22,Delhi,Lajpat Nagar,Flavors of Delhi,Aloo Tikki,80,126,Humid
+2024-04-02,Delhi,Chandni Chowk,Biryani Blues,Butter Naan,40,30,Rainy
+2024-06-05,Delhi,Rohini,Punjab Grill,Dal Makhani,180,113,Rainy
+2024-01-31,Delhi,Connaught Place,Zaika-e-Dilli,Chole Bhature,120,21,Sunny
+2024-03-23,Delhi,Rohini,The Spice Route,Rajma Chawal,140,32,Sunny
+2024-06-29,Delhi,Karol Bagh,Haldiram's,Dal Makhani,180,63,Humid
+2024-04-27,Delhi,Karol Bagh,Flavors of Delhi,Butter Naan,40,102,Sunny
+2024-04-02,Delhi,Dwarka,Local Zaika,Butter Naan,40,149,Cloudy
+2024-06-02,Delhi,Hauz Khas,Zaika-e-Dilli,Amritsari Kulcha,160,20,Humid
+2024-02-03,Delhi,Dwarka,Local Zaika,Rajma Chawal,140,148,Humid
+2024-05-03,Delhi,Dwarka,Zaika-e-Dilli,Dal Makhani,180,52,Cool
+2024-06-14,Delhi,Rohini,Haldiram's,Aloo Tikki,80,81,Cool
+2024-01-13,Delhi,Chandni Chowk,Zaika-e-Dilli,North Indian Thali,200,102,Sunny
+2024-01-21,Delhi,Janakpuri,Haldiram's,Aloo Tikki,80,98,Cool
+2024-02-07,Delhi,Connaught Place,Flavors of Delhi,Dal Makhani,180,45,Rainy
+2024-04-17,Delhi,Chandni Chowk,Punjab Grill,Rajma Chawal,140,56,Rainy
+2024-04-09,Delhi,Vasant Kunj,Haldiram's,Amritsari Kulcha,160,144,Cool
+2024-01-01,Delhi,Saket,Biryani Blues,Chicken Biryani,250,19,Rainy
+2024-06-25,Delhi,Karol Bagh,Biryani Blues,Rajma Chawal,140,12,Cool
+2024-01-19,Delhi,Chandni Chowk,Delhi Darbar,Dal Makhani,180,89,Sunny
+2024-04-05,Delhi,Chandni Chowk,Biryani Blues,Paneer Butter Masala,220,106,Sunny
+2024-06-20,Delhi,Rohini,Delhi Darbar,Butter Naan,40,103,Cool
+2024-01-13,Delhi,Janakpuri,Zaika-e-Dilli,Aloo Tikki,80,123,Sunny
+2024-03-25,Delhi,Saket,Zaika-e-Dilli,Chicken Biryani,250,149,Humid
+2024-05-09,Delhi,Vasant Kunj,Zaika-e-Dilli,Paneer Butter Masala,220,76,Cool
+2024-05-13,Delhi,Dwarka,The Spice Route,Momos,100,29,Cool
+2024-02-12,Delhi,Chandni Chowk,Local Zaika,Rajma Chawal,140,26,Rainy
+2024-05-08,Delhi,Janakpuri,Haldiram's,Paneer Butter Masala,220,25,Rainy
+2024-04-20,Delhi,Rohini,The Spice Route,Momos,100,25,Humid
+2024-01-09,Delhi,Lajpat Nagar,Delhi Darbar,Momos,100,81,Humid
+2024-01-20,Delhi,Vasant Kunj,Zaika-e-Dilli,Rajma Chawal,140,129,Cool
+2024-06-03,Delhi,Connaught Place,Biryani Blues,North Indian Thali,200,147,Sunny
+2024-04-12,Delhi,Karol Bagh,Local Zaika,Aloo Tikki,80,128,Rainy
+2024-03-25,Delhi,Janakpuri,The Spice Route,Paneer Butter Masala,220,136,Cool
+2024-03-26,Delhi,Rohini,The Spice Route,Rajma Chawal,140,65,Cloudy
+2024-02-04,Delhi,Dwarka,Delhi Darbar,Aloo Tikki,80,124,Sunny
+2024-04-14,Delhi,Saket,Punjab Grill,North Indian Thali,200,144,Cloudy
+2024-02-04,Delhi,Dwarka,Zaika-e-Dilli,North Indian Thali,200,147,Cool
+2024-03-23,Delhi,Vasant Kunj,Biryani Blues,Aloo Tikki,80,33,Cloudy
+2024-04-06,Delhi,Hauz Khas,Biryani Blues,Butter Naan,40,37,Sunny
+2024-05-06,Delhi,Vasant Kunj,Punjab Grill,North Indian Thali,200,129,Humid
+2024-02-29,Delhi,Vasant Kunj,Biryani Blues,Dal Makhani,180,48,Cool
+2024-02-14,Delhi,Janakpuri,The Spice Route,Aloo Tikki,80,129,Sunny
+2024-02-11,Delhi,Vasant Kunj,Punjab Grill,Paneer Butter Masala,220,94,Rainy
+2024-03-26,Delhi,Lajpat Nagar,Biryani Blues,Butter Naan,40,17,Cloudy
+2024-04-02,Delhi,Lajpat Nagar,The Spice Route,Dal Makhani,180,111,Humid
+2024-01-14,Delhi,Karol Bagh,Punjab Grill,Aloo Tikki,80,145,Sunny
+2024-02-08,Delhi,Saket,Biryani Blues,Aloo Tikki,80,83,Cloudy
+2024-01-26,Delhi,Dwarka,Biryani Blues,Amritsari Kulcha,160,50,Humid
+2024-04-21,Delhi,Connaught Place,Biryani Blues,Rajma Chawal,140,14,Cloudy
+2024-05-11,Delhi,Saket,Local Zaika,Momos,100,61,Humid
+2024-04-29,Delhi,Chandni Chowk,Delhi Darbar,Aloo Tikki,80,149,Sunny
+2024-02-21,Delhi,Dwarka,The Spice Route,Chicken Biryani,250,101,Rainy
+2024-04-05,Delhi,Lajpat Nagar,Biryani Blues,Chicken Biryani,250,117,Sunny
+2024-03-05,Delhi,Karol Bagh,Local Zaika,Rajma Chawal,140,67,Rainy
+2024-04-11,Delhi,Saket,Haldiram's,Amritsari Kulcha,160,38,Cloudy
+2024-01-26,Delhi,Chandni Chowk,The Spice Route,Aloo Tikki,80,123,Cool
+2024-06-14,Delhi,Connaught Place,Delhi Darbar,North Indian Thali,200,38,Cloudy
+2024-03-07,Delhi,Hauz Khas,Punjab Grill,North Indian Thali,200,59,Cool
+2024-04-08,Delhi,Dwarka,Flavors of Delhi,Momos,100,11,Cool
+2024-03-27,Delhi,Rohini,Delhi Darbar,North Indian Thali,200,50,Cool
+2024-02-15,Delhi,Janakpuri,Flavors of Delhi,Momos,100,24,Rainy
+2024-06-02,Delhi,Rohini,Biryani Blues,North Indian Thali,200,69,Sunny
+2024-06-11,Delhi,Vasant Kunj,Haldiram's,Momos,100,61,Cool
+2024-05-11,Delhi,Hauz Khas,Flavors of Delhi,Aloo Tikki,80,47,Rainy
+2024-04-15,Delhi,Janakpuri,Flavors of Delhi,Aloo Tikki,80,61,Cool
+2024-03-31,Delhi,Janakpuri,Punjab Grill,Butter Naan,40,15,Cloudy
+2024-03-31,Delhi,Lajpat Nagar,Haldiram's,Chole Bhature,120,84,Cool
+2024-03-23,Delhi,Chandni Chowk,Flavors of Delhi,Paneer Butter Masala,220,141,Cloudy
+2024-06-04,Delhi,Janakpuri,Zaika-e-Dilli,Aloo Tikki,80,112,Cloudy
+2024-04-20,Delhi,Rohini,Punjab Grill,Momos,100,16,Rainy
+2024-01-03,Delhi,Janakpuri,The Spice Route,Rajma Chawal,140,69,Sunny
+2024-02-21,Delhi,Hauz Khas,The Spice Route,Paneer Butter Masala,220,25,Rainy
+2024-02-03,Delhi,Saket,Haldiram's,North Indian Thali,200,18,Sunny
+2024-05-21,Delhi,Rohini,Zaika-e-Dilli,Amritsari Kulcha,160,134,Cloudy
+2024-04-01,Delhi,Rohini,Zaika-e-Dilli,Momos,100,20,Sunny
+2024-02-18,Delhi,Dwarka,Punjab Grill,Chicken Biryani,250,39,Cloudy
+2024-04-11,Delhi,Connaught Place,Biryani Blues,Amritsari Kulcha,160,101,Humid
+2024-05-07,Delhi,Janakpuri,Delhi Darbar,Amritsari Kulcha,160,127,Humid
+2024-06-22,Delhi,Vasant Kunj,The Spice Route,Amritsari Kulcha,160,103,Sunny
+2024-03-20,Delhi,Rohini,Haldiram's,Aloo Tikki,80,78,Cool
+2024-04-27,Delhi,Hauz Khas,Haldiram's,Rajma Chawal,140,67,Cool
+2024-03-31,Delhi,Dwarka,Flavors of Delhi,Aloo Tikki,80,114,Cool
+2024-04-12,Delhi,Saket,Zaika-e-Dilli,Paneer Butter Masala,220,107,Cloudy
+2024-02-24,Delhi,Hauz Khas,Delhi Darbar,Paneer Butter Masala,220,51,Cool
+2024-05-11,Delhi,Janakpuri,Punjab Grill,Rajma Chawal,140,34,Rainy
+2024-04-13,Delhi,Connaught Place,Zaika-e-Dilli,Momos,100,17,Sunny
+2024-01-26,Delhi,Dwarka,The Spice Route,Chole Bhature,120,143,Humid
+2024-06-01,Delhi,Janakpuri,Punjab Grill,Chole Bhature,120,133,Humid
+2024-02-22,Delhi,Janakpuri,Biryani Blues,North Indian Thali,200,73,Rainy
+2024-05-28,Delhi,Hauz Khas,Haldiram's,Aloo Tikki,80,77,Rainy
+2024-01-22,Delhi,Janakpuri,The Spice Route,Dal Makhani,180,53,Humid
+2024-05-03,Delhi,Karol Bagh,Punjab Grill,Chicken Biryani,250,13,Cool
+2024-05-29,Delhi,Hauz Khas,Haldiram's,Chicken Biryani,250,135,Cool
+2024-02-13,Delhi,Dwarka,Flavors of Delhi,Chicken Biryani,250,86,Humid
+2024-04-06,Delhi,Saket,Delhi Darbar,Chole Bhature,120,128,Humid
+2024-04-07,Delhi,Chandni Chowk,Delhi Darbar,Dal Makhani,180,69,Rainy
+2024-05-03,Delhi,Rohini,Punjab Grill,Dal Makhani,180,44,Rainy
+2024-06-03,Delhi,Janakpuri,Punjab Grill,Aloo Tikki,80,123,Sunny
+2024-02-19,Delhi,Rohini,Punjab Grill,Paneer Butter Masala,220,97,Cool
+2024-05-19,Delhi,Hauz Khas,Biryani Blues,Dal Makhani,180,110,Cool
+2024-05-05,Delhi,Vasant Kunj,Punjab Grill,Rajma Chawal,140,25,Cloudy
+2024-06-09,Delhi,Chandni Chowk,Delhi Darbar,Amritsari Kulcha,160,81,Cloudy
+2024-04-03,Delhi,Hauz Khas,Punjab Grill,Dal Makhani,180,29,Cloudy
+2024-01-18,Delhi,Saket,Delhi Darbar,Butter Naan,40,126,Cool
+2024-06-25,Delhi,Chandni Chowk,Flavors of Delhi,Chicken Biryani,250,31,Rainy
+2024-04-12,Delhi,Connaught Place,Haldiram's,Paneer Butter Masala,220,10,Cool
+2024-06-01,Delhi,Hauz Khas,Punjab Grill,Dal Makhani,180,12,Cool
+2024-06-01,Delhi,Vasant Kunj,Punjab Grill,Chole Bhature,120,109,Cool
+2024-04-05,Delhi,Chandni Chowk,Flavors of Delhi,Butter Naan,40,18,Rainy
+2024-06-18,Delhi,Lajpat Nagar,Biryani Blues,Aloo Tikki,80,85,Cloudy
+2024-05-17,Delhi,Chandni Chowk,Delhi Darbar,Amritsari Kulcha,160,149,Cool
+2024-01-02,Delhi,Chandni Chowk,Zaika-e-Dilli,North Indian Thali,200,25,Cool
+2024-03-29,Delhi,Saket,Local Zaika,Paneer Butter Masala,220,62,Cool
+2024-03-09,Delhi,Saket,Zaika-e-Dilli,Rajma Chawal,140,147,Sunny
+2024-01-01,Delhi,Saket,Local Zaika,Chole Bhature,120,22,Humid
+2024-02-09,Delhi,Rohini,Local Zaika,North Indian Thali,200,76,Humid
+2024-02-22,Delhi,Lajpat Nagar,The Spice Route,Aloo Tikki,80,33,Cloudy
+2024-05-26,Delhi,Vasant Kunj,Flavors of Delhi,North Indian Thali,200,61,Humid
+2024-03-11,Delhi,Karol Bagh,Punjab Grill,Momos,100,125,Cool
+2024-02-10,Delhi,Janakpuri,The Spice Route,Paneer Butter Masala,220,135,Humid
+2024-06-08,Delhi,Chandni Chowk,Haldiram's,North Indian Thali,200,88,Cloudy
+2024-02-05,Delhi,Hauz Khas,Punjab Grill,Aloo Tikki,80,105,Cloudy
+2024-03-07,Delhi,Lajpat Nagar,Delhi Darbar,Chicken Biryani,250,108,Rainy
+2024-04-16,Delhi,Vasant Kunj,Local Zaika,Rajma Chawal,140,13,Cloudy
+2024-05-24,Delhi,Dwarka,Local Zaika,Butter Naan,40,124,Cool
+2024-06-24,Delhi,Connaught Place,Biryani Blues,Amritsari Kulcha,160,141,Sunny
+2024-02-18,Delhi,Connaught Place,Delhi Darbar,Amritsari Kulcha,160,66,Humid
+2024-06-28,Delhi,Vasant Kunj,Local Zaika,Amritsari Kulcha,160,14,Cool
+2024-02-17,Delhi,Chandni Chowk,Biryani Blues,Aloo Tikki,80,19,Cloudy
+2024-01-20,Delhi,Chandni Chowk,Local Zaika,North Indian Thali,200,141,Cool
+2024-06-11,Delhi,Janakpuri,Flavors of Delhi,Momos,100,44,Humid
+2024-01-03,Delhi,Dwarka,Delhi Darbar,Paneer Butter Masala,220,109,Rainy
+2024-06-02,Delhi,Vasant Kunj,Delhi Darbar,Paneer Butter Masala,220,10,Cool
+2024-02-18,Delhi,Rohini,Local Zaika,Dal Makhani,180,70,Cloudy
+2024-01-31,Delhi,Connaught Place,Haldiram's,Chicken Biryani,250,31,Rainy
+2024-01-26,Delhi,Connaught Place,Zaika-e-Dilli,Amritsari Kulcha,160,69,Cool
+2024-06-10,Delhi,Lajpat Nagar,Biryani Blues,Aloo Tikki,80,14,Cool
+2024-03-09,Delhi,Vasant Kunj,The Spice Route,North Indian Thali,200,141,Cloudy
+2024-03-02,Delhi,Chandni Chowk,Zaika-e-Dilli,Chicken Biryani,250,118,Cool
+2024-05-20,Delhi,Dwarka,Delhi Darbar,Momos,100,135,Cool
+2024-02-10,Delhi,Saket,Delhi Darbar,North Indian Thali,200,29,Cloudy
+2024-03-19,Delhi,Janakpuri,Haldiram's,Chole Bhature,120,83,Humid
+2024-01-28,Delhi,Connaught Place,Flavors of Delhi,Aloo Tikki,80,107,Humid
+2024-03-22,Delhi,Saket,Haldiram's,Amritsari Kulcha,160,85,Cool
+2024-03-31,Delhi,Lajpat Nagar,The Spice Route,Momos,100,133,Humid
+2024-01-24,Delhi,Karol Bagh,Zaika-e-Dilli,Amritsari Kulcha,160,111,Humid
+2024-04-12,Delhi,Saket,Haldiram's,Rajma Chawal,140,110,Humid
+2024-05-11,Delhi,Karol Bagh,Biryani Blues,Dal Makhani,180,31,Sunny
+2024-05-21,Delhi,Janakpuri,Haldiram's,Dal Makhani,180,90,Humid
+2024-05-12,Delhi,Karol Bagh,Punjab Grill,Paneer Butter Masala,220,121,Cloudy
+2024-04-24,Delhi,Karol Bagh,Haldiram's,Momos,100,80,Cool
+2024-01-04,Delhi,Karol Bagh,The Spice Route,Momos,100,115,Rainy
+2024-01-07,Delhi,Lajpat Nagar,Local Zaika,Paneer Butter Masala,220,138,Sunny
+2024-04-01,Delhi,Karol Bagh,Zaika-e-Dilli,Paneer Butter Masala,220,80,Rainy
+2024-05-28,Delhi,Rohini,Local Zaika,Chicken Biryani,250,90,Cool
+2024-01-04,Delhi,Saket,The Spice Route,Rajma Chawal,140,150,Cool
+2024-03-27,Delhi,Janakpuri,Delhi Darbar,North Indian Thali,200,84,Sunny
+2024-03-24,Delhi,Hauz Khas,Haldiram's,North Indian Thali,200,135,Cool
+2024-04-15,Delhi,Vasant Kunj,Biryani Blues,Amritsari Kulcha,160,10,Cloudy
+2024-01-29,Delhi,Dwarka,Haldiram's,Butter Naan,40,91,Sunny
+2024-06-19,Delhi,Saket,Delhi Darbar,Chicken Biryani,250,75,Cool
+2024-06-21,Delhi,Hauz Khas,The Spice Route,North Indian Thali,200,131,Humid
+2024-04-05,Delhi,Saket,Zaika-e-Dilli,Aloo Tikki,80,19,Rainy
+2024-06-11,Delhi,Chandni Chowk,Flavors of Delhi,Momos,100,124,Humid
+2024-03-14,Delhi,Hauz Khas,Biryani Blues,Momos,100,30,Cloudy
+2024-05-15,Delhi,Chandni Chowk,Haldiram's,Momos,100,53,Cloudy
+2024-04-16,Delhi,Vasant Kunj,Punjab Grill,Chicken Biryani,250,142,Cloudy
+2024-05-21,Delhi,Rohini,Haldiram's,Chicken Biryani,250,61,Rainy
+2024-04-03,Delhi,Dwarka,Local Zaika,Rajma Chawal,140,16,Humid
+2024-02-10,Delhi,Karol Bagh,Local Zaika,Aloo Tikki,80,61,Cloudy
+2024-01-16,Delhi,Lajpat Nagar,Flavors of Delhi,North Indian Thali,200,110,Cloudy
+2024-05-13,Delhi,Vasant Kunj,Biryani Blues,Butter Naan,40,127,Cloudy
+2024-03-15,Delhi,Dwarka,Haldiram's,North Indian Thali,200,117,Cloudy
+2024-03-15,Delhi,Hauz Khas,The Spice Route,North Indian Thali,200,17,Cool
+2024-05-21,Delhi,Chandni Chowk,Haldiram's,Amritsari Kulcha,160,94,Rainy
+2024-06-16,Delhi,Rohini,Flavors of Delhi,North Indian Thali,200,26,Humid
+2024-01-19,Delhi,Janakpuri,Delhi Darbar,Butter Naan,40,88,Cloudy
+2024-04-26,Delhi,Janakpuri,The Spice Route,Chole Bhature,120,87,Humid
+2024-06-04,Delhi,Connaught Place,Delhi Darbar,Chicken Biryani,250,27,Cool
+2024-05-24,Delhi,Hauz Khas,Local Zaika,Momos,100,110,Sunny
+2024-01-13,Delhi,Chandni Chowk,Biryani Blues,Aloo Tikki,80,132,Sunny
+2024-03-06,Delhi,Saket,Biryani Blues,Momos,100,125,Humid
+2024-02-22,Delhi,Dwarka,Delhi Darbar,Chole Bhature,120,104,Cloudy
+2024-05-17,Delhi,Lajpat Nagar,Zaika-e-Dilli,Paneer Butter Masala,220,32,Rainy
+2024-03-30,Delhi,Karol Bagh,The Spice Route,Momos,100,90,Sunny
+2024-06-24,Delhi,Dwarka,Zaika-e-Dilli,Rajma Chawal,140,17,Cool
+2024-06-14,Delhi,Rohini,Delhi Darbar,Chole Bhature,120,150,Sunny
+2024-04-15,Delhi,Saket,Delhi Darbar,Momos,100,76,Cloudy
+2024-03-20,Delhi,Lajpat Nagar,Local Zaika,Momos,100,14,Rainy
+2024-05-11,Delhi,Lajpat Nagar,Local Zaika,Chicken Biryani,250,56,Cloudy
+2024-01-20,Delhi,Karol Bagh,Local Zaika,Chicken Biryani,250,38,Cloudy
+2024-01-30,Delhi,Dwarka,Delhi Darbar,Dal Makhani,180,70,Cool
+2024-02-26,Delhi,Lajpat Nagar,Delhi Darbar,Momos,100,150,Cloudy
+2024-03-03,Delhi,Rohini,Local Zaika,Aloo Tikki,80,84,Humid
+2024-05-21,Delhi,Vasant Kunj,Haldiram's,Chole Bhature,120,43,Sunny
+2024-03-04,Delhi,Chandni Chowk,The Spice Route,Momos,100,69,Cool
+2024-03-02,Delhi,Dwarka,Biryani Blues,Chicken Biryani,250,60,Rainy
+2024-03-27,Delhi,Vasant Kunj,Local Zaika,Chicken Biryani,250,124,Cool
+2024-04-05,Delhi,Lajpat Nagar,Flavors of Delhi,Paneer Butter Masala,220,120,Sunny
+2024-05-18,Delhi,Lajpat Nagar,Haldiram's,Aloo Tikki,80,96,Humid
+2024-02-10,Delhi,Karol Bagh,Haldiram's,Paneer Butter Masala,220,131,Sunny
+2024-05-21,Delhi,Karol Bagh,Delhi Darbar,North Indian Thali,200,121,Cloudy
+2024-06-17,Delhi,Rohini,Local Zaika,North Indian Thali,200,46,Cloudy
+2024-05-02,Delhi,Chandni Chowk,Punjab Grill,Butter Naan,40,65,Rainy
+2024-01-25,Delhi,Rohini,Biryani Blues,Momos,100,124,Cool
+2024-05-05,Delhi,Dwarka,Zaika-e-Dilli,Paneer Butter Masala,220,86,Cloudy
+2024-01-17,Delhi,Karol Bagh,Punjab Grill,Dal Makhani,180,113,Sunny
+2024-05-25,Delhi,Rohini,Biryani Blues,Aloo Tikki,80,66,Cool
+2024-06-25,Delhi,Hauz Khas,The Spice Route,Chicken Biryani,250,88,Rainy
+2024-03-24,Delhi,Connaught Place,Delhi Darbar,Momos,100,146,Rainy
+2024-01-29,Delhi,Chandni Chowk,Local Zaika,Amritsari Kulcha,160,132,Humid
+2024-03-06,Delhi,Rohini,Local Zaika,Chicken Biryani,250,32,Cool
+2024-04-19,Delhi,Hauz Khas,Delhi Darbar,Rajma Chawal,140,64,Rainy
+2024-04-15,Delhi,Hauz Khas,Delhi Darbar,Butter Naan,40,147,Cloudy
+2024-03-10,Delhi,Rohini,The Spice Route,North Indian Thali,200,94,Cloudy
+2024-03-07,Delhi,Rohini,Local Zaika,Momos,100,16,Cloudy
+2024-04-23,Delhi,Hauz Khas,Punjab Grill,North Indian Thali,200,96,Humid
+2024-04-04,Delhi,Saket,Zaika-e-Dilli,North Indian Thali,200,97,Cloudy
+2024-03-10,Delhi,Janakpuri,Delhi Darbar,Amritsari Kulcha,160,101,Cloudy
+2024-06-13,Delhi,Janakpuri,Delhi Darbar,North Indian Thali,200,25,Rainy
+2024-03-27,Delhi,Lajpat Nagar,Local Zaika,Chicken Biryani,250,122,Humid
+2024-04-28,Delhi,Dwarka,Biryani Blues,Momos,100,143,Sunny
+2024-03-30,Delhi,Lajpat Nagar,Delhi Darbar,Amritsari Kulcha,160,52,Cool
+2024-01-01,Delhi,Saket,Haldiram's,Butter Naan,40,119,Cool
+2024-02-17,Delhi,Connaught Place,Flavors of Delhi,Chicken Biryani,250,52,Cool
+2024-06-13,Delhi,Karol Bagh,Local Zaika,Momos,100,25,Cloudy
+2024-03-28,Delhi,Dwarka,Delhi Darbar,Rajma Chawal,140,100,Cloudy
+2024-03-02,Delhi,Saket,The Spice Route,Amritsari Kulcha,160,44,Cloudy
+2024-03-27,Delhi,Chandni Chowk,Punjab Grill,Aloo Tikki,80,95,Cloudy
+2024-03-12,Delhi,Lajpat Nagar,The Spice Route,Rajma Chawal,140,12,Rainy
+2024-03-13,Delhi,Karol Bagh,Flavors of Delhi,Butter Naan,40,58,Cool
+2024-02-10,Delhi,Vasant Kunj,Biryani Blues,Aloo Tikki,80,106,Rainy
+2024-02-01,Delhi,Rohini,Local Zaika,Amritsari Kulcha,160,127,Rainy
+2024-03-01,Delhi,Chandni Chowk,Local Zaika,Chole Bhature,120,108,Rainy
+2024-02-17,Delhi,Chandni Chowk,Biryani Blues,Momos,100,133,Cool
+2024-06-03,Delhi,Rohini,Flavors of Delhi,Chole Bhature,120,134,Cloudy
+2024-02-12,Delhi,Hauz Khas,Punjab Grill,Chole Bhature,120,111,Rainy
+2024-01-09,Delhi,Hauz Khas,Delhi Darbar,Amritsari Kulcha,160,65,Cloudy
+2024-01-12,Delhi,Hauz Khas,The Spice Route,Chole Bhature,120,149,Cloudy
+2024-06-19,Delhi,Dwarka,Flavors of Delhi,Aloo Tikki,80,58,Humid
+2024-02-07,Delhi,Vasant Kunj,Haldiram's,Dal Makhani,180,64,Rainy
+2024-01-24,Delhi,Lajpat Nagar,Local Zaika,Butter Naan,40,109,Sunny
+2024-03-22,Delhi,Lajpat Nagar,Haldiram's,Chicken Biryani,250,24,Cloudy
+2024-01-01,Delhi,Saket,Punjab Grill,Momos,100,75,Humid
+2024-01-09,Delhi,Lajpat Nagar,Local Zaika,Chicken Biryani,250,65,Sunny
+2024-03-08,Delhi,Karol Bagh,Haldiram's,Rajma Chawal,140,72,Sunny
+2024-01-24,Delhi,Karol Bagh,The Spice Route,Paneer Butter Masala,220,125,Rainy
+2024-05-02,Delhi,Lajpat Nagar,Haldiram's,Butter Naan,40,105,Rainy
+2024-06-06,Delhi,Connaught Place,Delhi Darbar,Chole Bhature,120,132,Humid
+2024-01-17,Delhi,Saket,Punjab Grill,Butter Naan,40,27,Sunny
+2024-03-21,Delhi,Lajpat Nagar,Flavors of Delhi,Paneer Butter Masala,220,89,Humid
+2024-01-22,Delhi,Hauz Khas,Local Zaika,Amritsari Kulcha,160,29,Rainy
+2024-02-07,Delhi,Karol Bagh,The Spice Route,Paneer Butter Masala,220,85,Rainy
+2024-04-04,Delhi,Dwarka,Delhi Darbar,Chicken Biryani,250,34,Cloudy
+2024-05-26,Delhi,Dwarka,Punjab Grill,Momos,100,61,Humid
+2024-03-26,Delhi,Hauz Khas,Local Zaika,Paneer Butter Masala,220,14,Cloudy
+2024-04-03,Delhi,Janakpuri,The Spice Route,Chole Bhature,120,54,Cool
+2024-02-17,Delhi,Karol Bagh,Haldiram's,Rajma Chawal,140,141,Cool
+2024-02-23,Delhi,Chandni Chowk,Zaika-e-Dilli,Butter Naan,40,72,Rainy
+2024-06-05,Delhi,Karol Bagh,Flavors of Delhi,Paneer Butter Masala,220,38,Cool
+2024-01-24,Delhi,Janakpuri,Flavors of Delhi,Aloo Tikki,80,83,Humid
+2024-06-24,Delhi,Janakpuri,Zaika-e-Dilli,Momos,100,30,Rainy
+2024-04-28,Delhi,Connaught Place,Haldiram's,North Indian Thali,200,82,Cloudy
+2024-04-13,Delhi,Chandni Chowk,Biryani Blues,Amritsari Kulcha,160,116,Sunny
+2024-04-06,Delhi,Chandni Chowk,Punjab Grill,Amritsari Kulcha,160,56,Cloudy
+2024-06-20,Delhi,Saket,The Spice Route,Butter Naan,40,101,Rainy
+2024-05-07,Delhi,Connaught Place,Haldiram's,Aloo Tikki,80,100,Sunny
+2024-05-26,Delhi,Vasant Kunj,Local Zaika,Chole Bhature,120,90,Sunny
+2024-04-10,Delhi,Karol Bagh,Delhi Darbar,Rajma Chawal,140,45,Cloudy
+2024-02-21,Delhi,Lajpat Nagar,Biryani Blues,Momos,100,126,Cloudy
+2024-02-27,Delhi,Dwarka,Flavors of Delhi,Chicken Biryani,250,106,Humid
+2024-06-18,Delhi,Janakpuri,Biryani Blues,Rajma Chawal,140,39,Sunny
+2024-04-12,Delhi,Lajpat Nagar,Flavors of Delhi,Rajma Chawal,140,119,Sunny
+2024-06-03,Delhi,Saket,Flavors of Delhi,Paneer Butter Masala,220,110,Cool
+2024-06-21,Delhi,Dwarka,Haldiram's,Momos,100,94,Sunny
+2024-02-12,Delhi,Hauz Khas,The Spice Route,Dal Makhani,180,131,Cloudy
+2024-05-14,Delhi,Saket,Haldiram's,Butter Naan,40,115,Sunny
+2024-03-27,Delhi,Hauz Khas,Local Zaika,Chicken Biryani,250,143,Rainy
+2024-06-06,Delhi,Janakpuri,The Spice Route,Chole Bhature,120,128,Cool
+2024-05-02,Delhi,Janakpuri,Punjab Grill,Chicken Biryani,250,122,Rainy
+2024-01-12,Delhi,Janakpuri,Delhi Darbar,Butter Naan,40,44,Rainy
+2024-06-10,Delhi,Vasant Kunj,Biryani Blues,Momos,100,12,Cloudy
+2024-01-10,Delhi,Connaught Place,Flavors of Delhi,Paneer Butter Masala,220,21,Sunny
+2024-06-12,Delhi,Dwarka,Punjab Grill,Butter Naan,40,58,Cool
+2024-04-03,Delhi,Karol Bagh,Flavors of Delhi,Paneer Butter Masala,220,20,Cloudy
+2024-02-15,Delhi,Dwarka,Biryani Blues,Paneer Butter Masala,220,98,Humid
+2024-01-16,Delhi,Janakpuri,Flavors of Delhi,North Indian Thali,200,134,Sunny
+2024-02-21,Delhi,Lajpat Nagar,Local Zaika,Chole Bhature,120,110,Cool
+2024-04-16,Delhi,Hauz Khas,Biryani Blues,North Indian Thali,200,45,Humid
+2024-04-07,Delhi,Rohini,Punjab Grill,Rajma Chawal,140,119,Humid
+2024-06-19,Delhi,Vasant Kunj,Biryani Blues,Amritsari Kulcha,160,66,Cloudy
+2024-02-29,Delhi,Connaught Place,Flavors of Delhi,Chole Bhature,120,55,Cool
+2024-05-04,Delhi,Chandni Chowk,Delhi Darbar,Amritsari Kulcha,160,81,Rainy
+2024-05-24,Delhi,Karol Bagh,Local Zaika,Aloo Tikki,80,118,Sunny
+2024-04-11,Delhi,Dwarka,Punjab Grill,Paneer Butter Masala,220,106,Sunny
+2024-06-16,Delhi,Rohini,Local Zaika,Rajma Chawal,140,96,Sunny
+2024-02-03,Delhi,Lajpat Nagar,Punjab Grill,Paneer Butter Masala,220,19,Rainy
+2024-06-29,Delhi,Karol Bagh,Biryani Blues,Aloo Tikki,80,83,Sunny
+2024-05-05,Delhi,Karol Bagh,Zaika-e-Dilli,North Indian Thali,200,111,Rainy
+2024-03-08,Delhi,Lajpat Nagar,Haldiram's,Paneer Butter Masala,220,117,Cloudy
+2024-04-12,Delhi,Janakpuri,Flavors of Delhi,Butter Naan,40,143,Humid
+2024-05-08,Delhi,Chandni Chowk,The Spice Route,Dal Makhani,180,100,Cool
+2024-03-08,Delhi,Karol Bagh,Biryani Blues,Dal Makhani,180,92,Humid
+2024-06-12,Delhi,Vasant Kunj,Delhi Darbar,North Indian Thali,200,41,Humid
+2024-06-21,Delhi,Dwarka,Haldiram's,Chole Bhature,120,86,Rainy
+2024-02-27,Delhi,Vasant Kunj,Haldiram's,North Indian Thali,200,56,Sunny
+2024-04-07,Delhi,Hauz Khas,The Spice Route,Aloo Tikki,80,148,Rainy
+2024-05-29,Delhi,Lajpat Nagar,Zaika-e-Dilli,Amritsari Kulcha,160,82,Humid
+2024-03-23,Delhi,Vasant Kunj,Flavors of Delhi,Chole Bhature,120,146,Cool
+2024-03-13,Delhi,Chandni Chowk,Biryani Blues,Aloo Tikki,80,127,Cool
+2024-01-22,Delhi,Rohini,Flavors of Delhi,Aloo Tikki,80,44,Humid
+2024-06-28,Delhi,Connaught Place,The Spice Route,Amritsari Kulcha,160,84,Humid
+2024-02-18,Delhi,Lajpat Nagar,Haldiram's,Butter Naan,40,146,Rainy
+2024-02-20,Delhi,Janakpuri,The Spice Route,North Indian Thali,200,119,Cloudy
+2024-04-21,Delhi,Hauz Khas,Punjab Grill,Chicken Biryani,250,119,Sunny
+2024-06-22,Delhi,Janakpuri,Haldiram's,Amritsari Kulcha,160,125,Sunny
+2024-06-11,Delhi,Connaught Place,Haldiram's,Butter Naan,40,111,Cloudy
+2024-05-02,Delhi,Chandni Chowk,Zaika-e-Dilli,Amritsari Kulcha,160,65,Cloudy
+2024-01-11,Delhi,Hauz Khas,Zaika-e-Dilli,Rajma Chawal,140,67,Rainy
+2024-04-09,Delhi,Rohini,Flavors of Delhi,Aloo Tikki,80,12,Cool
+2024-01-15,Delhi,Connaught Place,Local Zaika,Momos,100,41,Cool
+2024-02-08,Delhi,Lajpat Nagar,Haldiram's,Aloo Tikki,80,100,Cloudy
+2024-06-17,Delhi,Karol Bagh,Haldiram's,Chicken Biryani,250,74,Cool
+2024-03-04,Delhi,Dwarka,Local Zaika,Chole Bhature,120,46,Sunny
+2024-05-03,Delhi,Dwarka,Biryani Blues,Butter Naan,40,17,Cloudy
+2024-05-11,Delhi,Dwarka,Biryani Blues,North Indian Thali,200,47,Cool
+2024-04-22,Delhi,Dwarka,The Spice Route,Butter Naan,40,27,Cloudy
+2024-03-01,Delhi,Saket,Haldiram's,North Indian Thali,200,44,Cool
+2024-03-23,Delhi,Lajpat Nagar,Zaika-e-Dilli,Rajma Chawal,140,105,Humid
+2024-06-23,Delhi,Dwarka,The Spice Route,Momos,100,48,Cloudy
+2024-01-23,Delhi,Dwarka,Haldiram's,Amritsari Kulcha,160,72,Cloudy
+2024-03-18,Delhi,Chandni Chowk,The Spice Route,Paneer Butter Masala,220,14,Cloudy
+2024-04-20,Delhi,Saket,Haldiram's,Chicken Biryani,250,63,Rainy
+2024-04-03,Delhi,Saket,Punjab Grill,Butter Naan,40,18,Sunny
+2024-05-24,Delhi,Janakpuri,Biryani Blues,Chicken Biryani,250,116,Cool
+2024-02-22,Delhi,Karol Bagh,Haldiram's,Amritsari Kulcha,160,47,Cool
+2024-06-10,Delhi,Rohini,Punjab Grill,Momos,100,28,Sunny
+2024-05-19,Delhi,Janakpuri,Punjab Grill,Chicken Biryani,250,102,Sunny
+2024-04-13,Delhi,Chandni Chowk,Haldiram's,Chicken Biryani,250,71,Cool
+2024-03-03,Delhi,Connaught Place,Punjab Grill,Momos,100,106,Rainy
+2024-01-18,Delhi,Karol Bagh,Biryani Blues,North Indian Thali,200,74,Cloudy
+2024-03-16,Delhi,Dwarka,Local Zaika,Amritsari Kulcha,160,120,Cool
+2024-04-21,Delhi,Vasant Kunj,Local Zaika,North Indian Thali,200,21,Sunny
+2024-04-30,Delhi,Vasant Kunj,The Spice Route,Momos,100,85,Cloudy
+2024-04-03,Delhi,Connaught Place,Biryani Blues,North Indian Thali,200,127,Cloudy
+2024-02-14,Delhi,Lajpat Nagar,Flavors of Delhi,Butter Naan,40,72,Cool
+2024-02-20,Delhi,Connaught Place,Biryani Blues,Momos,100,44,Cool
+2024-05-05,Delhi,Saket,Zaika-e-Dilli,Butter Naan,40,13,Cool
+2024-03-17,Delhi,Dwarka,Delhi Darbar,Chole Bhature,120,69,Cloudy
+2024-04-22,Delhi,Dwarka,Punjab Grill,Momos,100,45,Rainy
+2024-06-15,Delhi,Saket,The Spice Route,Rajma Chawal,140,99,Rainy
+2024-03-17,Delhi,Karol Bagh,Local Zaika,Amritsari Kulcha,160,12,Humid
+2024-04-13,Delhi,Janakpuri,Flavors of Delhi,Paneer Butter Masala,220,136,Sunny
+2024-01-14,Delhi,Dwarka,Delhi Darbar,Rajma Chawal,140,139,Sunny
+2024-06-17,Delhi,Rohini,Zaika-e-Dilli,Amritsari Kulcha,160,125,Cloudy
+2024-03-30,Delhi,Saket,Punjab Grill,Amritsari Kulcha,160,143,Sunny
+2024-02-04,Delhi,Janakpuri,Zaika-e-Dilli,Aloo Tikki,80,40,Rainy
+2024-02-09,Delhi,Rohini,Biryani Blues,Dal Makhani,180,135,Humid
+2024-01-06,Delhi,Rohini,Biryani Blues,Aloo Tikki,80,77,Humid
+2024-04-15,Delhi,Dwarka,Biryani Blues,Aloo Tikki,80,16,Cool
+2024-04-19,Delhi,Lajpat Nagar,Biryani Blues,Chicken Biryani,250,31,Cloudy
+2024-01-14,Delhi,Lajpat Nagar,Delhi Darbar,Paneer Butter Masala,220,101,Humid
+2024-03-18,Delhi,Connaught Place,Biryani Blues,Chole Bhature,120,56,Sunny
+2024-04-29,Delhi,Vasant Kunj,Delhi Darbar,Dal Makhani,180,89,Humid
+2024-06-28,Delhi,Hauz Khas,Biryani Blues,Amritsari Kulcha,160,135,Humid
+2024-01-23,Delhi,Connaught Place,Zaika-e-Dilli,North Indian Thali,200,28,Sunny
+2024-01-28,Delhi,Karol Bagh,Haldiram's,Chicken Biryani,250,144,Sunny
+2024-03-18,Delhi,Hauz Khas,Haldiram's,Momos,100,92,Rainy
+2024-01-31,Delhi,Janakpuri,The Spice Route,North Indian Thali,200,131,Cloudy
+2024-03-29,Delhi,Rohini,Delhi Darbar,North Indian Thali,200,129,Humid
+2024-05-03,Delhi,Saket,Zaika-e-Dilli,Butter Naan,40,44,Humid
+2024-03-14,Delhi,Chandni Chowk,Local Zaika,Chicken Biryani,250,139,Rainy
+2024-04-28,Delhi,Dwarka,The Spice Route,Rajma Chawal,140,146,Sunny
+2024-02-05,Delhi,Rohini,Punjab Grill,North Indian Thali,200,78,Sunny
+2024-02-14,Delhi,Lajpat Nagar,The Spice Route,Butter Naan,40,12,Cool
+2024-03-26,Delhi,Lajpat Nagar,Punjab Grill,Momos,100,11,Cool
+2024-03-30,Delhi,Janakpuri,Punjab Grill,Dal Makhani,180,52,Cool
+2024-02-27,Delhi,Lajpat Nagar,The Spice Route,Butter Naan,40,146,Sunny
+2024-04-09,Delhi,Hauz Khas,Biryani Blues,Aloo Tikki,80,49,Humid
+2024-03-29,Delhi,Connaught Place,Flavors of Delhi,North Indian Thali,200,54,Cool
+2024-01-28,Delhi,Vasant Kunj,Haldiram's,North Indian Thali,200,107,Cool
+2024-05-18,Delhi,Dwarka,Punjab Grill,Rajma Chawal,140,113,Rainy
+2024-06-19,Delhi,Karol Bagh,Haldiram's,Chole Bhature,120,118,Sunny
+2024-06-22,Delhi,Vasant Kunj,Flavors of Delhi,Momos,100,109,Rainy
+2024-06-21,Delhi,Lajpat Nagar,Flavors of Delhi,Amritsari Kulcha,160,108,Rainy
+2024-02-15,Delhi,Chandni Chowk,Haldiram's,Butter Naan,40,68,Humid
+2024-05-14,Delhi,Hauz Khas,Local Zaika,Paneer Butter Masala,220,144,Cloudy
+2024-01-08,Delhi,Connaught Place,Local Zaika,Amritsari Kulcha,160,107,Rainy
+2024-03-22,Delhi,Connaught Place,Zaika-e-Dilli,Butter Naan,40,24,Humid
+2024-02-19,Delhi,Chandni Chowk,Delhi Darbar,Aloo Tikki,80,96,Cloudy
+2024-01-06,Delhi,Chandni Chowk,Zaika-e-Dilli,North Indian Thali,200,73,Rainy
+2024-05-24,Delhi,Saket,Zaika-e-Dilli,Chole Bhature,120,87,Humid
+2024-06-02,Delhi,Saket,Delhi Darbar,Paneer Butter Masala,220,74,Rainy
+2024-06-18,Delhi,Hauz Khas,The Spice Route,Amritsari Kulcha,160,119,Cool
+2024-05-22,Delhi,Vasant Kunj,Local Zaika,Chicken Biryani,250,25,Cloudy
+2024-02-26,Delhi,Connaught Place,Delhi Darbar,Dal Makhani,180,55,Cool
+2024-01-12,Delhi,Lajpat Nagar,Local Zaika,North Indian Thali,200,104,Rainy
+2024-01-27,Delhi,Janakpuri,Delhi Darbar,Amritsari Kulcha,160,143,Sunny
+2024-03-04,Delhi,Vasant Kunj,Punjab Grill,Butter Naan,40,48,Cool
+2024-04-06,Delhi,Chandni Chowk,Local Zaika,Paneer Butter Masala,220,32,Cool
+2024-03-30,Delhi,Connaught Place,Delhi Darbar,Rajma Chawal,140,120,Sunny
+2024-01-12,Delhi,Connaught Place,Punjab Grill,Chole Bhature,120,64,Cloudy
+2024-05-08,Delhi,Karol Bagh,Biryani Blues,Aloo Tikki,80,83,Rainy
+2024-01-12,Delhi,Dwarka,Local Zaika,Paneer Butter Masala,220,111,Cloudy
+2024-06-21,Delhi,Hauz Khas,Local Zaika,Paneer Butter Masala,220,126,Cloudy
+2024-02-10,Delhi,Connaught Place,Flavors of Delhi,Momos,100,121,Humid
+2024-06-14,Delhi,Vasant Kunj,Punjab Grill,Aloo Tikki,80,90,Cloudy
+2024-04-29,Delhi,Saket,Zaika-e-Dilli,Rajma Chawal,140,72,Cool
+2024-03-13,Delhi,Dwarka,Punjab Grill,Aloo Tikki,80,32,Humid
+2024-05-26,Delhi,Connaught Place,Biryani Blues,Aloo Tikki,80,116,Cloudy
+2024-04-15,Delhi,Rohini,Flavors of Delhi,Butter Naan,40,87,Humid
+2024-06-28,Delhi,Rohini,Zaika-e-Dilli,Amritsari Kulcha,160,105,Cool
+2024-06-13,Delhi,Janakpuri,Zaika-e-Dilli,Butter Naan,40,37,Sunny
+2024-06-18,Delhi,Chandni Chowk,Flavors of Delhi,Dal Makhani,180,111,Cool
+2024-02-16,Delhi,Saket,Biryani Blues,Momos,100,141,Rainy
+2024-03-03,Delhi,Rohini,Biryani Blues,Aloo Tikki,80,29,Humid
+2024-05-28,Delhi,Dwarka,Local Zaika,Aloo Tikki,80,95,Sunny
+2024-02-10,Delhi,Karol Bagh,Biryani Blues,Dal Makhani,180,93,Cool
+2024-02-18,Delhi,Rohini,Haldiram's,Rajma Chawal,140,100,Rainy
+2024-05-25,Delhi,Connaught Place,Delhi Darbar,Butter Naan,40,104,Rainy
+2024-05-11,Delhi,Dwarka,Delhi Darbar,Paneer Butter Masala,220,75,Cloudy
+2024-03-23,Delhi,Saket,Punjab Grill,Dal Makhani,180,39,Rainy
+2024-01-22,Delhi,Dwarka,Local Zaika,North Indian Thali,200,30,Humid
+2024-03-30,Delhi,Saket,Local Zaika,Aloo Tikki,80,101,Cool
+2024-05-10,Delhi,Rohini,Biryani Blues,Chole Bhature,120,91,Rainy
+2024-04-29,Delhi,Janakpuri,Zaika-e-Dilli,Butter Naan,40,87,Rainy
+2024-02-02,Delhi,Lajpat Nagar,The Spice Route,Dal Makhani,180,86,Sunny
+2024-06-15,Delhi,Chandni Chowk,Zaika-e-Dilli,Amritsari Kulcha,160,116,Rainy
+2024-03-18,Delhi,Chandni Chowk,Punjab Grill,Aloo Tikki,80,29,Cool
+2024-02-23,Delhi,Hauz Khas,Delhi Darbar,Chicken Biryani,250,58,Sunny
+2024-06-27,Delhi,Vasant Kunj,Zaika-e-Dilli,Butter Naan,40,15,Sunny
+2024-05-18,Delhi,Chandni Chowk,Zaika-e-Dilli,Momos,100,78,Sunny
+2024-03-13,Delhi,Janakpuri,Zaika-e-Dilli,Chole Bhature,120,23,Sunny
+2024-02-06,Delhi,Karol Bagh,Punjab Grill,Rajma Chawal,140,118,Cloudy
+2024-06-23,Delhi,Karol Bagh,Biryani Blues,North Indian Thali,200,130,Rainy
+2024-05-06,Delhi,Vasant Kunj,Haldiram's,Butter Naan,40,105,Humid
+2024-05-17,Delhi,Karol Bagh,The Spice Route,North Indian Thali,200,47,Rainy
+2024-02-06,Delhi,Lajpat Nagar,The Spice Route,Amritsari Kulcha,160,65,Cool
+2024-03-12,Delhi,Lajpat Nagar,Delhi Darbar,Butter Naan,40,40,Sunny
+2024-01-28,Delhi,Vasant Kunj,Zaika-e-Dilli,Paneer Butter Masala,220,42,Cloudy
+2024-01-27,Delhi,Vasant Kunj,Flavors of Delhi,Dal Makhani,180,75,Cool
+2024-04-02,Delhi,Dwarka,The Spice Route,Chole Bhature,120,102,Cloudy
+2024-03-22,Delhi,Lajpat Nagar,The Spice Route,Rajma Chawal,140,145,Sunny
+2024-01-04,Delhi,Connaught Place,Delhi Darbar,Momos,100,124,Sunny
+2024-02-29,Delhi,Connaught Place,Punjab Grill,Aloo Tikki,80,107,Sunny
+2024-03-04,Delhi,Hauz Khas,Delhi Darbar,Momos,100,110,Humid
+2024-05-17,Delhi,Karol Bagh,Punjab Grill,Dal Makhani,180,146,Sunny
+2024-01-03,Delhi,Saket,Flavors of Delhi,Amritsari Kulcha,160,147,Sunny
+2024-06-13,Delhi,Dwarka,Haldiram's,Dal Makhani,180,116,Cool
+2024-02-23,Delhi,Lajpat Nagar,The Spice Route,Dal Makhani,180,96,Cool
+2024-04-15,Delhi,Dwarka,Punjab Grill,Aloo Tikki,80,60,Humid
+2024-03-28,Delhi,Vasant Kunj,Delhi Darbar,Butter Naan,40,17,Humid
+2024-01-30,Delhi,Lajpat Nagar,Biryani Blues,Amritsari Kulcha,160,65,Cloudy
+2024-05-17,Delhi,Lajpat Nagar,Flavors of Delhi,Aloo Tikki,80,101,Rainy
+2024-03-20,Delhi,Janakpuri,Haldiram's,Amritsari Kulcha,160,35,Rainy
+2024-03-02,Delhi,Janakpuri,Haldiram's,Chicken Biryani,250,51,Sunny
+2024-02-20,Delhi,Vasant Kunj,Haldiram's,Amritsari Kulcha,160,41,Sunny
+2024-04-30,Delhi,Karol Bagh,Haldiram's,Amritsari Kulcha,160,13,Cloudy
+2024-06-13,Delhi,Hauz Khas,Punjab Grill,Chole Bhature,120,125,Sunny
+2024-02-05,Delhi,Rohini,Flavors of Delhi,Butter Naan,40,76,Cloudy
+2024-02-02,Delhi,Connaught Place,Haldiram's,North Indian Thali,200,97,Humid
+2024-02-06,Delhi,Vasant Kunj,Flavors of Delhi,Amritsari Kulcha,160,52,Humid
+2024-03-02,Delhi,Vasant Kunj,Delhi Darbar,Momos,100,105,Cloudy
+2024-02-23,Delhi,Hauz Khas,Delhi Darbar,Dal Makhani,180,55,Rainy
+2024-01-20,Delhi,Janakpuri,Delhi Darbar,Aloo Tikki,80,129,Sunny
+2024-03-25,Delhi,Hauz Khas,Local Zaika,Momos,100,104,Cloudy
+2024-01-02,Delhi,Rohini,Biryani Blues,Chicken Biryani,250,12,Sunny
+2024-04-30,Delhi,Connaught Place,Punjab Grill,North Indian Thali,200,122,Cloudy
+2024-03-30,Delhi,Connaught Place,The Spice Route,Rajma Chawal,140,53,Cool
+2024-02-04,Delhi,Lajpat Nagar,The Spice Route,Amritsari Kulcha,160,37,Humid
+2024-01-30,Delhi,Janakpuri,Delhi Darbar,Amritsari Kulcha,160,106,Rainy
+2024-02-14,Delhi,Hauz Khas,Punjab Grill,Momos,100,84,Cool
+2024-02-13,Delhi,Hauz Khas,Haldiram's,Butter Naan,40,20,Sunny
+2024-03-25,Delhi,Connaught Place,Delhi Darbar,Aloo Tikki,80,111,Cloudy
+2024-04-04,Delhi,Janakpuri,Flavors of Delhi,Paneer Butter Masala,220,16,Cloudy
+2024-02-21,Delhi,Chandni Chowk,Flavors of Delhi,Butter Naan,40,69,Rainy
+2024-02-11,Delhi,Janakpuri,Delhi Darbar,Dal Makhani,180,98,Humid
+2024-01-31,Delhi,Hauz Khas,The Spice Route,Momos,100,146,Cloudy
+2024-06-14,Delhi,Janakpuri,Punjab Grill,Paneer Butter Masala,220,125,Rainy
+2024-01-04,Delhi,Vasant Kunj,Delhi Darbar,Aloo Tikki,80,142,Sunny
+2024-05-19,Delhi,Rohini,Delhi Darbar,North Indian Thali,200,53,Cool
+2024-03-20,Delhi,Dwarka,The Spice Route,Rajma Chawal,140,23,Cool
+2024-04-09,Delhi,Chandni Chowk,Local Zaika,Butter Naan,40,113,Cloudy
+2024-05-24,Delhi,Lajpat Nagar,Biryani Blues,Butter Naan,40,60,Sunny
+2024-06-18,Delhi,Connaught Place,Biryani Blues,Aloo Tikki,80,79,Rainy
+2024-04-13,Delhi,Hauz Khas,Flavors of Delhi,Paneer Butter Masala,220,121,Rainy
+2024-04-23,Delhi,Lajpat Nagar,Haldiram's,Aloo Tikki,80,60,Cool
+2024-06-22,Delhi,Rohini,Punjab Grill,Butter Naan,40,52,Humid
+2024-05-22,Delhi,Hauz Khas,The Spice Route,Rajma Chawal,140,16,Cloudy
+2024-01-06,Delhi,Lajpat Nagar,Punjab Grill,Paneer Butter Masala,220,122,Cloudy
+2024-06-13,Delhi,Lajpat Nagar,Biryani Blues,Amritsari Kulcha,160,41,Cloudy
+2024-05-03,Delhi,Saket,Flavors of Delhi,Chole Bhature,120,49,Sunny
+2024-01-31,Delhi,Hauz Khas,Zaika-e-Dilli,Chicken Biryani,250,10,Humid
+2024-02-28,Delhi,Hauz Khas,Biryani Blues,Dal Makhani,180,117,Sunny
+2024-01-06,Delhi,Karol Bagh,The Spice Route,Momos,100,20,Cool
+2024-02-12,Delhi,Janakpuri,Delhi Darbar,Aloo Tikki,80,77,Sunny
+2024-06-14,Delhi,Chandni Chowk,Delhi Darbar,Rajma Chawal,140,88,Rainy
+2024-02-25,Delhi,Lajpat Nagar,The Spice Route,Paneer Butter Masala,220,72,Cloudy
+2024-06-15,Delhi,Karol Bagh,Flavors of Delhi,Chicken Biryani,250,14,Rainy
+2024-06-20,Delhi,Chandni Chowk,The Spice Route,Aloo Tikki,80,80,Cloudy
+2024-01-09,Delhi,Rohini,Zaika-e-Dilli,Dal Makhani,180,27,Rainy
+2024-02-07,Delhi,Lajpat Nagar,Haldiram's,Chicken Biryani,250,113,Cool
+2024-01-23,Delhi,Karol Bagh,The Spice Route,Momos,100,142,Sunny
+2024-03-03,Delhi,Rohini,Zaika-e-Dilli,Butter Naan,40,132,Sunny
+2024-04-14,Delhi,Janakpuri,Punjab Grill,Amritsari Kulcha,160,82,Humid
+2024-01-14,Delhi,Lajpat Nagar,Local Zaika,Paneer Butter Masala,220,71,Cool
+2024-04-24,Delhi,Chandni Chowk,Delhi Darbar,Momos,100,101,Sunny
+2024-05-09,Delhi,Chandni Chowk,Delhi Darbar,Chicken Biryani,250,59,Rainy
+2024-05-28,Delhi,Vasant Kunj,Zaika-e-Dilli,North Indian Thali,200,88,Sunny
+2024-06-23,Delhi,Dwarka,Punjab Grill,Paneer Butter Masala,220,125,Cool
+2024-06-21,Delhi,Lajpat Nagar,Flavors of Delhi,Momos,100,94,Humid
+2024-01-18,Delhi,Dwarka,Haldiram's,Chicken Biryani,250,43,Rainy
+2024-05-28,Delhi,Rohini,Delhi Darbar,Amritsari Kulcha,160,129,Humid
+2024-05-25,Delhi,Dwarka,Haldiram's,Chicken Biryani,250,104,Rainy
+2024-04-17,Delhi,Dwarka,Punjab Grill,Chole Bhature,120,79,Cool
+2024-02-24,Delhi,Lajpat Nagar,Haldiram's,Amritsari Kulcha,160,41,Sunny
+2024-05-11,Delhi,Saket,Punjab Grill,North Indian Thali,200,76,Cloudy
+2024-01-02,Delhi,Dwarka,Haldiram's,North Indian Thali,200,102,Cloudy
+2024-03-05,Delhi,Vasant Kunj,Zaika-e-Dilli,North Indian Thali,200,41,Sunny
+2024-01-16,Delhi,Connaught Place,Delhi Darbar,North Indian Thali,200,124,Rainy
+2024-05-30,Delhi,Rohini,Haldiram's,Aloo Tikki,80,21,Rainy
+2024-05-15,Delhi,Rohini,Punjab Grill,Momos,100,45,Cloudy
+2024-04-04,Delhi,Connaught Place,The Spice Route,Chicken Biryani,250,103,Cloudy
+2024-03-03,Delhi,Chandni Chowk,The Spice Route,Rajma Chawal,140,110,Cool
+2024-05-04,Delhi,Lajpat Nagar,The Spice Route,Dal Makhani,180,90,Rainy
+2024-06-06,Delhi,Hauz Khas,Biryani Blues,Aloo Tikki,80,139,Cloudy
+2024-05-21,Delhi,Rohini,Haldiram's,Momos,100,11,Cool
+2024-01-30,Delhi,Chandni Chowk,Biryani Blues,Chole Bhature,120,125,Cool
+2024-01-09,Delhi,Dwarka,Local Zaika,Rajma Chawal,140,82,Cloudy
+2024-06-03,Delhi,Chandni Chowk,Haldiram's,North Indian Thali,200,42,Cloudy
+2024-01-16,Delhi,Connaught Place,The Spice Route,Aloo Tikki,80,121,Rainy
+2024-02-22,Delhi,Vasant Kunj,Punjab Grill,Chole Bhature,120,139,Humid
+2024-05-15,Delhi,Saket,Punjab Grill,Momos,100,78,Humid
+2024-01-30,Delhi,Saket,Zaika-e-Dilli,Paneer Butter Masala,220,107,Cool
+2024-04-30,Delhi,Karol Bagh,Punjab Grill,Butter Naan,40,58,Humid
+2024-02-22,Delhi,Rohini,Local Zaika,Aloo Tikki,80,28,Cool
+2024-03-14,Delhi,Karol Bagh,Zaika-e-Dilli,Momos,100,87,Cloudy
+2024-01-18,Delhi,Connaught Place,Zaika-e-Dilli,Rajma Chawal,140,105,Humid
+2024-05-20,Delhi,Karol Bagh,Delhi Darbar,Dal Makhani,180,91,Rainy
+2024-04-17,Delhi,Janakpuri,Zaika-e-Dilli,Amritsari Kulcha,160,94,Humid
+2024-06-17,Delhi,Saket,The Spice Route,Chole Bhature,120,135,Cool
+2024-05-30,Delhi,Janakpuri,The Spice Route,Rajma Chawal,140,25,Humid
+2024-03-27,Delhi,Lajpat Nagar,Haldiram's,Aloo Tikki,80,99,Rainy
+2024-01-20,Delhi,Saket,Biryani Blues,Chole Bhature,120,35,Cloudy
+2024-04-11,Delhi,Dwarka,Local Zaika,Dal Makhani,180,81,Cloudy
+2024-01-02,Delhi,Karol Bagh,Haldiram's,Chicken Biryani,250,143,Cloudy
+2024-06-09,Delhi,Janakpuri,Punjab Grill,Dal Makhani,180,107,Sunny
+2024-02-27,Delhi,Dwarka,Zaika-e-Dilli,Paneer Butter Masala,220,78,Cool
+2024-05-21,Delhi,Lajpat Nagar,Haldiram's,Aloo Tikki,80,26,Cool
+2024-04-09,Delhi,Chandni Chowk,Flavors of Delhi,Rajma Chawal,140,86,Humid
+2024-03-06,Delhi,Karol Bagh,Zaika-e-Dilli,Amritsari Kulcha,160,125,Cloudy
+2024-05-28,Delhi,Hauz Khas,Local Zaika,Aloo Tikki,80,66,Cool
+2024-02-26,Delhi,Dwarka,Local Zaika,Chicken Biryani,250,18,Sunny
+2024-03-11,Delhi,Karol Bagh,Haldiram's,Butter Naan,40,73,Cloudy
+2024-01-28,Delhi,Lajpat Nagar,Zaika-e-Dilli,Momos,100,142,Sunny
+2024-06-11,Delhi,Rohini,Zaika-e-Dilli,Paneer Butter Masala,220,150,Cool
+2024-05-23,Delhi,Lajpat Nagar,Haldiram's,Aloo Tikki,80,66,Cloudy
+2024-06-11,Delhi,Lajpat Nagar,The Spice Route,Momos,100,107,Humid
+2024-04-22,Delhi,Connaught Place,Punjab Grill,Rajma Chawal,140,102,Cool
+2024-01-11,Delhi,Rohini,Biryani Blues,Chole Bhature,120,42,Humid
+2024-06-28,Delhi,Lajpat Nagar,Flavors of Delhi,Chicken Biryani,250,87,Humid
+2024-01-11,Delhi,Karol Bagh,Punjab Grill,Momos,100,100,Cool
+2024-05-20,Delhi,Saket,Flavors of Delhi,Paneer Butter Masala,220,117,Humid
+2024-02-20,Delhi,Vasant Kunj,Local Zaika,Chole Bhature,120,79,Sunny
+2024-05-20,Delhi,Connaught Place,Delhi Darbar,Aloo Tikki,80,53,Cool
+2024-02-29,Delhi,Dwarka,Delhi Darbar,Chole Bhature,120,12,Rainy
+2024-02-15,Delhi,Karol Bagh,Haldiram's,Momos,100,100,Rainy
+2024-04-19,Delhi,Vasant Kunj,Punjab Grill,Aloo Tikki,80,91,Cool
+2024-06-02,Delhi,Rohini,Local Zaika,Butter Naan,40,121,Humid
+2024-06-07,Delhi,Saket,Local Zaika,Dal Makhani,180,124,Humid
+2024-05-12,Delhi,Chandni Chowk,Local Zaika,Momos,100,147,Rainy
+2024-03-19,Delhi,Vasant Kunj,Haldiram's,Dal Makhani,180,141,Sunny
+2024-05-09,Delhi,Karol Bagh,Flavors of Delhi,Butter Naan,40,128,Rainy
+2024-06-05,Delhi,Connaught Place,Delhi Darbar,Chicken Biryani,250,138,Rainy
+2024-02-10,Delhi,Rohini,The Spice Route,Rajma Chawal,140,87,Cool
+2024-03-21,Delhi,Chandni Chowk,Punjab Grill,Dal Makhani,180,64,Sunny
+2024-03-26,Delhi,Vasant Kunj,Punjab Grill,Momos,100,58,Humid
+2024-05-24,Delhi,Rohini,The Spice Route,Butter Naan,40,141,Humid
+2024-01-22,Delhi,Chandni Chowk,Delhi Darbar,Dal Makhani,180,134,Humid
+2024-03-09,Delhi,Saket,Biryani Blues,Paneer Butter Masala,220,149,Rainy
+2024-04-05,Delhi,Janakpuri,The Spice Route,Dal Makhani,180,23,Cloudy
+2024-03-22,Delhi,Connaught Place,Haldiram's,Momos,100,138,Humid
+2024-01-03,Delhi,Lajpat Nagar,The Spice Route,Dal Makhani,180,15,Rainy
+2024-05-14,Delhi,Janakpuri,Biryani Blues,Butter Naan,40,120,Cloudy
+2024-04-10,Delhi,Vasant Kunj,Haldiram's,Butter Naan,40,102,Cloudy
+2024-03-20,Delhi,Chandni Chowk,Biryani Blues,Chole Bhature,120,147,Rainy
+2024-04-25,Delhi,Vasant Kunj,Delhi Darbar,Aloo Tikki,80,102,Rainy
+2024-02-04,Delhi,Rohini,Delhi Darbar,Amritsari Kulcha,160,107,Rainy
+2024-01-22,Delhi,Connaught Place,Local Zaika,Chole Bhature,120,126,Cool
+2024-01-30,Delhi,Lajpat Nagar,Zaika-e-Dilli,Amritsari Kulcha,160,74,Humid
+2024-05-14,Delhi,Dwarka,Delhi Darbar,Dal Makhani,180,104,Rainy
+2024-02-27,Delhi,Lajpat Nagar,Haldiram's,Paneer Butter Masala,220,126,Sunny
+2024-04-14,Delhi,Karol Bagh,Zaika-e-Dilli,Rajma Chawal,140,26,Rainy
+2024-02-12,Delhi,Dwarka,Biryani Blues,Aloo Tikki,80,57,Cool
+2024-01-09,Delhi,Rohini,Punjab Grill,North Indian Thali,200,54,Cloudy
+2024-02-17,Delhi,Lajpat Nagar,Punjab Grill,Amritsari Kulcha,160,138,Rainy
+2024-02-15,Delhi,Saket,Flavors of Delhi,Butter Naan,40,103,Rainy
+2024-02-02,Delhi,Janakpuri,Delhi Darbar,North Indian Thali,200,31,Humid
+2024-04-14,Delhi,Saket,Flavors of Delhi,Rajma Chawal,140,45,Rainy
+2024-06-03,Delhi,Lajpat Nagar,The Spice Route,North Indian Thali,200,24,Cloudy
+2024-03-05,Delhi,Lajpat Nagar,Delhi Darbar,Butter Naan,40,42,Rainy
+2024-03-22,Delhi,Lajpat Nagar,Zaika-e-Dilli,North Indian Thali,200,62,Sunny
+2024-06-16,Delhi,Dwarka,Biryani Blues,Chicken Biryani,250,104,Rainy
+2024-02-09,Delhi,Janakpuri,Local Zaika,Amritsari Kulcha,160,21,Rainy
+2024-02-23,Delhi,Chandni Chowk,Biryani Blues,Momos,100,29,Sunny
+2024-06-19,Delhi,Janakpuri,Haldiram's,Chicken Biryani,250,109,Cloudy
+2024-03-04,Delhi,Dwarka,Punjab Grill,Chole Bhature,120,147,Sunny
+2024-01-08,Delhi,Vasant Kunj,Flavors of Delhi,Rajma Chawal,140,132,Cloudy
+2024-04-28,Delhi,Connaught Place,Zaika-e-Dilli,Paneer Butter Masala,220,61,Rainy
+2024-06-09,Delhi,Rohini,The Spice Route,Momos,100,65,Rainy
+2024-01-15,Delhi,Karol Bagh,Zaika-e-Dilli,North Indian Thali,200,21,Cool
+2024-01-15,Delhi,Chandni Chowk,Biryani Blues,North Indian Thali,200,125,Cool
+2024-06-11,Delhi,Vasant Kunj,The Spice Route,North Indian Thali,200,98,Rainy
+2024-05-12,Delhi,Chandni Chowk,Local Zaika,Paneer Butter Masala,220,129,Humid
+2024-04-03,Delhi,Dwarka,Delhi Darbar,Rajma Chawal,140,88,Rainy
+2024-02-14,Delhi,Dwarka,Delhi Darbar,Chole Bhature,120,113,Cool
+2024-06-27,Delhi,Connaught Place,Flavors of Delhi,Chicken Biryani,250,146,Cool
+2024-03-17,Delhi,Dwarka,Flavors of Delhi,Aloo Tikki,80,133,Cool
+2024-02-01,Delhi,Karol Bagh,Haldiram's,Amritsari Kulcha,160,104,Cloudy
+2024-06-22,Delhi,Janakpuri,Zaika-e-Dilli,Rajma Chawal,140,51,Cloudy
+2024-04-16,Delhi,Lajpat Nagar,Haldiram's,Amritsari Kulcha,160,85,Rainy
+2024-02-09,Delhi,Rohini,Haldiram's,Dal Makhani,180,75,Rainy
+2024-01-25,Delhi,Chandni Chowk,Local Zaika,Rajma Chawal,140,134,Cool
+2024-02-06,Delhi,Vasant Kunj,Punjab Grill,Momos,100,113,Cloudy
+2024-03-25,Delhi,Chandni Chowk,The Spice Route,Aloo Tikki,80,75,Humid
+2024-03-17,Delhi,Janakpuri,Delhi Darbar,Paneer Butter Masala,220,148,Humid
+2024-06-17,Delhi,Hauz Khas,Haldiram's,Amritsari Kulcha,160,51,Rainy
+2024-02-17,Delhi,Janakpuri,Punjab Grill,Rajma Chawal,140,10,Cloudy
+2024-01-25,Delhi,Rohini,Local Zaika,North Indian Thali,200,40,Humid
+2024-01-20,Delhi,Dwarka,Delhi Darbar,Momos,100,137,Cool
+2024-03-13,Delhi,Hauz Khas,Zaika-e-Dilli,Rajma Chawal,140,86,Humid
+2024-01-13,Delhi,Connaught Place,Delhi Darbar,Chole Bhature,120,57,Sunny
+2024-01-17,Delhi,Connaught Place,Biryani Blues,Chicken Biryani,250,84,Cloudy
+2024-03-01,Delhi,Saket,Zaika-e-Dilli,Butter Naan,40,82,Sunny
+2024-03-28,Delhi,Connaught Place,Punjab Grill,Chole Bhature,120,80,Humid
+2024-02-28,Delhi,Vasant Kunj,Biryani Blues,Aloo Tikki,80,19,Humid
+2024-05-26,Delhi,Rohini,Delhi Darbar,North Indian Thali,200,18,Cool
+2024-01-10,Delhi,Hauz Khas,Local Zaika,Dal Makhani,180,19,Humid
+2024-01-24,Delhi,Connaught Place,Biryani Blues,Amritsari Kulcha,160,93,Sunny
+2024-03-02,Delhi,Connaught Place,Local Zaika,Dal Makhani,180,87,Rainy
+2024-04-27,Delhi,Saket,Haldiram's,Chole Bhature,120,79,Sunny
+2024-02-19,Delhi,Karol Bagh,Haldiram's,Chole Bhature,120,138,Sunny
+2024-05-01,Delhi,Rohini,Haldiram's,Butter Naan,40,37,Cool
+2024-05-03,Delhi,Janakpuri,Local Zaika,Dal Makhani,180,106,Humid
+2024-05-24,Delhi,Chandni Chowk,Local Zaika,Amritsari Kulcha,160,67,Cool
+2024-02-07,Delhi,Lajpat Nagar,Flavors of Delhi,Dal Makhani,180,10,Cool
+2024-03-16,Delhi,Connaught Place,Local Zaika,Paneer Butter Masala,220,119,Sunny
+2024-05-26,Delhi,Lajpat Nagar,Haldiram's,Momos,100,143,Rainy
+2024-03-21,Delhi,Dwarka,Zaika-e-Dilli,Paneer Butter Masala,220,117,Cloudy
+2024-04-19,Delhi,Janakpuri,Punjab Grill,Butter Naan,40,144,Cloudy
+2024-01-18,Delhi,Karol Bagh,Delhi Darbar,Chicken Biryani,250,75,Rainy
+2024-01-20,Delhi,Saket,Punjab Grill,Chole Bhature,120,96,Cloudy
+2024-04-09,Delhi,Saket,Biryani Blues,Butter Naan,40,135,Cool
+2024-06-28,Delhi,Hauz Khas,Punjab Grill,Aloo Tikki,80,53,Cloudy
+2024-06-03,Delhi,Karol Bagh,The Spice Route,Rajma Chawal,140,25,Rainy
+2024-04-12,Delhi,Rohini,Flavors of Delhi,Rajma Chawal,140,11,Humid
+2024-05-14,Delhi,Hauz Khas,Punjab Grill,Chicken Biryani,250,44,Cloudy
+2024-06-20,Delhi,Connaught Place,Local Zaika,Amritsari Kulcha,160,83,Cool
+2024-06-22,Delhi,Janakpuri,Flavors of Delhi,Butter Naan,40,59,Sunny
+2024-06-06,Delhi,Saket,Zaika-e-Dilli,Butter Naan,40,39,Sunny
+2024-02-10,Delhi,Vasant Kunj,Zaika-e-Dilli,Dal Makhani,180,63,Sunny
+2024-03-26,Delhi,Karol Bagh,Delhi Darbar,Momos,100,119,Sunny
+2024-01-27,Delhi,Connaught Place,Haldiram's,Rajma Chawal,140,150,Sunny
+2024-01-03,Delhi,Vasant Kunj,Zaika-e-Dilli,Dal Makhani,180,24,Sunny
+2024-05-06,Delhi,Dwarka,Punjab Grill,Momos,100,14,Rainy
+2024-03-11,Delhi,Janakpuri,Biryani Blues,Amritsari Kulcha,160,58,Humid
+2024-03-10,Delhi,Janakpuri,Local Zaika,North Indian Thali,200,88,Cool
+2024-01-20,Delhi,Connaught Place,Zaika-e-Dilli,Chole Bhature,120,35,Cloudy
+2024-03-17,Delhi,Saket,Flavors of Delhi,Amritsari Kulcha,160,119,Cloudy
+2024-04-25,Delhi,Hauz Khas,Haldiram's,Dal Makhani,180,36,Sunny
+2024-05-03,Delhi,Karol Bagh,Haldiram's,Momos,100,80,Humid
+2024-05-22,Delhi,Hauz Khas,Biryani Blues,Chicken Biryani,250,16,Cool
+2024-02-14,Delhi,Lajpat Nagar,Haldiram's,Paneer Butter Masala,220,50,Cloudy
+2024-03-22,Delhi,Hauz Khas,Flavors of Delhi,Aloo Tikki,80,10,Rainy
+2024-04-26,Delhi,Chandni Chowk,Zaika-e-Dilli,Rajma Chawal,140,72,Humid
+2024-05-16,Delhi,Dwarka,Haldiram's,Rajma Chawal,140,107,Cool
+2024-05-24,Delhi,Karol Bagh,The Spice Route,Chicken Biryani,250,78,Rainy
+2024-03-03,Delhi,Janakpuri,Delhi Darbar,North Indian Thali,200,138,Sunny
+2024-01-10,Delhi,Connaught Place,Punjab Grill,Momos,100,115,Sunny
+2024-04-10,Delhi,Chandni Chowk,The Spice Route,Butter Naan,40,74,Cloudy
+2024-05-05,Delhi,Hauz Khas,Biryani Blues,Rajma Chawal,140,144,Sunny
+2024-05-03,Delhi,Janakpuri,Biryani Blues,Paneer Butter Masala,220,122,Sunny
+2024-05-04,Delhi,Saket,Flavors of Delhi,Momos,100,56,Rainy
+2024-04-16,Delhi,Vasant Kunj,The Spice Route,Rajma Chawal,140,40,Rainy
+2024-01-15,Delhi,Karol Bagh,Delhi Darbar,North Indian Thali,200,70,Rainy
+2024-05-24,Delhi,Chandni Chowk,Zaika-e-Dilli,Paneer Butter Masala,220,115,Cool
+2024-03-10,Delhi,Dwarka,Punjab Grill,Chicken Biryani,250,85,Rainy
+2024-01-17,Delhi,Saket,The Spice Route,Dal Makhani,180,138,Cool
+2024-01-07,Delhi,Vasant Kunj,Haldiram's,Amritsari Kulcha,160,76,Humid
+2024-04-30,Delhi,Chandni Chowk,Punjab Grill,Chicken Biryani,250,146,Sunny
+2024-04-24,Delhi,Karol Bagh,Punjab Grill,Chicken Biryani,250,143,Cool
+2024-06-15,Delhi,Vasant Kunj,Punjab Grill,North Indian Thali,200,126,Cool
+2024-03-09,Delhi,Saket,Flavors of Delhi,Aloo Tikki,80,111,Sunny
+2024-04-02,Delhi,Saket,Zaika-e-Dilli,Chole Bhature,120,111,Rainy
+2024-04-27,Delhi,Rohini,Biryani Blues,Dal Makhani,180,48,Humid
+2024-02-27,Delhi,Connaught Place,Punjab Grill,Rajma Chawal,140,56,Cloudy
+2024-06-28,Delhi,Connaught Place,Flavors of Delhi,Paneer Butter Masala,220,88,Humid
+2024-05-22,Delhi,Vasant Kunj,The Spice Route,Paneer Butter Masala,220,73,Cool
+2024-05-30,Delhi,Dwarka,Punjab Grill,Rajma Chawal,140,61,Cloudy
+2024-04-03,Delhi,Dwarka,Flavors of Delhi,Momos,100,30,Rainy
+2024-03-14,Delhi,Dwarka,Punjab Grill,Chicken Biryani,250,53,Sunny
+2024-01-30,Delhi,Janakpuri,Biryani Blues,Paneer Butter Masala,220,17,Rainy
+2024-02-11,Delhi,Dwarka,Punjab Grill,Chicken Biryani,250,19,Humid
+2024-04-06,Delhi,Lajpat Nagar,Local Zaika,North Indian Thali,200,38,Cloudy
+2024-02-23,Delhi,Vasant Kunj,Haldiram's,Dal Makhani,180,142,Sunny
+2024-02-14,Delhi,Lajpat Nagar,Local Zaika,Paneer Butter Masala,220,77,Rainy
+2024-03-16,Delhi,Chandni Chowk,Delhi Darbar,Paneer Butter Masala,220,77,Cloudy
+2024-06-24,Delhi,Karol Bagh,Local Zaika,Momos,100,142,Rainy
+2024-06-28,Delhi,Saket,Flavors of Delhi,Chicken Biryani,250,110,Cool
+2024-06-10,Delhi,Lajpat Nagar,Flavors of Delhi,Chole Bhature,120,50,Rainy
+2024-04-04,Delhi,Vasant Kunj,Flavors of Delhi,Butter Naan,40,67,Rainy
+2024-03-16,Delhi,Lajpat Nagar,Delhi Darbar,Rajma Chawal,140,110,Humid
+2024-02-24,Delhi,Hauz Khas,Haldiram's,Aloo Tikki,80,10,Cloudy
+2024-03-16,Delhi,Chandni Chowk,The Spice Route,Aloo Tikki,80,58,Cool
+2024-06-20,Delhi,Hauz Khas,Zaika-e-Dilli,Chicken Biryani,250,146,Cloudy
+2024-04-03,Delhi,Connaught Place,The Spice Route,Chole Bhature,120,97,Cloudy
+2024-02-22,Delhi,Connaught Place,Punjab Grill,Butter Naan,40,114,Cloudy
+2024-05-29,Delhi,Janakpuri,Flavors of Delhi,Paneer Butter Masala,220,90,Rainy
+2024-04-29,Delhi,Saket,The Spice Route,Paneer Butter Masala,220,99,Cloudy
+2024-02-02,Delhi,Saket,Local Zaika,North Indian Thali,200,75,Sunny
+2024-06-12,Delhi,Lajpat Nagar,Zaika-e-Dilli,Amritsari Kulcha,160,149,Humid
+2024-06-28,Delhi,Karol Bagh,Delhi Darbar,Rajma Chawal,140,59,Sunny
+2024-03-26,Delhi,Lajpat Nagar,Haldiram's,Rajma Chawal,140,147,Cool
+2024-06-24,Delhi,Connaught Place,Zaika-e-Dilli,Paneer Butter Masala,220,132,Rainy
+2024-04-18,Delhi,Janakpuri,Punjab Grill,Amritsari Kulcha,160,129,Cool
+2024-01-06,Delhi,Dwarka,The Spice Route,Paneer Butter Masala,220,93,Sunny
+2024-01-12,Delhi,Lajpat Nagar,The Spice Route,Chicken Biryani,250,27,Rainy
+2024-06-25,Delhi,Dwarka,Haldiram's,Rajma Chawal,140,34,Rainy
+2024-03-07,Delhi,Hauz Khas,Flavors of Delhi,North Indian Thali,200,81,Humid
+2024-06-13,Delhi,Saket,Haldiram's,Chicken Biryani,250,121,Rainy
+2024-04-27,Delhi,Karol Bagh,Haldiram's,Paneer Butter Masala,220,19,Cool
+2024-01-01,Delhi,Karol Bagh,Delhi Darbar,Paneer Butter Masala,220,27,Rainy
+2024-05-14,Delhi,Janakpuri,The Spice Route,Rajma Chawal,140,46,Humid
+2024-05-31,Delhi,Lajpat Nagar,Haldiram's,Momos,100,84,Sunny
+2024-03-05,Delhi,Dwarka,The Spice Route,Amritsari Kulcha,160,150,Cool
+2024-02-07,Delhi,Janakpuri,Zaika-e-Dilli,Rajma Chawal,140,99,Rainy
+2024-03-17,Delhi,Saket,Flavors of Delhi,Momos,100,107,Cloudy
+2024-04-10,Delhi,Vasant Kunj,Haldiram's,Chicken Biryani,250,132,Rainy
+2024-04-10,Delhi,Connaught Place,Haldiram's,Chicken Biryani,250,105,Cool
+2024-02-15,Delhi,Vasant Kunj,Local Zaika,Dal Makhani,180,67,Rainy
+2024-03-02,Delhi,Rohini,Haldiram's,Aloo Tikki,80,89,Humid
+2024-04-25,Delhi,Karol Bagh,Delhi Darbar,Dal Makhani,180,116,Sunny
+2024-05-09,Delhi,Rohini,Haldiram's,Chicken Biryani,250,56,Humid
+2024-02-14,Delhi,Chandni Chowk,Punjab Grill,Aloo Tikki,80,96,Cool
+2024-03-11,Delhi,Connaught Place,Flavors of Delhi,Paneer Butter Masala,220,81,Humid
+2024-03-12,Delhi,Lajpat Nagar,Zaika-e-Dilli,Paneer Butter Masala,220,136,Rainy
+2024-04-15,Delhi,Dwarka,Haldiram's,Rajma Chawal,140,23,Cool
+2024-01-31,Delhi,Karol Bagh,Local Zaika,Paneer Butter Masala,220,110,Rainy
+2024-04-05,Delhi,Lajpat Nagar,Punjab Grill,Butter Naan,40,95,Rainy
+2024-03-24,Delhi,Hauz Khas,Flavors of Delhi,Momos,100,45,Sunny
+2024-05-25,Delhi,Janakpuri,Local Zaika,Chicken Biryani,250,125,Cool
+2024-04-16,Delhi,Rohini,Delhi Darbar,North Indian Thali,200,19,Cool
+2024-05-23,Delhi,Saket,The Spice Route,Momos,100,86,Cloudy
+2024-04-13,Delhi,Hauz Khas,The Spice Route,Dal Makhani,180,17,Humid
+2024-03-12,Delhi,Connaught Place,Zaika-e-Dilli,Butter Naan,40,62,Cloudy
+2024-03-30,Delhi,Lajpat Nagar,The Spice Route,North Indian Thali,200,27,Cloudy
+2024-06-27,Delhi,Vasant Kunj,Biryani Blues,Chicken Biryani,250,137,Sunny
+2024-04-02,Delhi,Dwarka,The Spice Route,Momos,100,120,Sunny
+2024-02-16,Delhi,Chandni Chowk,Local Zaika,Dal Makhani,180,25,Cool
+2024-04-30,Delhi,Vasant Kunj,Delhi Darbar,North Indian Thali,200,116,Humid
+2024-04-07,Delhi,Karol Bagh,Flavors of Delhi,Dal Makhani,180,114,Cool
+2024-05-24,Delhi,Vasant Kunj,Haldiram's,Rajma Chawal,140,128,Cool
+2024-04-15,Delhi,Saket,Haldiram's,Butter Naan,40,129,Rainy
+2024-04-14,Delhi,Saket,Punjab Grill,Paneer Butter Masala,220,41,Sunny
+2024-06-08,Delhi,Vasant Kunj,Biryani Blues,Dal Makhani,180,106,Cool
+2024-06-18,Delhi,Dwarka,Delhi Darbar,Aloo Tikki,80,29,Rainy
+2024-02-13,Delhi,Connaught Place,The Spice Route,Chicken Biryani,250,122,Humid
+2024-05-20,Delhi,Lajpat Nagar,Flavors of Delhi,Dal Makhani,180,73,Rainy
+2024-03-27,Delhi,Karol Bagh,Punjab Grill,Rajma Chawal,140,21,Cool
+2024-01-05,Delhi,Connaught Place,Flavors of Delhi,Butter Naan,40,133,Cool
+2024-04-13,Delhi,Hauz Khas,Delhi Darbar,Paneer Butter Masala,220,107,Rainy
+2024-06-18,Delhi,Chandni Chowk,The Spice Route,Dal Makhani,180,136,Cloudy
+2024-04-10,Delhi,Lajpat Nagar,The Spice Route,Amritsari Kulcha,160,84,Cool
+2024-03-30,Delhi,Janakpuri,Punjab Grill,Amritsari Kulcha,160,124,Sunny
+2024-04-29,Delhi,Saket,Local Zaika,Dal Makhani,180,74,Cool
+2024-06-16,Delhi,Connaught Place,Delhi Darbar,Dal Makhani,180,49,Humid
+2024-01-10,Delhi,Janakpuri,The Spice Route,North Indian Thali,200,109,Sunny
+2024-03-29,Delhi,Lajpat Nagar,Zaika-e-Dilli,Chole Bhature,120,25,Sunny
+2024-02-26,Delhi,Chandni Chowk,The Spice Route,Aloo Tikki,80,28,Rainy
+2024-05-09,Delhi,Janakpuri,Punjab Grill,Butter Naan,40,88,Sunny
+2024-05-16,Delhi,Vasant Kunj,Haldiram's,Dal Makhani,180,95,Humid
+2024-04-01,Delhi,Vasant Kunj,Delhi Darbar,Paneer Butter Masala,220,115,Cloudy
+2024-02-16,Delhi,Dwarka,Zaika-e-Dilli,Butter Naan,40,63,Humid
+2024-05-24,Delhi,Hauz Khas,Flavors of Delhi,Chicken Biryani,250,81,Sunny
+2024-06-02,Delhi,Karol Bagh,Haldiram's,Butter Naan,40,124,Sunny
+2024-02-01,Delhi,Lajpat Nagar,The Spice Route,Aloo Tikki,80,12,Cloudy
+2024-05-07,Delhi,Hauz Khas,Haldiram's,Butter Naan,40,56,Cloudy
+2024-02-19,Delhi,Dwarka,Flavors of Delhi,Chole Bhature,120,85,Rainy
+2024-06-14,Delhi,Lajpat Nagar,Biryani Blues,Aloo Tikki,80,143,Sunny
+2024-05-09,Delhi,Dwarka,Zaika-e-Dilli,Rajma Chawal,140,96,Sunny
+2024-01-15,Delhi,Connaught Place,Zaika-e-Dilli,Paneer Butter Masala,220,132,Humid
+2024-05-04,Delhi,Chandni Chowk,Local Zaika,Dal Makhani,180,53,Rainy
+2024-06-22,Delhi,Connaught Place,Flavors of Delhi,North Indian Thali,200,140,Rainy
+2024-04-06,Delhi,Karol Bagh,Punjab Grill,Chole Bhature,120,66,Cloudy
+2024-04-08,Delhi,Hauz Khas,Haldiram's,Amritsari Kulcha,160,131,Cloudy
+2024-02-26,Delhi,Vasant Kunj,Punjab Grill,Chole Bhature,120,142,Humid
+2024-04-10,Delhi,Janakpuri,Flavors of Delhi,Butter Naan,40,126,Cloudy
+2024-01-31,Delhi,Connaught Place,Biryani Blues,Chole Bhature,120,129,Sunny
+2024-03-30,Delhi,Hauz Khas,Zaika-e-Dilli,Chole Bhature,120,10,Sunny
+2024-03-04,Delhi,Karol Bagh,Biryani Blues,Momos,100,59,Humid
+2024-02-15,Delhi,Chandni Chowk,The Spice Route,Paneer Butter Masala,220,30,Rainy
+2024-03-09,Delhi,Chandni Chowk,Biryani Blues,Dal Makhani,180,135,Cloudy
+2024-01-20,Delhi,Hauz Khas,Delhi Darbar,Paneer Butter Masala,220,113,Cool
+2024-03-25,Delhi,Vasant Kunj,Biryani Blues,Butter Naan,40,109,Cloudy
+2024-01-28,Delhi,Rohini,Zaika-e-Dilli,Paneer Butter Masala,220,60,Cloudy
+2024-02-09,Delhi,Karol Bagh,Biryani Blues,Amritsari Kulcha,160,86,Cloudy
+2024-05-20,Delhi,Lajpat Nagar,Haldiram's,Dal Makhani,180,15,Cloudy
+2024-03-28,Delhi,Dwarka,Punjab Grill,Momos,100,96,Cloudy
+2024-06-17,Delhi,Janakpuri,Delhi Darbar,Paneer Butter Masala,220,80,Cloudy
+2024-05-10,Delhi,Rohini,Zaika-e-Dilli,Paneer Butter Masala,220,98,Humid
+2024-02-29,Delhi,Saket,Punjab Grill,North Indian Thali,200,86,Cloudy
+2024-01-16,Delhi,Dwarka,Delhi Darbar,Momos,100,58,Rainy
+2024-03-04,Delhi,Rohini,Punjab Grill,Paneer Butter Masala,220,143,Rainy
+2024-01-12,Delhi,Vasant Kunj,Zaika-e-Dilli,Chicken Biryani,250,33,Cloudy
+2024-01-25,Delhi,Connaught Place,The Spice Route,Rajma Chawal,140,150,Sunny
+2024-05-31,Delhi,Hauz Khas,Biryani Blues,Amritsari Kulcha,160,127,Cool
+2024-06-14,Delhi,Dwarka,The Spice Route,North Indian Thali,200,25,Cool
+2024-01-10,Delhi,Vasant Kunj,Delhi Darbar,Chicken Biryani,250,108,Cloudy
+2024-01-04,Delhi,Vasant Kunj,Zaika-e-Dilli,Amritsari Kulcha,160,86,Humid
+2024-04-14,Delhi,Connaught Place,Delhi Darbar,Paneer Butter Masala,220,18,Humid
+2024-03-10,Delhi,Chandni Chowk,Zaika-e-Dilli,Dal Makhani,180,26,Rainy
+2024-06-20,Delhi,Chandni Chowk,Flavors of Delhi,Aloo Tikki,80,78,Cloudy
+2024-02-06,Delhi,Vasant Kunj,Haldiram's,Paneer Butter Masala,220,145,Cool
+2024-02-11,Delhi,Saket,The Spice Route,Paneer Butter Masala,220,53,Cool
+2024-02-16,Delhi,Lajpat Nagar,Delhi Darbar,Butter Naan,40,89,Sunny
+2024-03-17,Delhi,Janakpuri,Biryani Blues,Butter Naan,40,119,Cloudy
+2024-05-09,Delhi,Dwarka,Delhi Darbar,Rajma Chawal,140,112,Cool
+2024-04-12,Delhi,Rohini,Flavors of Delhi,Chicken Biryani,250,94,Cool
+2024-01-10,Delhi,Vasant Kunj,Haldiram's,Momos,100,75,Humid
+2024-05-28,Delhi,Saket,Flavors of Delhi,Aloo Tikki,80,35,Cool
+2024-05-16,Delhi,Chandni Chowk,Haldiram's,Chole Bhature,120,79,Cloudy
+2024-05-03,Delhi,Karol Bagh,Biryani Blues,North Indian Thali,200,22,Cloudy
+2024-01-21,Delhi,Karol Bagh,Punjab Grill,North Indian Thali,200,33,Cloudy
+2024-02-15,Delhi,Janakpuri,Zaika-e-Dilli,Aloo Tikki,80,34,Sunny
+2024-06-15,Delhi,Hauz Khas,The Spice Route,Momos,100,96,Humid
+2024-05-16,Delhi,Karol Bagh,Haldiram's,Rajma Chawal,140,129,Sunny
+2024-03-11,Delhi,Janakpuri,The Spice Route,North Indian Thali,200,29,Rainy
+2024-02-04,Delhi,Rohini,The Spice Route,Momos,100,124,Rainy
+2024-03-29,Delhi,Rohini,Punjab Grill,Momos,100,32,Rainy
+2024-03-04,Delhi,Chandni Chowk,Zaika-e-Dilli,Dal Makhani,180,54,Cloudy
+2024-03-09,Delhi,Connaught Place,Zaika-e-Dilli,Chole Bhature,120,135,Rainy
+2024-06-09,Delhi,Vasant Kunj,Flavors of Delhi,Momos,100,24,Sunny
+2024-04-30,Delhi,Dwarka,Zaika-e-Dilli,Aloo Tikki,80,90,Humid
+2024-01-25,Delhi,Vasant Kunj,Biryani Blues,Butter Naan,40,143,Cool
+2024-02-25,Delhi,Karol Bagh,Delhi Darbar,Dal Makhani,180,140,Sunny
+2024-04-21,Delhi,Lajpat Nagar,The Spice Route,Butter Naan,40,140,Humid
+2024-04-24,Delhi,Connaught Place,Delhi Darbar,Rajma Chawal,140,103,Cool
+2024-04-14,Delhi,Connaught Place,Flavors of Delhi,Dal Makhani,180,139,Rainy
+2024-05-31,Delhi,Dwarka,Delhi Darbar,Rajma Chawal,140,36,Rainy
+2024-05-11,Delhi,Karol Bagh,Punjab Grill,Chole Bhature,120,103,Cloudy
+2024-04-29,Delhi,Janakpuri,Biryani Blues,Amritsari Kulcha,160,102,Humid
+2024-03-20,Delhi,Hauz Khas,Punjab Grill,Butter Naan,40,108,Cloudy
+2024-06-14,Delhi,Vasant Kunj,Flavors of Delhi,Paneer Butter Masala,220,127,Rainy
+2024-05-11,Delhi,Rohini,Local Zaika,Aloo Tikki,80,32,Rainy
+2024-03-08,Delhi,Lajpat Nagar,Biryani Blues,Paneer Butter Masala,220,10,Cloudy
+2024-06-05,Delhi,Hauz Khas,The Spice Route,Momos,100,40,Cool
+2024-06-25,Delhi,Chandni Chowk,The Spice Route,Chole Bhature,120,52,Rainy
+2024-04-07,Delhi,Connaught Place,Zaika-e-Dilli,Chicken Biryani,250,29,Sunny
+2024-03-01,Delhi,Saket,Zaika-e-Dilli,Paneer Butter Masala,220,54,Sunny
+2024-01-08,Delhi,Connaught Place,Flavors of Delhi,Chicken Biryani,250,63,Sunny
+2024-01-30,Delhi,Chandni Chowk,Local Zaika,Aloo Tikki,80,110,Rainy
+2024-01-06,Delhi,Janakpuri,Zaika-e-Dilli,Chole Bhature,120,25,Rainy
+2024-05-05,Delhi,Connaught Place,Delhi Darbar,Momos,100,13,Sunny
+2024-06-21,Delhi,Janakpuri,Zaika-e-Dilli,Amritsari Kulcha,160,39,Sunny
+2024-05-24,Delhi,Hauz Khas,Local Zaika,Momos,100,48,Sunny
+2024-05-05,Delhi,Chandni Chowk,Haldiram's,North Indian Thali,200,120,Cool
+2024-03-27,Delhi,Hauz Khas,Biryani Blues,Dal Makhani,180,72,Cool
+2024-03-13,Delhi,Saket,Punjab Grill,Rajma Chawal,140,132,Rainy
+2024-02-27,Delhi,Vasant Kunj,The Spice Route,Butter Naan,40,141,Sunny
+2024-01-15,Delhi,Saket,Punjab Grill,Rajma Chawal,140,68,Sunny
+2024-01-10,Delhi,Rohini,Delhi Darbar,Aloo Tikki,80,35,Cool
+2024-05-19,Delhi,Karol Bagh,Flavors of Delhi,Amritsari Kulcha,160,31,Rainy
+2024-02-27,Delhi,Saket,Zaika-e-Dilli,Amritsari Kulcha,160,30,Cool
+2024-04-17,Delhi,Saket,The Spice Route,Rajma Chawal,140,69,Cloudy
+2024-01-14,Delhi,Karol Bagh,Delhi Darbar,Rajma Chawal,140,101,Cloudy
+2024-03-24,Delhi,Dwarka,Local Zaika,North Indian Thali,200,124,Cloudy
+2024-05-20,Delhi,Chandni Chowk,Delhi Darbar,Dal Makhani,180,16,Rainy
+2024-02-04,Delhi,Janakpuri,The Spice Route,Momos,100,60,Cool
+2024-04-18,Delhi,Janakpuri,Zaika-e-Dilli,Amritsari Kulcha,160,79,Humid
+2024-02-28,Delhi,Karol Bagh,Delhi Darbar,Amritsari Kulcha,160,22,Cool
+2024-05-20,Delhi,Saket,Biryani Blues,Chicken Biryani,250,122,Sunny
+2024-06-04,Delhi,Rohini,Haldiram's,Rajma Chawal,140,54,Sunny
+2024-01-23,Delhi,Rohini,Flavors of Delhi,Paneer Butter Masala,220,19,Sunny
+2024-05-16,Delhi,Chandni Chowk,Delhi Darbar,Rajma Chawal,140,140,Cloudy
+2024-02-19,Delhi,Saket,Haldiram's,Chicken Biryani,250,115,Sunny
+2024-04-02,Delhi,Vasant Kunj,Local Zaika,Paneer Butter Masala,220,18,Rainy
+2024-01-17,Delhi,Dwarka,Punjab Grill,Butter Naan,40,10,Humid
+2024-02-26,Delhi,Rohini,Punjab Grill,Momos,100,22,Cool
+2024-05-25,Delhi,Vasant Kunj,Zaika-e-Dilli,Momos,100,32,Rainy
+2024-04-21,Delhi,Lajpat Nagar,Flavors of Delhi,Chicken Biryani,250,107,Rainy
+2024-04-09,Delhi,Vasant Kunj,The Spice Route,Momos,100,89,Cool
+2024-03-23,Delhi,Karol Bagh,Flavors of Delhi,North Indian Thali,200,77,Cool
+2024-01-22,Delhi,Saket,Delhi Darbar,Dal Makhani,180,149,Humid
+2024-04-19,Delhi,Janakpuri,Delhi Darbar,Amritsari Kulcha,160,149,Cool
+2024-05-16,Delhi,Hauz Khas,The Spice Route,North Indian Thali,200,16,Humid
+2024-03-13,Delhi,Saket,Punjab Grill,Butter Naan,40,114,Sunny
+2024-03-22,Delhi,Lajpat Nagar,Zaika-e-Dilli,Aloo Tikki,80,69,Rainy
+2024-02-16,Delhi,Lajpat Nagar,Haldiram's,Aloo Tikki,80,101,Humid
+2024-04-23,Delhi,Rohini,Punjab Grill,Rajma Chawal,140,140,Sunny
+2024-04-26,Delhi,Lajpat Nagar,Biryani Blues,Amritsari Kulcha,160,131,Cool
+2024-03-07,Delhi,Chandni Chowk,Delhi Darbar,Amritsari Kulcha,160,56,Cloudy
+2024-06-28,Delhi,Connaught Place,Delhi Darbar,Butter Naan,40,116,Rainy
+2024-05-20,Delhi,Karol Bagh,Punjab Grill,Chicken Biryani,250,103,Cloudy
+2024-02-05,Delhi,Rohini,The Spice Route,Amritsari Kulcha,160,97,Humid
+2024-06-21,Delhi,Saket,Punjab Grill,Rajma Chawal,140,23,Cloudy
+2024-04-28,Delhi,Karol Bagh,Flavors of Delhi,Aloo Tikki,80,122,Cool
+2024-04-02,Delhi,Karol Bagh,Local Zaika,Butter Naan,40,18,Sunny
+2024-05-15,Delhi,Dwarka,Punjab Grill,Paneer Butter Masala,220,86,Humid
+2024-01-17,Delhi,Saket,Punjab Grill,Dal Makhani,180,99,Cool
+2024-01-15,Delhi,Karol Bagh,Haldiram's,Chicken Biryani,250,131,Cool
+2024-06-22,Delhi,Saket,The Spice Route,Rajma Chawal,140,10,Sunny
+2024-03-30,Delhi,Rohini,Biryani Blues,Momos,100,80,Cloudy
+2024-02-18,Delhi,Chandni Chowk,Biryani Blues,Dal Makhani,180,111,Cloudy
+2024-03-05,Delhi,Rohini,Local Zaika,Aloo Tikki,80,130,Sunny
+2024-06-03,Delhi,Lajpat Nagar,Delhi Darbar,Momos,100,13,Humid
+2024-03-11,Delhi,Janakpuri,Flavors of Delhi,Paneer Butter Masala,220,105,Humid
+2024-05-23,Delhi,Janakpuri,Haldiram's,Momos,100,114,Sunny
+2024-03-27,Delhi,Lajpat Nagar,Biryani Blues,Dal Makhani,180,44,Humid
+2024-01-22,Delhi,Dwarka,Local Zaika,Aloo Tikki,80,34,Cool
+2024-04-19,Delhi,Janakpuri,Punjab Grill,North Indian Thali,200,112,Humid
+2024-02-12,Delhi,Rohini,The Spice Route,North Indian Thali,200,114,Rainy
+2024-01-03,Delhi,Vasant Kunj,Zaika-e-Dilli,Dal Makhani,180,84,Rainy
+2024-05-24,Delhi,Dwarka,Local Zaika,Chicken Biryani,250,110,Cloudy
+2024-03-07,Delhi,Vasant Kunj,Delhi Darbar,Rajma Chawal,140,118,Cloudy
+2024-04-10,Delhi,Saket,Flavors of Delhi,Amritsari Kulcha,160,126,Cool
+2024-04-03,Delhi,Rohini,Delhi Darbar,Chicken Biryani,250,62,Rainy
+2024-06-10,Delhi,Saket,Zaika-e-Dilli,Chole Bhature,120,28,Cloudy
+2024-04-20,Delhi,Dwarka,Zaika-e-Dilli,Dal Makhani,180,131,Cool
+2024-03-16,Delhi,Karol Bagh,Zaika-e-Dilli,Paneer Butter Masala,220,25,Cloudy
+2024-01-16,Delhi,Connaught Place,Haldiram's,Paneer Butter Masala,220,112,Cloudy
+2024-03-25,Delhi,Janakpuri,The Spice Route,Amritsari Kulcha,160,33,Rainy
+2024-03-31,Delhi,Chandni Chowk,Biryani Blues,Aloo Tikki,80,148,Cloudy
+2024-05-30,Delhi,Hauz Khas,Delhi Darbar,Aloo Tikki,80,117,Humid
+2024-04-21,Delhi,Dwarka,Biryani Blues,Aloo Tikki,80,74,Cloudy
+2024-06-04,Delhi,Chandni Chowk,Delhi Darbar,Rajma Chawal,140,30,Sunny
+2024-05-12,Delhi,Lajpat Nagar,Flavors of Delhi,Aloo Tikki,80,99,Cloudy
+2024-01-20,Delhi,Connaught Place,Flavors of Delhi,Rajma Chawal,140,19,Cool
+2024-04-24,Delhi,Karol Bagh,Flavors of Delhi,Butter Naan,40,27,Rainy
+2024-03-12,Delhi,Janakpuri,Punjab Grill,Paneer Butter Masala,220,120,Rainy
+2024-03-06,Delhi,Lajpat Nagar,Flavors of Delhi,Chicken Biryani,250,41,Cool
+2024-04-01,Delhi,Hauz Khas,Local Zaika,Paneer Butter Masala,220,28,Sunny
+2024-02-18,Delhi,Janakpuri,Biryani Blues,Aloo Tikki,80,131,Cool
+2024-04-20,Delhi,Karol Bagh,The Spice Route,Amritsari Kulcha,160,27,Rainy
+2024-01-24,Delhi,Rohini,Haldiram's,Amritsari Kulcha,160,15,Cloudy
+2024-01-03,Delhi,Chandni Chowk,Haldiram's,Momos,100,35,Cloudy
+2024-06-04,Delhi,Dwarka,Haldiram's,North Indian Thali,200,145,Humid
+2024-03-16,Delhi,Connaught Place,Haldiram's,Chicken Biryani,250,122,Cloudy
+2024-03-11,Delhi,Hauz Khas,Haldiram's,Chicken Biryani,250,38,Humid
+2024-05-11,Delhi,Vasant Kunj,Delhi Darbar,Dal Makhani,180,26,Rainy
+2024-04-20,Delhi,Hauz Khas,Flavors of Delhi,Amritsari Kulcha,160,80,Rainy
+2024-05-27,Delhi,Rohini,Zaika-e-Dilli,Rajma Chawal,140,63,Rainy
+2024-05-20,Delhi,Janakpuri,Zaika-e-Dilli,Butter Naan,40,142,Humid
+2024-01-08,Delhi,Rohini,The Spice Route,Butter Naan,40,104,Cool
+2024-04-27,Delhi,Connaught Place,The Spice Route,Aloo Tikki,80,135,Sunny
+2024-03-26,Delhi,Lajpat Nagar,Flavors of Delhi,Amritsari Kulcha,160,74,Rainy
+2024-02-12,Delhi,Vasant Kunj,Delhi Darbar,Rajma Chawal,140,116,Cool
+2024-02-29,Delhi,Connaught Place,Punjab Grill,Paneer Butter Masala,220,54,Humid
+2024-03-10,Delhi,Saket,Delhi Darbar,Amritsari Kulcha,160,133,Sunny
+2024-04-22,Delhi,Vasant Kunj,Zaika-e-Dilli,Dal Makhani,180,78,Humid
+2024-05-01,Delhi,Janakpuri,Punjab Grill,Rajma Chawal,140,45,Cool
+2024-04-26,Delhi,Saket,Delhi Darbar,Chicken Biryani,250,98,Humid
+2024-06-17,Delhi,Rohini,The Spice Route,Paneer Butter Masala,220,88,Humid
+2024-01-09,Delhi,Chandni Chowk,The Spice Route,Paneer Butter Masala,220,142,Sunny
+2024-05-25,Delhi,Connaught Place,Delhi Darbar,Chicken Biryani,250,51,Rainy
+2024-04-23,Delhi,Saket,The Spice Route,Amritsari Kulcha,160,147,Sunny
+2024-01-19,Delhi,Chandni Chowk,Punjab Grill,Paneer Butter Masala,220,143,Humid
+2024-01-26,Delhi,Karol Bagh,Zaika-e-Dilli,Rajma Chawal,140,136,Cool
+2024-06-18,Delhi,Lajpat Nagar,Haldiram's,Rajma Chawal,140,119,Humid
+2024-06-09,Delhi,Janakpuri,Haldiram's,North Indian Thali,200,33,Humid
+2024-01-03,Delhi,Dwarka,Flavors of Delhi,Aloo Tikki,80,85,Rainy
+2024-06-12,Delhi,Karol Bagh,Flavors of Delhi,Amritsari Kulcha,160,141,Humid
+2024-01-07,Delhi,Saket,The Spice Route,North Indian Thali,200,96,Sunny
+2024-02-16,Delhi,Vasant Kunj,Punjab Grill,Momos,100,49,Cool
+2024-01-22,Delhi,Dwarka,The Spice Route,Aloo Tikki,80,21,Cool
+2024-02-09,Delhi,Janakpuri,Punjab Grill,North Indian Thali,200,149,Sunny
+2024-04-08,Delhi,Connaught Place,Biryani Blues,Momos,100,76,Humid
+2024-01-20,Delhi,Rohini,The Spice Route,Butter Naan,40,148,Humid
+2024-03-22,Delhi,Lajpat Nagar,Local Zaika,North Indian Thali,200,98,Sunny
+2024-01-20,Delhi,Vasant Kunj,Zaika-e-Dilli,Butter Naan,40,88,Cool
+2024-03-18,Delhi,Saket,Punjab Grill,Chicken Biryani,250,15,Cool
+2024-01-31,Delhi,Vasant Kunj,The Spice Route,Momos,100,63,Humid
+2024-06-16,Delhi,Dwarka,Haldiram's,Butter Naan,40,148,Sunny
+2024-04-08,Delhi,Rohini,The Spice Route,Amritsari Kulcha,160,108,Humid
+2024-03-01,Delhi,Janakpuri,Haldiram's,Rajma Chawal,140,40,Cloudy
+2024-01-15,Delhi,Hauz Khas,Zaika-e-Dilli,North Indian Thali,200,94,Rainy
+2024-06-20,Delhi,Janakpuri,Zaika-e-Dilli,Paneer Butter Masala,220,28,Cloudy
+2024-05-26,Delhi,Chandni Chowk,The Spice Route,Chicken Biryani,250,132,Sunny
+2024-05-06,Delhi,Dwarka,Local Zaika,Butter Naan,40,135,Sunny
+2024-04-07,Delhi,Lajpat Nagar,Delhi Darbar,Chole Bhature,120,129,Humid
+2024-01-20,Delhi,Vasant Kunj,Punjab Grill,North Indian Thali,200,24,Cloudy
+2024-01-21,Delhi,Dwarka,Zaika-e-Dilli,Rajma Chawal,140,120,Sunny
+2024-05-04,Delhi,Janakpuri,Zaika-e-Dilli,Paneer Butter Masala,220,128,Cloudy
+2024-05-16,Delhi,Janakpuri,Punjab Grill,Amritsari Kulcha,160,61,Rainy
+2024-06-10,Delhi,Connaught Place,Haldiram's,Paneer Butter Masala,220,49,Rainy
+2024-03-05,Delhi,Rohini,Delhi Darbar,Dal Makhani,180,91,Cool
+2024-06-27,Delhi,Dwarka,The Spice Route,Paneer Butter Masala,220,140,Cool
+2024-01-09,Delhi,Hauz Khas,Flavors of Delhi,Butter Naan,40,34,Cool
+2024-01-24,Delhi,Chandni Chowk,Punjab Grill,Momos,100,40,Sunny
+2024-05-09,Delhi,Rohini,Biryani Blues,Aloo Tikki,80,143,Humid
+2024-03-21,Delhi,Dwarka,Biryani Blues,Aloo Tikki,80,78,Sunny
+2024-05-10,Delhi,Karol Bagh,Haldiram's,Amritsari Kulcha,160,29,Sunny
+2024-06-15,Delhi,Lajpat Nagar,Delhi Darbar,Paneer Butter Masala,220,10,Humid
+2024-01-14,Delhi,Saket,Haldiram's,Paneer Butter Masala,220,11,Humid
+2024-03-09,Delhi,Karol Bagh,Haldiram's,Aloo Tikki,80,104,Cloudy
+2024-01-28,Delhi,Karol Bagh,The Spice Route,Paneer Butter Masala,220,88,Humid
+2024-03-15,Delhi,Vasant Kunj,The Spice Route,Dal Makhani,180,62,Humid
+2024-02-16,Delhi,Rohini,Biryani Blues,Aloo Tikki,80,119,Rainy
+2024-01-23,Delhi,Chandni Chowk,The Spice Route,Momos,100,133,Cloudy
+2024-01-09,Delhi,Janakpuri,Punjab Grill,Chicken Biryani,250,95,Rainy
+2024-05-26,Delhi,Saket,Delhi Darbar,Paneer Butter Masala,220,115,Cloudy
+2024-04-12,Delhi,Saket,Delhi Darbar,Rajma Chawal,140,139,Sunny
+2024-02-04,Delhi,Karol Bagh,Haldiram's,Paneer Butter Masala,220,36,Humid
+2024-02-02,Delhi,Connaught Place,Zaika-e-Dilli,Paneer Butter Masala,220,39,Cloudy
+2024-01-09,Delhi,Janakpuri,Haldiram's,Rajma Chawal,140,55,Cloudy
+2024-03-06,Delhi,Chandni Chowk,Punjab Grill,Paneer Butter Masala,220,74,Cool
+2024-01-10,Delhi,Janakpuri,The Spice Route,Chole Bhature,120,83,Humid
+2024-05-30,Delhi,Lajpat Nagar,Biryani Blues,Amritsari Kulcha,160,43,Cloudy
+2024-03-05,Delhi,Vasant Kunj,Delhi Darbar,Dal Makhani,180,107,Rainy
+2024-03-17,Delhi,Rohini,Delhi Darbar,Paneer Butter Masala,220,136,Cool
+2024-01-14,Delhi,Vasant Kunj,The Spice Route,Rajma Chawal,140,136,Rainy
+2024-03-09,Delhi,Connaught Place,The Spice Route,Chicken Biryani,250,123,Humid
+2024-04-05,Delhi,Lajpat Nagar,Biryani Blues,Butter Naan,40,145,Rainy
+2024-04-24,Delhi,Hauz Khas,Delhi Darbar,Momos,100,129,Sunny
+2024-06-29,Delhi,Karol Bagh,Punjab Grill,Butter Naan,40,73,Sunny
+2024-05-06,Delhi,Saket,Haldiram's,Momos,100,129,Cool
+2024-03-25,Delhi,Janakpuri,Local Zaika,Dal Makhani,180,30,Cloudy
+2024-05-20,Delhi,Vasant Kunj,Local Zaika,Rajma Chawal,140,108,Rainy
+2024-03-13,Delhi,Connaught Place,Haldiram's,Amritsari Kulcha,160,90,Cloudy
+2024-04-16,Delhi,Rohini,The Spice Route,Rajma Chawal,140,66,Humid
+2024-01-31,Delhi,Saket,Zaika-e-Dilli,Butter Naan,40,77,Cool
+2024-04-04,Delhi,Vasant Kunj,Delhi Darbar,Chicken Biryani,250,45,Sunny
+2024-04-09,Delhi,Dwarka,Punjab Grill,Paneer Butter Masala,220,147,Humid
+2024-01-05,Delhi,Connaught Place,Haldiram's,North Indian Thali,200,107,Sunny
+2024-04-05,Delhi,Janakpuri,Local Zaika,Aloo Tikki,80,41,Cloudy
+2024-03-03,Delhi,Vasant Kunj,Delhi Darbar,Amritsari Kulcha,160,143,Humid
+2024-04-06,Delhi,Hauz Khas,Delhi Darbar,Amritsari Kulcha,160,144,Humid
+2024-04-13,Delhi,Lajpat Nagar,Flavors of Delhi,Momos,100,104,Rainy
+2024-04-19,Delhi,Saket,Zaika-e-Dilli,Butter Naan,40,109,Rainy
+2024-03-24,Delhi,Janakpuri,Haldiram's,North Indian Thali,200,122,Rainy
+2024-06-21,Delhi,Dwarka,Haldiram's,Paneer Butter Masala,220,132,Humid
+2024-04-06,Delhi,Dwarka,Local Zaika,Butter Naan,40,131,Rainy
+2024-04-18,Delhi,Dwarka,Biryani Blues,Chole Bhature,120,111,Cloudy
+2024-05-08,Delhi,Chandni Chowk,The Spice Route,Rajma Chawal,140,25,Sunny
+2024-02-27,Delhi,Rohini,Punjab Grill,Chole Bhature,120,134,Humid
+2024-03-08,Delhi,Hauz Khas,Biryani Blues,Rajma Chawal,140,37,Cloudy
+2024-03-20,Delhi,Rohini,Haldiram's,Paneer Butter Masala,220,34,Humid
+2024-05-21,Delhi,Rohini,Local Zaika,Butter Naan,40,125,Sunny
+2024-02-17,Delhi,Saket,Delhi Darbar,Dal Makhani,180,46,Rainy
+2024-01-26,Delhi,Lajpat Nagar,Local Zaika,Paneer Butter Masala,220,84,Humid
+2024-06-12,Delhi,Saket,Haldiram's,Chole Bhature,120,120,Cool
+2024-04-19,Delhi,Saket,The Spice Route,Dal Makhani,180,95,Sunny
+2024-05-23,Delhi,Saket,Biryani Blues,Amritsari Kulcha,160,12,Sunny
+2024-02-02,Delhi,Saket,The Spice Route,Dal Makhani,180,25,Humid
+2024-01-05,Delhi,Rohini,Zaika-e-Dilli,Momos,100,64,Cloudy
+2024-01-02,Delhi,Karol Bagh,Haldiram's,Dal Makhani,180,106,Cool
+2024-06-14,Delhi,Chandni Chowk,The Spice Route,Chicken Biryani,250,122,Cloudy
+2024-05-06,Delhi,Hauz Khas,Zaika-e-Dilli,Paneer Butter Masala,220,45,Sunny
+2024-05-24,Delhi,Hauz Khas,Zaika-e-Dilli,North Indian Thali,200,68,Sunny
+2024-02-11,Delhi,Dwarka,Punjab Grill,Chole Bhature,120,122,Humid
+2024-05-23,Delhi,Rohini,Biryani Blues,Dal Makhani,180,42,Sunny
+2024-06-15,Delhi,Saket,Zaika-e-Dilli,Aloo Tikki,80,51,Rainy
+2024-02-06,Delhi,Dwarka,Delhi Darbar,North Indian Thali,200,86,Sunny
+2024-06-04,Delhi,Dwarka,Local Zaika,Chicken Biryani,250,79,Humid
+2024-05-02,Delhi,Connaught Place,Biryani Blues,Butter Naan,40,75,Cool
+2024-06-16,Delhi,Saket,The Spice Route,Butter Naan,40,85,Cloudy
+2024-03-07,Delhi,Dwarka,Punjab Grill,Butter Naan,40,105,Cloudy
+2024-03-12,Delhi,Connaught Place,Haldiram's,Paneer Butter Masala,220,30,Cloudy
+2024-01-30,Delhi,Hauz Khas,Local Zaika,Chicken Biryani,250,134,Humid
+2024-02-27,Delhi,Lajpat Nagar,Punjab Grill,North Indian Thali,200,128,Rainy
+2024-04-03,Delhi,Dwarka,Biryani Blues,Chicken Biryani,250,86,Rainy
+2024-03-25,Delhi,Rohini,Delhi Darbar,Chicken Biryani,250,133,Rainy
+2024-02-23,Delhi,Dwarka,Punjab Grill,Aloo Tikki,80,75,Sunny
+2024-01-08,Delhi,Chandni Chowk,Punjab Grill,Rajma Chawal,140,27,Cool
+2024-04-16,Delhi,Karol Bagh,Local Zaika,Rajma Chawal,140,136,Sunny
+2024-04-02,Delhi,Janakpuri,Zaika-e-Dilli,Rajma Chawal,140,144,Rainy
+2024-04-04,Delhi,Janakpuri,Biryani Blues,Amritsari Kulcha,160,105,Humid
+2024-04-14,Delhi,Vasant Kunj,Flavors of Delhi,Aloo Tikki,80,148,Sunny
+2024-06-18,Delhi,Connaught Place,Flavors of Delhi,Momos,100,22,Humid
+2024-01-12,Delhi,Connaught Place,Local Zaika,Rajma Chawal,140,49,Cloudy
+2024-02-25,Delhi,Janakpuri,Haldiram's,Chole Bhature,120,102,Sunny
+2024-03-27,Delhi,Karol Bagh,Biryani Blues,Momos,100,72,Rainy
+2024-05-01,Delhi,Chandni Chowk,Local Zaika,Chole Bhature,120,38,Humid
+2024-01-15,Delhi,Hauz Khas,Zaika-e-Dilli,Momos,100,43,Humid
+2024-04-15,Delhi,Hauz Khas,Zaika-e-Dilli,Momos,100,65,Rainy
+2024-05-07,Delhi,Vasant Kunj,Zaika-e-Dilli,Momos,100,35,Cool
+2024-01-08,Delhi,Chandni Chowk,Delhi Darbar,Amritsari Kulcha,160,141,Cool
+2024-03-23,Delhi,Karol Bagh,The Spice Route,Momos,100,92,Sunny
+2024-01-09,Delhi,Vasant Kunj,The Spice Route,Amritsari Kulcha,160,87,Humid
+2024-02-05,Delhi,Chandni Chowk,Flavors of Delhi,Butter Naan,40,61,Sunny
+2024-03-06,Delhi,Janakpuri,Punjab Grill,Aloo Tikki,80,17,Humid
+2024-01-12,Delhi,Rohini,Biryani Blues,Chicken Biryani,250,18,Humid
+2024-05-25,Delhi,Vasant Kunj,Zaika-e-Dilli,Paneer Butter Masala,220,27,Humid
+2024-01-03,Delhi,Janakpuri,The Spice Route,Aloo Tikki,80,13,Rainy
+2024-05-08,Delhi,Rohini,Punjab Grill,Chole Bhature,120,15,Cloudy
+2024-02-15,Delhi,Chandni Chowk,Flavors of Delhi,Amritsari Kulcha,160,74,Rainy
+2024-02-11,Delhi,Janakpuri,Biryani Blues,Amritsari Kulcha,160,52,Sunny
+2024-04-21,Delhi,Vasant Kunj,Haldiram's,Dal Makhani,180,128,Sunny
+2024-02-04,Delhi,Hauz Khas,Zaika-e-Dilli,Chicken Biryani,250,147,Sunny
+2024-02-19,Delhi,Connaught Place,Flavors of Delhi,Paneer Butter Masala,220,131,Sunny
+2024-04-17,Delhi,Chandni Chowk,The Spice Route,Amritsari Kulcha,160,66,Sunny
+2024-03-17,Delhi,Dwarka,Biryani Blues,North Indian Thali,200,39,Sunny
+2024-05-02,Delhi,Hauz Khas,Haldiram's,Dal Makhani,180,150,Sunny
+2024-05-15,Delhi,Lajpat Nagar,Delhi Darbar,Chicken Biryani,250,80,Humid
+2024-01-09,Delhi,Hauz Khas,Biryani Blues,Chicken Biryani,250,46,Cloudy
+2024-05-23,Delhi,Janakpuri,Haldiram's,Butter Naan,40,28,Cool
+2024-02-12,Delhi,Dwarka,Punjab Grill,Rajma Chawal,140,115,Cloudy
+2024-05-24,Delhi,Karol Bagh,Haldiram's,Aloo Tikki,80,83,Cloudy
+2024-03-06,Delhi,Janakpuri,Local Zaika,Amritsari Kulcha,160,131,Cool
+2024-03-08,Delhi,Hauz Khas,Punjab Grill,Momos,100,135,Humid
+2024-06-09,Delhi,Vasant Kunj,Flavors of Delhi,Rajma Chawal,140,67,Rainy
+2024-05-05,Delhi,Janakpuri,Zaika-e-Dilli,Chicken Biryani,250,95,Cool
+2024-03-24,Delhi,Janakpuri,Delhi Darbar,Aloo Tikki,80,37,Humid
+2024-03-02,Delhi,Dwarka,Punjab Grill,Rajma Chawal,140,81,Sunny
+2024-01-20,Delhi,Chandni Chowk,The Spice Route,Paneer Butter Masala,220,121,Sunny
+2024-06-10,Delhi,Janakpuri,Flavors of Delhi,Chicken Biryani,250,58,Humid
+2024-05-06,Delhi,Karol Bagh,The Spice Route,Chole Bhature,120,149,Cool
+2024-04-13,Delhi,Lajpat Nagar,Zaika-e-Dilli,Butter Naan,40,113,Sunny
+2024-02-29,Delhi,Vasant Kunj,Biryani Blues,Amritsari Kulcha,160,66,Cool
+2024-01-23,Delhi,Lajpat Nagar,Delhi Darbar,Butter Naan,40,62,Cool
+2024-06-22,Delhi,Hauz Khas,Flavors of Delhi,Momos,100,98,Cloudy
+2024-05-16,Delhi,Rohini,Local Zaika,Chicken Biryani,250,124,Cloudy
+2024-04-10,Delhi,Karol Bagh,Haldiram's,Chicken Biryani,250,105,Cloudy
+2024-02-28,Delhi,Dwarka,Biryani Blues,Butter Naan,40,117,Sunny
+2024-02-07,Delhi,Dwarka,Zaika-e-Dilli,Chole Bhature,120,78,Cool
+2024-06-29,Delhi,Vasant Kunj,Flavors of Delhi,Paneer Butter Masala,220,78,Rainy
+2024-03-15,Delhi,Saket,Biryani Blues,Rajma Chawal,140,62,Rainy
+2024-03-10,Delhi,Saket,Biryani Blues,Chicken Biryani,250,106,Cool
+2024-05-12,Delhi,Vasant Kunj,Zaika-e-Dilli,Butter Naan,40,140,Rainy
+2024-05-18,Delhi,Saket,Haldiram's,Paneer Butter Masala,220,115,Rainy
+2024-05-18,Delhi,Chandni Chowk,Zaika-e-Dilli,North Indian Thali,200,49,Sunny
+2024-04-05,Delhi,Karol Bagh,Biryani Blues,Rajma Chawal,140,53,Humid
+2024-01-28,Delhi,Connaught Place,Punjab Grill,Aloo Tikki,80,114,Sunny
+2024-05-13,Delhi,Hauz Khas,Biryani Blues,Amritsari Kulcha,160,65,Cloudy
+2024-06-24,Delhi,Chandni Chowk,Biryani Blues,Aloo Tikki,80,97,Cloudy
+2024-06-14,Delhi,Connaught Place,Biryani Blues,Paneer Butter Masala,220,47,Sunny
+2024-03-09,Delhi,Karol Bagh,Punjab Grill,Chole Bhature,120,101,Sunny
+2024-02-19,Delhi,Chandni Chowk,The Spice Route,North Indian Thali,200,109,Sunny
+2024-05-14,Delhi,Hauz Khas,Flavors of Delhi,Chicken Biryani,250,62,Sunny
+2024-03-29,Delhi,Saket,Punjab Grill,Chole Bhature,120,76,Humid
+2024-05-13,Delhi,Lajpat Nagar,Local Zaika,Chole Bhature,120,99,Cool
+2024-05-26,Delhi,Lajpat Nagar,Delhi Darbar,Rajma Chawal,140,14,Cool
+2024-01-30,Delhi,Rohini,Delhi Darbar,Chicken Biryani,250,65,Humid
+2024-04-02,Delhi,Dwarka,The Spice Route,Chicken Biryani,250,117,Sunny
+2024-04-11,Delhi,Saket,Flavors of Delhi,Paneer Butter Masala,220,117,Cloudy
+2024-03-29,Delhi,Chandni Chowk,Biryani Blues,Rajma Chawal,140,64,Humid
+2024-02-04,Delhi,Chandni Chowk,Flavors of Delhi,Momos,100,95,Sunny
+2024-06-06,Delhi,Connaught Place,Biryani Blues,Momos,100,16,Rainy
+2024-04-01,Delhi,Lajpat Nagar,Zaika-e-Dilli,Aloo Tikki,80,73,Cloudy
+2024-06-26,Delhi,Rohini,Local Zaika,Amritsari Kulcha,160,71,Sunny
+2024-05-22,Delhi,Saket,Local Zaika,Chole Bhature,120,103,Rainy
+2024-03-17,Delhi,Chandni Chowk,Zaika-e-Dilli,Butter Naan,40,115,Cloudy
+2024-01-22,Delhi,Saket,The Spice Route,Rajma Chawal,140,39,Rainy
+2024-02-11,Delhi,Vasant Kunj,Local Zaika,Chicken Biryani,250,85,Humid
+2024-05-19,Delhi,Chandni Chowk,Delhi Darbar,Aloo Tikki,80,20,Sunny
+2024-05-09,Delhi,Vasant Kunj,Biryani Blues,North Indian Thali,200,27,Rainy
+2024-04-24,Delhi,Hauz Khas,Punjab Grill,Dal Makhani,180,54,Cloudy
+2024-02-13,Delhi,Lajpat Nagar,Delhi Darbar,Amritsari Kulcha,160,13,Cool
+2024-03-11,Delhi,Saket,Punjab Grill,Momos,100,81,Cloudy
+2024-03-18,Delhi,Chandni Chowk,Zaika-e-Dilli,Momos,100,107,Humid
+2024-06-27,Delhi,Dwarka,Local Zaika,Chole Bhature,120,16,Sunny
+2024-06-15,Delhi,Janakpuri,Delhi Darbar,Dal Makhani,180,125,Cool
+2024-03-02,Delhi,Karol Bagh,Punjab Grill,Aloo Tikki,80,13,Cool
+2024-03-07,Delhi,Rohini,Zaika-e-Dilli,Amritsari Kulcha,160,41,Humid
+2024-06-20,Delhi,Connaught Place,Punjab Grill,Paneer Butter Masala,220,18,Cool
+2024-04-14,Delhi,Connaught Place,Local Zaika,Amritsari Kulcha,160,117,Cloudy
+2024-05-17,Delhi,Connaught Place,Biryani Blues,Momos,100,114,Cool
+2024-04-26,Delhi,Rohini,Haldiram's,Momos,100,56,Humid
+2024-03-01,Delhi,Lajpat Nagar,Local Zaika,Chicken Biryani,250,65,Cool
+2024-04-01,Delhi,Saket,Zaika-e-Dilli,Momos,100,46,Rainy
+2024-03-08,Delhi,Chandni Chowk,Zaika-e-Dilli,Aloo Tikki,80,112,Cloudy
+2024-06-01,Delhi,Connaught Place,Delhi Darbar,Amritsari Kulcha,160,106,Rainy
+2024-03-25,Delhi,Rohini,The Spice Route,Momos,100,49,Cloudy
+2024-06-10,Delhi,Dwarka,Local Zaika,Aloo Tikki,80,47,Cool
+2024-04-03,Delhi,Karol Bagh,Zaika-e-Dilli,Chole Bhature,120,103,Cloudy
+2024-05-26,Delhi,Connaught Place,Flavors of Delhi,Rajma Chawal,140,146,Humid
+2024-02-22,Delhi,Chandni Chowk,Punjab Grill,Amritsari Kulcha,160,51,Cloudy
+2024-04-24,Delhi,Janakpuri,Biryani Blues,Chole Bhature,120,17,Sunny
+2024-02-24,Delhi,Connaught Place,The Spice Route,Momos,100,101,Cool
+2024-01-28,Delhi,Dwarka,Delhi Darbar,Dal Makhani,180,133,Cool
+2024-05-03,Delhi,Janakpuri,Punjab Grill,Chole Bhature,120,117,Cool
+2024-04-17,Delhi,Karol Bagh,Delhi Darbar,North Indian Thali,200,148,Sunny
+2024-06-20,Delhi,Dwarka,Punjab Grill,Momos,100,121,Cloudy
+2024-02-03,Delhi,Chandni Chowk,Flavors of Delhi,North Indian Thali,200,79,Rainy
+2024-02-16,Delhi,Lajpat Nagar,Biryani Blues,North Indian Thali,200,45,Cloudy
+2024-06-11,Delhi,Rohini,Zaika-e-Dilli,North Indian Thali,200,22,Rainy
+2024-03-04,Delhi,Saket,Biryani Blues,Chicken Biryani,250,109,Sunny
+2024-01-24,Delhi,Janakpuri,Haldiram's,Amritsari Kulcha,160,120,Rainy
+2024-04-03,Delhi,Janakpuri,Biryani Blues,Chicken Biryani,250,52,Rainy
+2024-02-22,Delhi,Rohini,Biryani Blues,Aloo Tikki,80,112,Cool
+2024-02-23,Delhi,Karol Bagh,Punjab Grill,Momos,100,78,Cloudy
+2024-03-26,Delhi,Saket,Flavors of Delhi,Chole Bhature,120,79,Cool
+2024-05-29,Delhi,Saket,Zaika-e-Dilli,Dal Makhani,180,131,Humid
+2024-01-09,Delhi,Karol Bagh,The Spice Route,Rajma Chawal,140,80,Cool
+2024-02-18,Delhi,Hauz Khas,The Spice Route,Chicken Biryani,250,15,Rainy
+2024-04-25,Delhi,Rohini,Local Zaika,Paneer Butter Masala,220,52,Sunny
+2024-05-23,Delhi,Lajpat Nagar,The Spice Route,Rajma Chawal,140,21,Sunny
+2024-01-02,Delhi,Karol Bagh,Flavors of Delhi,Chicken Biryani,250,131,Cloudy
+2024-05-02,Delhi,Dwarka,Haldiram's,Dal Makhani,180,32,Cool
+2024-03-21,Delhi,Vasant Kunj,Zaika-e-Dilli,Aloo Tikki,80,77,Sunny
+2024-06-23,Delhi,Rohini,Local Zaika,Amritsari Kulcha,160,122,Cloudy
+2024-05-28,Delhi,Vasant Kunj,Delhi Darbar,North Indian Thali,200,94,Rainy
+2024-06-07,Delhi,Dwarka,Flavors of Delhi,Amritsari Kulcha,160,131,Rainy
+2024-03-19,Delhi,Dwarka,Biryani Blues,Amritsari Kulcha,160,36,Cool
+2024-03-28,Delhi,Chandni Chowk,Flavors of Delhi,Momos,100,27,Sunny
+2024-01-14,Delhi,Connaught Place,Local Zaika,Chicken Biryani,250,109,Humid
+2024-05-30,Delhi,Lajpat Nagar,Punjab Grill,Butter Naan,40,67,Cool
+2024-01-31,Delhi,Dwarka,The Spice Route,Chicken Biryani,250,132,Sunny
+2024-03-25,Delhi,Chandni Chowk,Punjab Grill,Paneer Butter Masala,220,31,Rainy
+2024-06-01,Delhi,Janakpuri,The Spice Route,Chicken Biryani,250,74,Humid
+2024-04-12,Delhi,Karol Bagh,Zaika-e-Dilli,Paneer Butter Masala,220,95,Sunny
+2024-04-05,Delhi,Saket,Punjab Grill,Aloo Tikki,80,78,Rainy
+2024-04-12,Delhi,Dwarka,Zaika-e-Dilli,Momos,100,108,Sunny
+2024-04-07,Delhi,Karol Bagh,Zaika-e-Dilli,Dal Makhani,180,61,Cloudy
+2024-05-03,Delhi,Hauz Khas,The Spice Route,North Indian Thali,200,150,Cool
+2024-05-07,Delhi,Dwarka,The Spice Route,North Indian Thali,200,72,Cool
+2024-02-02,Delhi,Hauz Khas,The Spice Route,Dal Makhani,180,32,Cloudy
+2024-04-19,Delhi,Karol Bagh,Biryani Blues,Dal Makhani,180,70,Humid
+2024-03-09,Delhi,Vasant Kunj,Biryani Blues,Chole Bhature,120,87,Cool
+2024-02-10,Delhi,Janakpuri,Delhi Darbar,Aloo Tikki,80,74,Rainy
+2024-04-05,Delhi,Vasant Kunj,Punjab Grill,Amritsari Kulcha,160,26,Cool
+2024-02-25,Delhi,Janakpuri,Biryani Blues,Amritsari Kulcha,160,15,Cloudy
+2024-06-06,Delhi,Vasant Kunj,Local Zaika,Dal Makhani,180,25,Sunny
+2024-06-08,Delhi,Karol Bagh,Punjab Grill,Rajma Chawal,140,146,Cloudy
+2024-06-03,Delhi,Janakpuri,Biryani Blues,Butter Naan,40,88,Humid
+2024-02-14,Delhi,Lajpat Nagar,Flavors of Delhi,Chole Bhature,120,116,Rainy
+2024-04-17,Delhi,Saket,Punjab Grill,Chole Bhature,120,113,Cool
+2024-04-22,Delhi,Chandni Chowk,Flavors of Delhi,Aloo Tikki,80,73,Cool
+2024-01-15,Delhi,Saket,Haldiram's,Chole Bhature,120,84,Humid
+2024-04-09,Delhi,Vasant Kunj,The Spice Route,Paneer Butter Masala,220,60,Cloudy
+2024-01-31,Delhi,Dwarka,Delhi Darbar,North Indian Thali,200,29,Cloudy
+2024-05-18,Delhi,Janakpuri,Punjab Grill,Aloo Tikki,80,68,Cool
+2024-05-21,Delhi,Connaught Place,Biryani Blues,Momos,100,125,Sunny
+2024-04-14,Delhi,Vasant Kunj,Flavors of Delhi,Chicken Biryani,250,110,Sunny
+2024-02-01,Delhi,Vasant Kunj,Zaika-e-Dilli,Chole Bhature,120,90,Cool
+2024-05-04,Delhi,Hauz Khas,Flavors of Delhi,Chicken Biryani,250,86,Humid
+2024-02-22,Delhi,Hauz Khas,Biryani Blues,Aloo Tikki,80,26,Humid
+2024-05-10,Delhi,Janakpuri,Haldiram's,Rajma Chawal,140,128,Sunny
+2024-01-27,Delhi,Connaught Place,Zaika-e-Dilli,Momos,100,109,Humid
+2024-06-23,Delhi,Chandni Chowk,Haldiram's,Momos,100,112,Cool
+2024-01-28,Delhi,Chandni Chowk,Flavors of Delhi,Amritsari Kulcha,160,111,Cloudy
+2024-01-23,Delhi,Saket,Haldiram's,Amritsari Kulcha,160,17,Sunny
+2024-06-19,Delhi,Rohini,Biryani Blues,Rajma Chawal,140,95,Cloudy
+2024-05-12,Delhi,Chandni Chowk,Delhi Darbar,North Indian Thali,200,81,Cloudy
+2024-05-29,Delhi,Chandni Chowk,Biryani Blues,Rajma Chawal,140,48,Cloudy
+2024-04-20,Delhi,Chandni Chowk,Local Zaika,Chicken Biryani,250,104,Cool
+2024-04-27,Delhi,Vasant Kunj,Punjab Grill,Chicken Biryani,250,110,Cool
+2024-06-21,Delhi,Chandni Chowk,Delhi Darbar,Rajma Chawal,140,35,Rainy
+2024-05-25,Delhi,Rohini,Haldiram's,Rajma Chawal,140,38,Cloudy
+2024-06-09,Delhi,Janakpuri,Local Zaika,Chicken Biryani,250,89,Humid
+2024-04-29,Delhi,Janakpuri,Local Zaika,Chole Bhature,120,79,Cloudy
+2024-05-14,Delhi,Dwarka,Delhi Darbar,Momos,100,103,Cloudy
+2024-05-22,Delhi,Karol Bagh,Delhi Darbar,Aloo Tikki,80,74,Rainy
+2024-04-05,Delhi,Rohini,The Spice Route,Amritsari Kulcha,160,95,Rainy
+2024-04-26,Delhi,Vasant Kunj,Delhi Darbar,Chicken Biryani,250,137,Sunny
+2024-05-26,Delhi,Karol Bagh,Haldiram's,Rajma Chawal,140,139,Cool
+2024-03-10,Delhi,Lajpat Nagar,Flavors of Delhi,Momos,100,46,Rainy
+2024-06-27,Delhi,Vasant Kunj,Flavors of Delhi,North Indian Thali,200,44,Cloudy
+2024-02-11,Delhi,Dwarka,Punjab Grill,Amritsari Kulcha,160,90,Humid
+2024-04-25,Delhi,Vasant Kunj,Local Zaika,Chicken Biryani,250,104,Cool
+2024-03-07,Delhi,Saket,Delhi Darbar,North Indian Thali,200,47,Cool
+2024-03-13,Delhi,Lajpat Nagar,Punjab Grill,Chole Bhature,120,128,Cool
+2024-05-04,Delhi,Saket,Biryani Blues,Dal Makhani,180,18,Humid
+2024-02-29,Delhi,Lajpat Nagar,Local Zaika,Momos,100,29,Cool
+2024-06-25,Delhi,Vasant Kunj,The Spice Route,Paneer Butter Masala,220,80,Cloudy
+2024-06-26,Delhi,Vasant Kunj,Punjab Grill,Chicken Biryani,250,22,Sunny
+2024-01-19,Delhi,Janakpuri,Flavors of Delhi,Momos,100,60,Cool
+2024-01-21,Delhi,Vasant Kunj,The Spice Route,Chole Bhature,120,147,Rainy
+2024-02-27,Delhi,Janakpuri,Flavors of Delhi,Rajma Chawal,140,25,Rainy
+2024-04-13,Delhi,Karol Bagh,The Spice Route,Amritsari Kulcha,160,107,Rainy
+2024-01-29,Delhi,Janakpuri,Punjab Grill,Dal Makhani,180,17,Sunny
+2024-03-30,Delhi,Karol Bagh,The Spice Route,Momos,100,136,Cool
+2024-01-05,Delhi,Connaught Place,Delhi Darbar,Aloo Tikki,80,48,Cloudy
+2024-02-10,Delhi,Lajpat Nagar,Flavors of Delhi,Momos,100,18,Cloudy
+2024-03-10,Delhi,Rohini,Haldiram's,Paneer Butter Masala,220,41,Cloudy
+2024-05-18,Delhi,Rohini,Flavors of Delhi,Chole Bhature,120,54,Sunny
+2024-01-25,Delhi,Hauz Khas,Biryani Blues,Butter Naan,40,106,Sunny
+2024-04-06,Delhi,Janakpuri,Haldiram's,Dal Makhani,180,10,Rainy
+2024-04-06,Delhi,Chandni Chowk,Zaika-e-Dilli,Rajma Chawal,140,33,Humid
+2024-02-09,Delhi,Saket,Punjab Grill,Aloo Tikki,80,17,Sunny
+2024-05-07,Delhi,Dwarka,The Spice Route,Paneer Butter Masala,220,30,Cloudy
+2024-01-06,Delhi,Dwarka,Haldiram's,Paneer Butter Masala,220,147,Cloudy
+2024-01-13,Delhi,Hauz Khas,Haldiram's,Aloo Tikki,80,135,Cool
+2024-01-04,Delhi,Connaught Place,Flavors of Delhi,North Indian Thali,200,43,Cool
+2024-01-11,Delhi,Vasant Kunj,The Spice Route,Chicken Biryani,250,29,Humid
+2024-03-25,Delhi,Karol Bagh,Local Zaika,Dal Makhani,180,74,Cloudy
+2024-05-18,Delhi,Connaught Place,Delhi Darbar,Momos,100,19,Cloudy
+2024-02-12,Delhi,Chandni Chowk,Zaika-e-Dilli,Amritsari Kulcha,160,103,Cool
+2024-06-22,Delhi,Janakpuri,Punjab Grill,Butter Naan,40,132,Rainy
+2024-01-09,Delhi,Janakpuri,Zaika-e-Dilli,Butter Naan,40,93,Cloudy
+2024-03-30,Delhi,Janakpuri,Delhi Darbar,Dal Makhani,180,135,Humid
+2024-06-06,Delhi,Dwarka,Punjab Grill,Dal Makhani,180,124,Cool
+2024-03-29,Delhi,Saket,Local Zaika,Amritsari Kulcha,160,12,Cloudy
+2024-01-21,Delhi,Connaught Place,Zaika-e-Dilli,Momos,100,65,Rainy
+2024-02-16,Delhi,Vasant Kunj,Flavors of Delhi,Rajma Chawal,140,51,Cool
+2024-04-12,Delhi,Karol Bagh,Zaika-e-Dilli,Rajma Chawal,140,37,Humid
+2024-03-28,Delhi,Vasant Kunj,Local Zaika,Momos,100,39,Humid
+2024-02-03,Delhi,Rohini,The Spice Route,Amritsari Kulcha,160,102,Sunny
+2024-03-05,Delhi,Janakpuri,Punjab Grill,Amritsari Kulcha,160,109,Cloudy
+2024-05-16,Delhi,Hauz Khas,Zaika-e-Dilli,Dal Makhani,180,53,Cool
+2024-06-28,Delhi,Vasant Kunj,Flavors of Delhi,Chicken Biryani,250,128,Humid
+2024-06-08,Delhi,Dwarka,Local Zaika,Dal Makhani,180,72,Cool
+2024-01-26,Delhi,Hauz Khas,Flavors of Delhi,North Indian Thali,200,90,Sunny
+2024-06-23,Delhi,Dwarka,Punjab Grill,Dal Makhani,180,115,Sunny
+2024-01-18,Delhi,Dwarka,Biryani Blues,North Indian Thali,200,71,Cloudy
+2024-02-03,Delhi,Lajpat Nagar,Punjab Grill,North Indian Thali,200,59,Cool
+2024-04-26,Delhi,Rohini,Zaika-e-Dilli,Rajma Chawal,140,120,Sunny
+2024-03-22,Delhi,Connaught Place,Haldiram's,Amritsari Kulcha,160,16,Cool
+2024-03-06,Delhi,Janakpuri,Local Zaika,North Indian Thali,200,74,Cool
+2024-01-02,Delhi,Chandni Chowk,The Spice Route,Momos,100,122,Cool
+2024-06-08,Delhi,Lajpat Nagar,Flavors of Delhi,Chicken Biryani,250,114,Cloudy
+2024-04-14,Delhi,Karol Bagh,Punjab Grill,Aloo Tikki,80,69,Cloudy
+2024-05-06,Delhi,Connaught Place,Local Zaika,Chole Bhature,120,21,Sunny
+2024-02-20,Delhi,Karol Bagh,Local Zaika,Chicken Biryani,250,96,Cloudy
+2024-01-29,Delhi,Saket,Flavors of Delhi,Rajma Chawal,140,30,Cloudy
+2024-05-15,Delhi,Hauz Khas,Zaika-e-Dilli,Momos,100,102,Humid
+2024-03-18,Delhi,Vasant Kunj,Biryani Blues,Butter Naan,40,110,Cloudy
+2024-01-17,Delhi,Rohini,Biryani Blues,North Indian Thali,200,119,Cool
+2024-01-22,Delhi,Dwarka,Local Zaika,North Indian Thali,200,52,Rainy
+2024-02-26,Delhi,Dwarka,Zaika-e-Dilli,Dal Makhani,180,17,Rainy
+2024-05-03,Delhi,Rohini,Flavors of Delhi,Aloo Tikki,80,82,Cool
+2024-05-03,Delhi,Janakpuri,Punjab Grill,Paneer Butter Masala,220,26,Cool
+2024-03-06,Delhi,Lajpat Nagar,Local Zaika,Chole Bhature,120,27,Cloudy
+2024-06-02,Delhi,Karol Bagh,Zaika-e-Dilli,Momos,100,48,Humid
+2024-03-05,Delhi,Chandni Chowk,Delhi Darbar,Dal Makhani,180,79,Humid
+2024-01-19,Delhi,Chandni Chowk,Zaika-e-Dilli,Momos,100,51,Humid
+2024-02-13,Delhi,Connaught Place,Local Zaika,Chole Bhature,120,137,Cool
+2024-03-07,Delhi,Rohini,Flavors of Delhi,Paneer Butter Masala,220,115,Rainy
+2024-05-30,Delhi,Janakpuri,Haldiram's,Dal Makhani,180,16,Cloudy
+2024-02-21,Delhi,Chandni Chowk,Flavors of Delhi,Aloo Tikki,80,141,Sunny
+2024-01-26,Delhi,Hauz Khas,Local Zaika,Aloo Tikki,80,61,Sunny
+2024-02-11,Delhi,Rohini,Zaika-e-Dilli,North Indian Thali,200,24,Cool
+2024-02-25,Delhi,Chandni Chowk,Biryani Blues,Chicken Biryani,250,39,Humid
+2024-04-28,Delhi,Rohini,Local Zaika,Aloo Tikki,80,95,Sunny
+2024-06-08,Delhi,Chandni Chowk,Biryani Blues,Momos,100,13,Cloudy
+2024-02-01,Delhi,Saket,Haldiram's,Chicken Biryani,250,66,Rainy
+2024-06-25,Delhi,Saket,Zaika-e-Dilli,Paneer Butter Masala,220,38,Cool
+2024-02-12,Delhi,Dwarka,The Spice Route,Chicken Biryani,250,87,Rainy
+2024-04-03,Delhi,Connaught Place,Haldiram's,North Indian Thali,200,96,Humid
+2024-06-26,Delhi,Hauz Khas,Local Zaika,Paneer Butter Masala,220,79,Sunny
+2024-02-29,Delhi,Karol Bagh,Local Zaika,North Indian Thali,200,20,Cloudy
+2024-06-02,Delhi,Saket,Local Zaika,Dal Makhani,180,149,Humid
+2024-04-25,Delhi,Connaught Place,Zaika-e-Dilli,Aloo Tikki,80,148,Sunny
+2024-03-07,Delhi,Janakpuri,The Spice Route,Chicken Biryani,250,138,Sunny
+2024-06-24,Delhi,Karol Bagh,The Spice Route,Rajma Chawal,140,117,Humid
+2024-06-22,Delhi,Hauz Khas,Local Zaika,Butter Naan,40,54,Cloudy
+2024-04-23,Delhi,Connaught Place,Zaika-e-Dilli,Chole Bhature,120,137,Sunny
+2024-05-19,Delhi,Connaught Place,Zaika-e-Dilli,Chole Bhature,120,145,Cool
+2024-06-07,Delhi,Dwarka,Biryani Blues,North Indian Thali,200,59,Cool
+2024-02-12,Delhi,Janakpuri,Biryani Blues,Chole Bhature,120,24,Cool
+2024-04-09,Delhi,Chandni Chowk,Flavors of Delhi,Chole Bhature,120,145,Humid
+2024-06-08,Delhi,Karol Bagh,Local Zaika,Paneer Butter Masala,220,58,Rainy
+2024-03-08,Delhi,Chandni Chowk,Zaika-e-Dilli,Dal Makhani,180,141,Cloudy
+2024-03-29,Delhi,Vasant Kunj,Haldiram's,Momos,100,135,Cool
+2024-05-30,Delhi,Vasant Kunj,Biryani Blues,Chole Bhature,120,132,Cloudy
+2024-02-18,Delhi,Karol Bagh,Delhi Darbar,Dal Makhani,180,135,Humid
+2024-06-18,Delhi,Rohini,Delhi Darbar,Chicken Biryani,250,44,Cloudy
+2024-05-09,Delhi,Saket,Zaika-e-Dilli,Chole Bhature,120,78,Cloudy
+2024-02-06,Delhi,Rohini,Haldiram's,Aloo Tikki,80,46,Rainy
+2024-03-13,Delhi,Karol Bagh,Flavors of Delhi,Rajma Chawal,140,137,Cool
+2024-05-02,Delhi,Dwarka,Haldiram's,Chole Bhature,120,34,Cloudy
+2024-04-11,Delhi,Saket,The Spice Route,Chicken Biryani,250,135,Cloudy
+2024-01-16,Delhi,Dwarka,Delhi Darbar,Rajma Chawal,140,120,Cool
+2024-06-15,Delhi,Lajpat Nagar,The Spice Route,Rajma Chawal,140,64,Sunny
+2024-05-10,Delhi,Dwarka,Delhi Darbar,Dal Makhani,180,70,Humid
+2024-05-25,Delhi,Saket,Delhi Darbar,Chicken Biryani,250,145,Cloudy
+2024-01-08,Delhi,Connaught Place,Delhi Darbar,North Indian Thali,200,15,Cloudy
+2024-02-16,Delhi,Saket,Punjab Grill,Rajma Chawal,140,89,Sunny
+2024-01-21,Delhi,Lajpat Nagar,Delhi Darbar,Momos,100,114,Sunny
+2024-02-19,Delhi,Hauz Khas,Zaika-e-Dilli,Chole Bhature,120,50,Cool
+2024-02-14,Delhi,Lajpat Nagar,Haldiram's,North Indian Thali,200,63,Cool
+2024-03-15,Delhi,Rohini,Local Zaika,Amritsari Kulcha,160,61,Cool
+2024-04-24,Delhi,Connaught Place,Flavors of Delhi,Amritsari Kulcha,160,59,Humid
+2024-02-03,Delhi,Lajpat Nagar,The Spice Route,Momos,100,44,Sunny
+2024-02-04,Delhi,Saket,Flavors of Delhi,Momos,100,62,Rainy
+2024-02-11,Delhi,Lajpat Nagar,Zaika-e-Dilli,North Indian Thali,200,59,Cloudy
+2024-04-12,Delhi,Chandni Chowk,Flavors of Delhi,Butter Naan,40,83,Sunny
+2024-05-31,Delhi,Connaught Place,Haldiram's,Paneer Butter Masala,220,90,Cloudy
+2024-05-28,Delhi,Dwarka,Biryani Blues,Dal Makhani,180,149,Sunny
+2024-05-16,Delhi,Lajpat Nagar,Punjab Grill,Momos,100,62,Cloudy
+2024-04-18,Delhi,Hauz Khas,Flavors of Delhi,North Indian Thali,200,51,Sunny
+2024-03-05,Delhi,Connaught Place,Zaika-e-Dilli,Aloo Tikki,80,26,Humid
+2024-04-10,Delhi,Hauz Khas,Punjab Grill,Amritsari Kulcha,160,49,Cool
+2024-03-21,Delhi,Saket,The Spice Route,Momos,100,77,Rainy
+2024-01-14,Delhi,Vasant Kunj,Zaika-e-Dilli,Dal Makhani,180,131,Humid
+2024-03-26,Delhi,Hauz Khas,Local Zaika,Chole Bhature,120,25,Cloudy
+2024-04-24,Delhi,Chandni Chowk,Biryani Blues,Butter Naan,40,64,Rainy
+2024-03-06,Delhi,Connaught Place,Flavors of Delhi,Butter Naan,40,110,Humid
+2024-01-29,Delhi,Hauz Khas,Local Zaika,Momos,100,144,Sunny
+2024-06-18,Delhi,Hauz Khas,Biryani Blues,Butter Naan,40,46,Cloudy
+2024-02-12,Delhi,Dwarka,Zaika-e-Dilli,Dal Makhani,180,10,Sunny
+2024-06-07,Delhi,Rohini,Punjab Grill,North Indian Thali,200,30,Sunny
+2024-06-11,Delhi,Connaught Place,Flavors of Delhi,Momos,100,53,Cool
+2024-02-06,Delhi,Hauz Khas,Zaika-e-Dilli,Chole Bhature,120,141,Sunny
+2024-01-22,Delhi,Connaught Place,Haldiram's,Chole Bhature,120,108,Humid
+2024-03-06,Delhi,Saket,Flavors of Delhi,Dal Makhani,180,133,Sunny
+2024-05-08,Delhi,Janakpuri,The Spice Route,Paneer Butter Masala,220,54,Cloudy
+2024-05-29,Delhi,Rohini,Local Zaika,Chicken Biryani,250,90,Rainy
+2024-06-16,Delhi,Dwarka,Punjab Grill,Dal Makhani,180,97,Humid
+2024-03-17,Delhi,Vasant Kunj,Local Zaika,Rajma Chawal,140,98,Cloudy
+2024-03-24,Delhi,Vasant Kunj,Local Zaika,Rajma Chawal,140,112,Cloudy
+2024-05-04,Delhi,Karol Bagh,Biryani Blues,Chicken Biryani,250,28,Humid
+2024-06-07,Delhi,Connaught Place,Haldiram's,Aloo Tikki,80,140,Rainy
+2024-04-01,Delhi,Dwarka,Delhi Darbar,Chole Bhature,120,97,Rainy
+2024-04-05,Delhi,Saket,Biryani Blues,Momos,100,124,Cloudy
+2024-06-21,Delhi,Connaught Place,The Spice Route,Chicken Biryani,250,138,Cloudy
+2024-01-16,Delhi,Janakpuri,Zaika-e-Dilli,North Indian Thali,200,58,Cloudy
+2024-03-13,Delhi,Hauz Khas,Local Zaika,Rajma Chawal,140,12,Rainy
+2024-05-20,Delhi,Saket,Haldiram's,Chole Bhature,120,146,Cloudy
+2024-03-12,Delhi,Hauz Khas,Biryani Blues,Butter Naan,40,52,Cool
+2024-02-10,Delhi,Saket,Punjab Grill,Aloo Tikki,80,15,Cool
+2024-05-24,Delhi,Vasant Kunj,Flavors of Delhi,North Indian Thali,200,54,Cool
+2024-01-16,Delhi,Vasant Kunj,Punjab Grill,Butter Naan,40,124,Cloudy
+2024-02-09,Delhi,Lajpat Nagar,Local Zaika,Rajma Chawal,140,32,Humid
+2024-06-06,Delhi,Chandni Chowk,The Spice Route,North Indian Thali,200,133,Cloudy
+2024-01-11,Delhi,Dwarka,Haldiram's,Chole Bhature,120,103,Cool
+2024-03-09,Delhi,Hauz Khas,Punjab Grill,Butter Naan,40,98,Sunny
+2024-01-08,Delhi,Dwarka,Haldiram's,Aloo Tikki,80,48,Cool
+2024-06-16,Delhi,Saket,Punjab Grill,Aloo Tikki,80,68,Cool
+2024-04-23,Delhi,Connaught Place,Flavors of Delhi,North Indian Thali,200,105,Cloudy
+2024-02-01,Delhi,Connaught Place,Local Zaika,Chicken Biryani,250,56,Sunny
+2024-01-24,Delhi,Janakpuri,Flavors of Delhi,Aloo Tikki,80,43,Rainy
+2024-05-06,Delhi,Dwarka,Zaika-e-Dilli,Chicken Biryani,250,105,Cool
+2024-01-29,Delhi,Chandni Chowk,The Spice Route,Aloo Tikki,80,101,Cloudy
+2024-03-23,Delhi,Saket,Zaika-e-Dilli,Chole Bhature,120,13,Cool
+2024-06-27,Delhi,Vasant Kunj,The Spice Route,Paneer Butter Masala,220,50,Cool
+2024-06-23,Delhi,Hauz Khas,Biryani Blues,North Indian Thali,200,78,Humid
+2024-02-06,Delhi,Saket,Punjab Grill,North Indian Thali,200,141,Sunny
+2024-03-15,Delhi,Chandni Chowk,Local Zaika,Chicken Biryani,250,55,Rainy
+2024-01-11,Delhi,Dwarka,The Spice Route,Rajma Chawal,140,32,Cloudy
+2024-06-05,Delhi,Chandni Chowk,Delhi Darbar,Aloo Tikki,80,117,Cool
+2024-02-04,Delhi,Karol Bagh,Delhi Darbar,Amritsari Kulcha,160,108,Cool
+2024-03-31,Delhi,Lajpat Nagar,Flavors of Delhi,North Indian Thali,200,18,Humid
+2024-01-07,Delhi,Janakpuri,Flavors of Delhi,Chole Bhature,120,145,Rainy
+2024-05-11,Delhi,Vasant Kunj,The Spice Route,Rajma Chawal,140,50,Rainy
+2024-02-07,Delhi,Dwarka,Delhi Darbar,Aloo Tikki,80,34,Cloudy
+2024-02-09,Delhi,Saket,Punjab Grill,Aloo Tikki,80,45,Cool
+2024-02-29,Delhi,Saket,Delhi Darbar,Amritsari Kulcha,160,114,Sunny
+2024-04-11,Delhi,Dwarka,Delhi Darbar,Butter Naan,40,146,Sunny
+2024-02-21,Delhi,Rohini,Punjab Grill,Dal Makhani,180,15,Sunny
+2024-01-27,Delhi,Lajpat Nagar,Haldiram's,North Indian Thali,200,39,Cool
+2024-04-16,Delhi,Dwarka,The Spice Route,North Indian Thali,200,81,Humid
+2024-06-09,Delhi,Saket,Haldiram's,Chicken Biryani,250,128,Sunny
+2024-03-07,Delhi,Janakpuri,Local Zaika,Rajma Chawal,140,124,Rainy
+2024-06-19,Delhi,Karol Bagh,Punjab Grill,Butter Naan,40,76,Rainy
+2024-02-12,Delhi,Saket,The Spice Route,Dal Makhani,180,106,Cloudy
+2024-06-23,Delhi,Karol Bagh,The Spice Route,North Indian Thali,200,131,Sunny
+2024-03-03,Delhi,Hauz Khas,The Spice Route,Dal Makhani,180,77,Cloudy
+2024-01-26,Delhi,Saket,Flavors of Delhi,North Indian Thali,200,144,Rainy
+2024-05-21,Delhi,Karol Bagh,Haldiram's,North Indian Thali,200,77,Sunny
+2024-01-01,Delhi,Vasant Kunj,Delhi Darbar,Butter Naan,40,103,Cool
+2024-05-26,Delhi,Hauz Khas,Zaika-e-Dilli,Amritsari Kulcha,160,71,Rainy
+2024-04-22,Delhi,Chandni Chowk,Delhi Darbar,Chicken Biryani,250,105,Sunny
+2024-05-13,Delhi,Rohini,Zaika-e-Dilli,Butter Naan,40,145,Cool
+2024-06-20,Delhi,Dwarka,Zaika-e-Dilli,Dal Makhani,180,66,Sunny
+2024-05-28,Delhi,Karol Bagh,Biryani Blues,Paneer Butter Masala,220,119,Rainy
+2024-05-18,Delhi,Dwarka,Haldiram's,Aloo Tikki,80,105,Sunny
+2024-01-14,Delhi,Rohini,Delhi Darbar,Paneer Butter Masala,220,137,Humid
+2024-02-21,Delhi,Rohini,Flavors of Delhi,Chole Bhature,120,110,Cool
+2024-03-18,Delhi,Saket,Punjab Grill,Aloo Tikki,80,33,Cool
+2024-06-05,Delhi,Rohini,Biryani Blues,Paneer Butter Masala,220,30,Cool
+2024-03-16,Delhi,Lajpat Nagar,Biryani Blues,Chole Bhature,120,114,Sunny
+2024-04-02,Delhi,Saket,Haldiram's,Momos,100,134,Humid
+2024-04-17,Delhi,Hauz Khas,Punjab Grill,Amritsari Kulcha,160,130,Sunny
+2024-01-29,Delhi,Saket,Local Zaika,Butter Naan,40,144,Rainy
+2024-04-06,Delhi,Vasant Kunj,Flavors of Delhi,Dal Makhani,180,63,Cool
+2024-04-16,Delhi,Connaught Place,Biryani Blues,North Indian Thali,200,116,Cool
+2024-06-02,Delhi,Hauz Khas,The Spice Route,Amritsari Kulcha,160,73,Rainy
+2024-03-04,Delhi,Saket,Delhi Darbar,Chicken Biryani,250,43,Cloudy
+2024-03-07,Delhi,Lajpat Nagar,Flavors of Delhi,Amritsari Kulcha,160,53,Cloudy
+2024-03-25,Delhi,Rohini,Biryani Blues,Amritsari Kulcha,160,105,Cool
+2024-06-11,Delhi,Hauz Khas,Flavors of Delhi,Amritsari Kulcha,160,139,Sunny
+2024-01-03,Delhi,Hauz Khas,Haldiram's,Chole Bhature,120,148,Sunny
+2024-01-21,Delhi,Connaught Place,Zaika-e-Dilli,Momos,100,132,Humid
+2024-03-10,Delhi,Vasant Kunj,Local Zaika,Momos,100,33,Cloudy
+2024-04-24,Delhi,Rohini,Haldiram's,Paneer Butter Masala,220,147,Cool
+2024-04-13,Delhi,Saket,Haldiram's,Momos,100,108,Sunny
+2024-05-25,Delhi,Connaught Place,The Spice Route,Momos,100,72,Cloudy
+2024-06-01,Delhi,Dwarka,Punjab Grill,Momos,100,69,Cool
+2024-06-09,Delhi,Janakpuri,Biryani Blues,Chicken Biryani,250,142,Sunny
+2024-04-01,Delhi,Rohini,Zaika-e-Dilli,Butter Naan,40,86,Humid
+2024-03-16,Delhi,Vasant Kunj,Local Zaika,Chole Bhature,120,29,Cool
+2024-05-09,Delhi,Rohini,Local Zaika,Amritsari Kulcha,160,45,Humid
+2024-05-07,Delhi,Janakpuri,Zaika-e-Dilli,Aloo Tikki,80,123,Cool
+2024-04-06,Delhi,Chandni Chowk,Haldiram's,Rajma Chawal,140,114,Cool
+2024-06-10,Delhi,Karol Bagh,Flavors of Delhi,Paneer Butter Masala,220,132,Rainy
+2024-02-07,Delhi,Saket,Biryani Blues,Aloo Tikki,80,37,Cool
+2024-04-13,Delhi,Janakpuri,Local Zaika,Momos,100,79,Cloudy
+2024-02-25,Delhi,Janakpuri,Flavors of Delhi,Paneer Butter Masala,220,144,Cloudy
+2024-04-28,Delhi,Karol Bagh,Punjab Grill,Dal Makhani,180,109,Cloudy
+2024-05-06,Delhi,Hauz Khas,Zaika-e-Dilli,Momos,100,99,Sunny
+2024-03-06,Delhi,Dwarka,Delhi Darbar,Momos,100,73,Humid
+2024-05-06,Delhi,Connaught Place,Biryani Blues,Rajma Chawal,140,11,Sunny
+2024-03-09,Delhi,Vasant Kunj,Flavors of Delhi,Butter Naan,40,90,Sunny
+2024-02-26,Delhi,Janakpuri,Zaika-e-Dilli,Paneer Butter Masala,220,131,Cloudy
+2024-01-28,Delhi,Hauz Khas,Delhi Darbar,Aloo Tikki,80,51,Rainy
+2024-03-30,Delhi,Janakpuri,Zaika-e-Dilli,Momos,100,33,Cool
+2024-06-18,Delhi,Janakpuri,Punjab Grill,Momos,100,11,Cloudy
+2024-02-19,Delhi,Connaught Place,Haldiram's,Dal Makhani,180,54,Rainy
+2024-01-02,Delhi,Janakpuri,The Spice Route,Aloo Tikki,80,136,Cloudy
+2024-05-23,Delhi,Janakpuri,Delhi Darbar,Chicken Biryani,250,85,Cool
+2024-03-07,Delhi,Karol Bagh,Zaika-e-Dilli,Aloo Tikki,80,21,Humid
+2024-06-06,Delhi,Saket,The Spice Route,North Indian Thali,200,27,Cloudy
+2024-05-08,Delhi,Saket,Flavors of Delhi,Chicken Biryani,250,45,Cool
+2024-05-28,Delhi,Chandni Chowk,Zaika-e-Dilli,Paneer Butter Masala,220,117,Cloudy
+2024-03-10,Delhi,Karol Bagh,Flavors of Delhi,Butter Naan,40,115,Cool
+2024-01-17,Delhi,Janakpuri,Delhi Darbar,Butter Naan,40,85,Sunny
+2024-02-08,Delhi,Saket,The Spice Route,Paneer Butter Masala,220,150,Cool
+2024-01-19,Delhi,Janakpuri,Punjab Grill,Rajma Chawal,140,42,Sunny
+2024-03-16,Delhi,Janakpuri,The Spice Route,Chicken Biryani,250,24,Sunny
+2024-04-15,Delhi,Vasant Kunj,Zaika-e-Dilli,Paneer Butter Masala,220,147,Cool
+2024-03-28,Delhi,Vasant Kunj,Biryani Blues,Amritsari Kulcha,160,72,Cloudy
+2024-01-31,Delhi,Dwarka,Flavors of Delhi,Paneer Butter Masala,220,143,Cool
+2024-06-25,Delhi,Chandni Chowk,Haldiram's,Butter Naan,40,44,Rainy
+2024-02-26,Delhi,Hauz Khas,Zaika-e-Dilli,Dal Makhani,180,38,Cool
